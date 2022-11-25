@@ -1,0 +1,55 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="TV1" tvg-logo="https://i.imgur.com/u9uPPgo.jpg",TV1 (HD)
+http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV2" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/01/RTM-TV-2-300x163.jpg",TV2 (HD)
+http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",TV3 (HD)
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV9" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png",TV9
+http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/303748184.png", TV Alhijrah
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+
+#EXTINF:-1,BT Sport 1A
+http://212.224.98.208:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=RED
+
+#EXTINF:-1,BT Sport 1B
+http://212.224.98.208:2200/EX/BT_Sport_1_HD-uk/tracks-v1a1/mono.m3u8?token=RED
+
+#EXTINF:-1,BT Sport 1C
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF: -1 tvg-id="AstroSuperSport4HD" tvg-name="ASSP4_B" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png",Astro Supersport 4A
+http://foctv.xyz:25510/@alaqib/C9vOtBPfQ2/151
+
+#EXTINF: -1 tvg-id="AstroSuperSport4HD" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png",Astro Supersport 4B
+http://iptv.tvmalaysia.cc:80/737373/737373/6712
+
+#EXTINF: -1 tvg-id="AstroSuperSport4HD" tvg-name="ASSP4_B" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png",Astro Supersport 4C
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
+
+#EXTINF: -1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png", WWE Network
+http://gooserace.xyz:2052/billy/billy/2605688
+
+#EXTINF: -1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://linear-poster.astro.com.my/prod/logo/WWE_v1.png", WWE Network
+http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
+
+#EXTINF:-1,MBC Action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+
+#EXTINF:-1,Impact Wrestling
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/AEW_Logo_(simplified).svg/1200px-AEW_Logo_(simplified).svg.png" , ALL ELITE WRESTLING 1
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff30db0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bea8e3-f5b3-42e7-a4e7-081bf207b1bc&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wpm5jV3h/AAA.png" , LUCHA LIBRE AAA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/154876f2-ed78-4a1e-959d-96aab12af9cd-small3x1_STIRR_Logo_0720_ROHBestofthePlanet_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c",Ring of Honor (STIRR) (720p)
+https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
