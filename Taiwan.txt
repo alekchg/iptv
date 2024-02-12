@@ -1,0 +1,197 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦    TAIWAN  ✦●✦" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",✦●✦    TAIWAN  ✦●✦
+http://startv365.com:80/9794783213/6955630461/185821
+#EXTINF:-1 tvg-id="" tvg-name="TW| 亚洲美食台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 亚洲美食台 HD
+http://startv365.com:80/9794783213/6955630461/5566
+#EXTINF:-1 tvg-id="" tvg-name="TW| 亚洲旅游台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 亚洲旅游台 HD
+http://startv365.com:80/9794783213/6955630461/5565
+#EXTINF:-1 tvg-id="" tvg-name="TW| 八大戏剧 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 八大戏剧 HD
+http://startv365.com:80/9794783213/6955630461/5564
+#EXTINF:-1 tvg-id="" tvg-name="TW| 八大娱乐 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 八大娱乐 HD
+http://startv365.com:80/9794783213/6955630461/5563
+#EXTINF:-1 tvg-id="" tvg-name="TW| 八大第一 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 八大第一 HD
+http://startv365.com:80/9794783213/6955630461/5562
+#EXTINF:-1 tvg-id="" tvg-name="TW| 八大综合 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 八大综合 HD
+http://startv365.com:80/9794783213/6955630461/5561
+#EXTINF:-1 tvg-id="" tvg-name="TW| 博斯高球1台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 博斯高球1台 HD
+http://startv365.com:80/9794783213/6955630461/5560
+#EXTINF:-1 tvg-id="" tvg-name="TW| 博斯高球2台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 博斯高球2台 HD
+http://startv365.com:80/9794783213/6955630461/5559
+#EXTINF:-1 tvg-id="" tvg-name="TW| 博斯体育1台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 博斯体育1台 HD
+http://startv365.com:80/9794783213/6955630461/5558
+#EXTINF:-1 tvg-id="" tvg-name="TW| 博斯体育2台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 博斯体育2台 HD
+http://startv365.com:80/9794783213/6955630461/5557
+#EXTINF:-1 tvg-id="" tvg-name="TW| 中天亚洲台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 中天亚洲台 HD
+http://startv365.com:80/9794783213/6955630461/5555
+#EXTINF:-1 tvg-id="" tvg-name="TW| 中天娱乐 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 中天娱乐 HD
+http://startv365.com:80/9794783213/6955630461/5554
+#EXTINF:-1 tvg-id="" tvg-name="TW| 中天综合 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 中天综合 HD
+http://startv365.com:80/9794783213/6955630461/5552
+#EXTINF:-1 tvg-id="" tvg-name="TW| 华视 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 华视 HD
+http://startv365.com:80/9794783213/6955630461/5551
+#EXTINF:-1 tvg-id="" tvg-name="TW| 公视1台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 公视1台 HD
+http://startv365.com:80/9794783213/6955630461/5550
+#EXTINF:-1 tvg-id="" tvg-name="TW| 公视2台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 公视2台 HD
+http://startv365.com:80/9794783213/6955630461/5549
+#EXTINF:-1 tvg-id="" tvg-name="TW| 大爱2台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 大爱2台 HD
+http://startv365.com:80/9794783213/6955630461/5548
+#EXTINF:-1 tvg-id="" tvg-name="TW| 大爱1台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 大爱1台 HD
+http://startv365.com:80/9794783213/6955630461/5547
+#EXTINF:-1 tvg-id="" tvg-name="TW| 爱尔达戏剧 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 爱尔达戏剧 HD
+http://startv365.com:80/9794783213/6955630461/5546
+#EXTINF:-1 tvg-id="" tvg-name="TW| 爱尔达体育2台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 爱尔达体育2台 HD
+http://startv365.com:80/9794783213/6955630461/5545
+#EXTINF:-1 tvg-id="" tvg-name="TW| 爱尔达体育3台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 爱尔达体育3台 HD
+http://startv365.com:80/9794783213/6955630461/5544
+#EXTINF:-1 tvg-id="" tvg-name="TW| 爱尔达影剧 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 爱尔达影剧 HD
+http://startv365.com:80/9794783213/6955630461/5542
+#EXTINF:-1 tvg-id="" tvg-name="TW| 爱尔达综合 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 爱尔达综合 HD
+http://startv365.com:80/9794783213/6955630461/5541
+#EXTINF:-1 tvg-id="" tvg-name="TW| 东森亚洲 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 东森亚洲 HD
+http://startv365.com:80/9794783213/6955630461/5540
+#EXTINF:-1 tvg-id="" tvg-name="TW| 东森财经 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 东森财经 HD
+http://startv365.com:80/9794783213/6955630461/5539
+#EXTINF:-1 tvg-id="" tvg-name="TW| 东森戏剧 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 东森戏剧 HD
+http://startv365.com:80/9794783213/6955630461/5538
+#EXTINF:-1 tvg-id="" tvg-name="TW| 东森电影 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 东森电影 HD
+http://startv365.com:80/9794783213/6955630461/5537
+#EXTINF:-1 tvg-id="" tvg-name="TW| 东森新闻 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 东森新闻 HD
+http://startv365.com:80/9794783213/6955630461/5536
+#EXTINF:-1 tvg-id="" tvg-name="TW| 东森洋片 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 东森洋片 HD
+http://startv365.com:80/9794783213/6955630461/5534
+#EXTINF:-1 tvg-id="" tvg-name="TW| 壹电视旅游台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 壹电视旅游台 HD
+http://startv365.com:80/9794783213/6955630461/5533
+#EXTINF:-1 tvg-id="" tvg-name="TW| 壹电视新闻台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 壹电视新闻台 HD
+http://startv365.com:80/9794783213/6955630461/5532
+#EXTINF:-1 tvg-id="" tvg-name="TW| 非凡新闻 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 非凡新闻 HD
+http://startv365.com:80/9794783213/6955630461/5531
+#EXTINF:-1 tvg-id="" tvg-name="TW| 民视高清台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 民视高清台 HD
+http://startv365.com:80/9794783213/6955630461/5530
+#EXTINF:-1 tvg-id="" tvg-name="TW| 民视新闻台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 民视新闻台 HD
+http://startv365.com:80/9794783213/6955630461/5529
+#EXTINF:-1 tvg-id="" tvg-name="TW| 民视台湾台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 民视台湾台 HD
+http://startv365.com:80/9794783213/6955630461/5528
+#EXTINF:-1 tvg-id="" tvg-name="TW| 好电视2台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 好电视2台 HD
+http://startv365.com:80/9794783213/6955630461/5527
+#EXTINF:-1 tvg-id="" tvg-name="TW| 好莱坞电影 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 好莱坞电影 HD
+http://startv365.com:80/9794783213/6955630461/5526
+#EXTINF:-1 tvg-id="" tvg-name="TW| 寰宇财经 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 寰宇财经 HD
+http://startv365.com:80/9794783213/6955630461/5525
+#EXTINF:-1 tvg-id="" tvg-name="TW| JET TV HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| JET TV HD
+http://startv365.com:80/9794783213/6955630461/5522
+#EXTINF:-1 tvg-id="" tvg-name="TW| Arirang HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| Arirang HD
+http://startv365.com:80/9794783213/6955630461/5521
+#EXTINF:-1 tvg-id="" tvg-name="TW| 龙华偶像 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 龙华偶像 HD
+http://startv365.com:80/9794783213/6955630461/5518
+#EXTINF:-1 tvg-id="" tvg-name="TW| 龙华电影 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 龙华电影 HD
+http://startv365.com:80/9794783213/6955630461/5516
+#EXTINF:-1 tvg-id="" tvg-name="TW| 龙华洋片 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 龙华洋片 HD
+http://startv365.com:80/9794783213/6955630461/5515
+#EXTINF:-1 tvg-id="" tvg-name="TW| 龙华戏剧 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 龙华戏剧 HD
+http://startv365.com:80/9794783213/6955630461/5514
+#EXTINF:-1 tvg-id="" tvg-name="TW| 龙祥时代 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 龙祥时代 HD
+http://startv365.com:80/9794783213/6955630461/5513
+#EXTINF:-1 tvg-id="" tvg-name="TW| 美亚电影 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 美亚电影 HD
+http://startv365.com:80/9794783213/6955630461/5511
+#EXTINF:-1 tvg-id="" tvg-name="TW| 东森MOMO HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 东森MOMO HD
+http://startv365.com:80/9794783213/6955630461/5510
+#EXTINF:-1 tvg-id="" tvg-name="TW| 年代新闻 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 年代新闻 HD
+http://startv365.com:80/9794783213/6955630461/5509
+#EXTINF:-1 tvg-id="" tvg-name="TW| 年代电视 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 年代电视 HD
+http://startv365.com:80/9794783213/6955630461/5508
+#EXTINF:-1 tvg-id="" tvg-name="TW| 壹电视 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 壹电视 HD
+http://startv365.com:80/9794783213/6955630461/5507
+#EXTINF:-1 tvg-id="" tvg-name="TW| 三立都会 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 三立都会 HD
+http://startv365.com:80/9794783213/6955630461/5506
+#EXTINF:-1 tvg-id="" tvg-name="TW| 三立台湾 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 三立台湾 HD
+http://startv365.com:80/9794783213/6955630461/5505
+#EXTINF:-1 tvg-id="" tvg-name="TW| 三立戏剧 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 三立戏剧 HD
+http://startv365.com:80/9794783213/6955630461/5504
+#EXTINF:-1 tvg-id="" tvg-name="TW| 三立综合 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 三立综合 HD
+http://startv365.com:80/9794783213/6955630461/5503
+#EXTINF:-1 tvg-id="" tvg-name="TW| 台视台湾台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 台视台湾台 HD
+http://startv365.com:80/9794783213/6955630461/5502
+#EXTINF:-1 tvg-id="" tvg-name="TW| 台视新闻台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 台视新闻台 HD
+http://startv365.com:80/9794783213/6955630461/5501
+#EXTINF:-1 tvg-id="" tvg-name="TW| 台视综合台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 台视综合台 HD
+http://startv365.com:80/9794783213/6955630461/5500
+#EXTINF:-1 tvg-id="" tvg-name="TW| TVBS N HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| TVBS N HD
+http://startv365.com:80/9794783213/6955630461/5499
+#EXTINF:-1 tvg-id="" tvg-name="TW| TVBS G HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| TVBS G HD
+http://startv365.com:80/9794783213/6955630461/5498
+#EXTINF:-1 tvg-id="" tvg-name="TW| TVBS欢乐台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| TVBS欢乐台 HD
+http://startv365.com:80/9794783213/6955630461/5497
+#EXTINF:-1 tvg-id="" tvg-name="TW| TVBS HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| TVBS HD
+http://startv365.com:80/9794783213/6955630461/5496
+#EXTINF:-1 tvg-id="" tvg-name="TW| 纬来日本 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 纬来日本 HD
+http://startv365.com:80/9794783213/6955630461/5495
+#EXTINF:-1 tvg-id="" tvg-name="TW| 纬来精彩 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 纬来精彩 HD
+http://startv365.com:80/9794783213/6955630461/5494
+#EXTINF:-1 tvg-id="" tvg-name="TW| 纬来体育 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 纬来体育 HD
+http://startv365.com:80/9794783213/6955630461/5492
+#EXTINF:-1 tvg-id="" tvg-name="TW| 卫视中文台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 卫视中文台 HD
+http://startv365.com:80/9794783213/6955630461/5489
+#EXTINF:-1 tvg-id="" tvg-name="TW| 星卫电影 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 星卫电影 HD
+http://startv365.com:80/9794783213/6955630461/5488
+#EXTINF:-1 tvg-id="" tvg-name="TW| 星卫娱乐 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 星卫娱乐 HD
+http://startv365.com:80/9794783213/6955630461/5487
+#EXTINF:-1 tvg-id="" tvg-name="TW| 中视 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 中视 HD
+http://startv365.com:80/9794783213/6955630461/5486
+#EXTINF:-1 tvg-id="" tvg-name="TW| 中视高清 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 中视高清 HD
+http://startv365.com:80/9794783213/6955630461/5485
+#EXTINF:-1 tvg-id="" tvg-name="TW| 中视新闻台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 中视新闻台 HD
+http://startv365.com:80/9794783213/6955630461/5484
+#EXTINF:-1 tvg-id="" tvg-name="TW| 纬来综合 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 纬来综合 HD
+http://startv365.com:80/9794783213/6955630461/5490
+#EXTINF:-1 tvg-id="" tvg-name="TW| 纬来电视· HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 纬来电视· HD
+http://startv365.com:80/9794783213/6955630461/5491
+#EXTINF:-1 tvg-id="" tvg-name="TW| 纬来电影 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 纬来电影 HD
+http://startv365.com:80/9794783213/6955630461/5493
+#EXTINF:-1 tvg-id="" tvg-name="TW| 漫迪日本 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 漫迪日本 HD
+http://startv365.com:80/9794783213/6955630461/5512
+#EXTINF:-1 tvg-id="" tvg-name="TW| 龙华经典 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 龙华经典 HD
+http://startv365.com:80/9794783213/6955630461/5517
+#EXTINF:-1 tvg-id="" tvg-name="TW| 靖天国际 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 靖天国际 HD
+http://startv365.com:80/9794783213/6955630461/5519
+#EXTINF:-1 tvg-id="" tvg-name="TW| 靖天咨询 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 靖天咨询 HD
+http://startv365.com:80/9794783213/6955630461/5520
+#EXTINF:-1 tvg-id="" tvg-name="TW| 寰宇新闻 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 寰宇新闻 HD
+http://startv365.com:80/9794783213/6955630461/5523
+#EXTINF:-1 tvg-id="" tvg-name="TW| 寰宇台湾 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 寰宇台湾 HD
+http://startv365.com:80/9794783213/6955630461/5524
+#EXTINF:-1 tvg-id="" tvg-name="TW| 东森超视 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 东森超视 HD
+http://startv365.com:80/9794783213/6955630461/5535
+#EXTINF:-1 tvg-id="" tvg-name="TW| 爱尔达体育台 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 爱尔达体育台 HD
+http://startv365.com:80/9794783213/6955630461/5543
+#EXTINF:-1 tvg-id="" tvg-name="TW| 中天新闻 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 中天新闻 HD
+http://startv365.com:80/9794783213/6955630461/5553
+#EXTINF:-1 tvg-id="" tvg-name="TW| 博斯网球 HD" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| 博斯网球 HD
+http://startv365.com:80/9794783213/6955630461/5556
+#EXTINF:-1 tvg-id="" tvg-name="TW| YOYO TV" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| YOYO TV
+http://startv365.com:80/9794783213/6955630461/473533
+#EXTINF:-1 tvg-id="" tvg-name="TW| ICITI" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| ICITI
+http://startv365.com:80/9794783213/6955630461/473534
+#EXTINF:-1 tvg-id="" tvg-name="TW| SKYLINK TELEVISION 2" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| SKYLINK TELEVISION 2
+http://startv365.com:80/9794783213/6955630461/473535
+#EXTINF:-1 tvg-id="" tvg-name="TW| SKYLINK TELEVISION" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| SKYLINK TELEVISION
+http://startv365.com:80/9794783213/6955630461/473536
+#EXTINF:-1 tvg-id="" tvg-name="TW| USTV" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| USTV
+http://startv365.com:80/9794783213/6955630461/473537
+#EXTINF:-1 tvg-id="" tvg-name="TW| ET NEWS" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| ET NEWS
+http://startv365.com:80/9794783213/6955630461/473538
+#EXTINF:-1 tvg-id="" tvg-name="TW| ET FINANCIAL NEWS" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| ET FINANCIAL NEWS
+http://startv365.com:80/9794783213/6955630461/473539
+#EXTINF:-1 tvg-id="" tvg-name="TW| ET DRAMA" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| ET DRAMA
+http://startv365.com:80/9794783213/6955630461/473540
+#EXTINF:-1 tvg-id="" tvg-name="TW| ET GLOBAL" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| ET GLOBAL
+http://startv365.com:80/9794783213/6955630461/473541
+#EXTINF:-1 tvg-id="" tvg-name="TW| ET CHINA" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| ET CHINA
+http://startv365.com:80/9794783213/6955630461/473542
+#EXTINF:-1 tvg-id="" tvg-name="TW| TTV" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| TTV
+http://startv365.com:80/9794783213/6955630461/473543
+#EXTINF:-1 tvg-id="" tvg-name="TW| CTS AMERICA" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| CTS AMERICA
+http://startv365.com:80/9794783213/6955630461/473544
+#EXTINF:-1 tvg-id="" tvg-name="TW| SETI" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| SETI
+http://startv365.com:80/9794783213/6955630461/473545
+#EXTINF:-1 tvg-id="" tvg-name="TW| FORMOSA TV" tvg-logo="https://lo1.in/tai/taiwan.png" group-title="AS | TAIWAN",TW| FORMOSA TV
+http://startv365.com:80/9794783213/6955630461/473546
