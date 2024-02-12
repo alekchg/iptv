@@ -1,0 +1,1305 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦NEWS✦●✦ " tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA GENERAL",✦●✦NEWS✦●✦ 
+http://startv365.com:80/9794783213/6955630461/176085
+#EXTINF:-1 tvg-id="cp24.ca" tvg-name="CA| CP24 NEWS HD" tvg-logo="https://lo1.in/ca/cp24ns.png" group-title="AM | CANADA GENERAL",CA| CP24 NEWS HD
+http://startv365.com:80/9794783213/6955630461/176094
+#EXTINF:-1 tvg-id="cpacottawaen.ca" tvg-name="CA| CPAC HD" tvg-logo="https://lo1.in/ca/cpac.png" group-title="AM | CANADA GENERAL",CA| CPAC HD
+http://startv365.com:80/9794783213/6955630461/176129
+#EXTINF:-1 tvg-id="cnn.ca" tvg-name="CA| CNN HD" tvg-logo="https://lo1.in/ca/cnn.png" group-title="AM | CANADA GENERAL",CA| CNN HD
+http://startv365.com:80/9794783213/6955630461/176095
+#EXTINF:-1 tvg-id="cbcnews.ca" tvg-name="CA| CBC NEWS NETWORK HD" tvg-logo="https://lo1.in/ca/cbcwindsr.png" group-title="AM | CANADA GENERAL",CA| CBC NEWS NETWORK HD
+http://startv365.com:80/9794783213/6955630461/176093
+#EXTINF:-1 tvg-id="ctvnews.ca" tvg-name="CA| CTV NEWS CHANNEL HD" tvg-logo="https://lo1.in/ca/ctvnsch.png" group-title="AM | CANADA GENERAL",CA| CTV NEWS CHANNEL HD
+http://startv365.com:80/9794783213/6955630461/176090
+#EXTINF:-1 tvg-id="ctvtoronto.ca" tvg-name="CA| CTV TORONTO HD" tvg-logo="https://lo1.in/ca/ctvtor.png" group-title="AM | CANADA GENERAL",CA| CTV TORONTO HD
+http://startv365.com:80/9794783213/6955630461/175999
+#EXTINF:-1 tvg-id="" tvg-name="CA| FOX NEWS NETWORK HD" tvg-logo="https://lo1.in/ca/fxnsnw.png" group-title="AM | CANADA GENERAL",CA| FOX NEWS NETWORK HD
+http://startv365.com:80/9794783213/6955630461/176092
+#EXTINF:-1 tvg-id="" tvg-name="CA| FOX BUSINESS NETWORK HD" tvg-logo="https://lo1.in/ca/fxbnw.png" group-title="AM | CANADA GENERAL",CA| FOX BUSINESS NETWORK HD
+http://startv365.com:80/9794783213/6955630461/259071
+#EXTINF:-1 tvg-id="cnninternationalna.ca" tvg-name="CA| CNN INTERNATIONAL HD" tvg-logo="https://lo1.in/ca/cnninter.png" group-title="AM | CANADA GENERAL",CA| CNN INTERNATIONAL HD
+http://startv365.com:80/9794783213/6955630461/259073
+#EXTINF:-1 tvg-id="wnetwork.ca" tvg-name="CA| W NETWORK EAST HD" tvg-logo="https://lo1.in/ca/wnw.png" group-title="AM | CANADA GENERAL",CA| W NETWORK EAST HD
+http://startv365.com:80/9794783213/6955630461/175778
+#EXTINF:-1 tvg-id="" tvg-name="CA| GSN HD" tvg-logo="https://lo1.in/ca/gsn.png" group-title="AM | CANADA GENERAL",CA| GSN HD
+http://startv365.com:80/9794783213/6955630461/242935
+#EXTINF:-1 tvg-id="" tvg-name="CA| CNBC HD" tvg-logo="https://lo1.in/ca/cnbc.png" group-title="AM | CANADA GENERAL",CA| CNBC HD
+http://startv365.com:80/9794783213/6955630461/176088
+#EXTINF:-1 tvg-id="bnn.ca" tvg-name="CA| BNN BLOOMBERG HD" tvg-logo="https://lo1.in/ca/bnnblmbrg.png" group-title="AM | CANADA GENERAL",CA| BNN BLOOMBERG HD
+http://startv365.com:80/9794783213/6955630461/154160
+#EXTINF:-1 tvg-id="" tvg-name="CA| AL JAZEERA ENGLISH HD" tvg-logo="https://lo1.in/ca/jazeraen.png" group-title="AM | CANADA GENERAL",CA| AL JAZEERA ENGLISH HD
+http://startv365.com:80/9794783213/6955630461/176106
+#EXTINF:-1 tvg-id="bbcearth.ca" tvg-name="CA| BBC EARTH" tvg-logo="https://lo1.in/ca/bbcert.png" group-title="AM | CANADA GENERAL",CA| BBC EARTH
+http://startv365.com:80/9794783213/6955630461/259070
+#EXTINF:-1 tvg-id="" tvg-name="CA| BBC TORONTO GAUNDA PUNJAB" tvg-logo="https://lo1.in/ca/bbctrntogp.png" group-title="AM | CANADA GENERAL",CA| BBC TORONTO GAUNDA PUNJAB
+http://startv365.com:80/9794783213/6955630461/176096
+#EXTINF:-1 tvg-id="bbcworld.ca" tvg-name="CA| BBC WORLD HD" tvg-logo="https://lo1.in/ca/bbcwrld.png" group-title="AM | CANADA GENERAL",CA| BBC WORLD HD
+http://startv365.com:80/9794783213/6955630461/259074
+#EXTINF:-1 tvg-id="bbcworld.ca" tvg-name="CA| BBC WORLD NEWS HD" tvg-logo="https://lo1.in/ca/bbcwrldns.png" group-title="AM | CANADA GENERAL",CA| BBC WORLD NEWS HD
+http://startv365.com:80/9794783213/6955630461/154311
+#EXTINF:-1 tvg-id="" tvg-name="CA| EURONEWS HD" tvg-logo="https://lo1.in/ca/eurns.png" group-title="AM | CANADA GENERAL",CA| EURONEWS HD
+http://startv365.com:80/9794783213/6955630461/259072
+#EXTINF:-1 tvg-id="citytvtoronto.ca" tvg-name="CA| CITY TORONTO HD" tvg-logo="https://lo1.in/ca/citytvtor.png" group-title="AM | CANADA GENERAL",CA| CITY TORONTO HD
+http://startv365.com:80/9794783213/6955630461/176000
+#EXTINF:-1 tvg-id="" tvg-name="CA| MSNBC HD" tvg-logo="https://lo1.in/ca/msnbc.png" group-title="AM | CANADA GENERAL",CA| MSNBC HD
+http://startv365.com:80/9794783213/6955630461/362325
+#EXTINF:-1 tvg-id="" tvg-name="CA| THE NEWS FORUM HD" tvg-logo="https://lo1.in/ca/nsform.png" group-title="AM | CANADA GENERAL",CA| THE NEWS FORUM HD
+http://startv365.com:80/9794783213/6955630461/176121
+#EXTINF:-1 tvg-id="omni1.ca" tvg-name="CA| OMNI 1  HD" tvg-logo="https://lo1.in/ca/omni1.png" group-title="AM | CANADA GENERAL",CA| OMNI 1  HD
+http://startv365.com:80/9794783213/6955630461/176083
+#EXTINF:-1 tvg-id="omni2.ca" tvg-name="CA| OMNI 2  HD" tvg-logo="https://lo1.in/ca/omni2.png" group-title="AM | CANADA GENERAL",CA| OMNI 2  HD
+http://startv365.com:80/9794783213/6955630461/176082
+#EXTINF:-1 tvg-id="omnicalgary.ca" tvg-name="CA| OMNI BC HD" tvg-logo="https://lo1.in/ca/omnibc.png" group-title="AM | CANADA GENERAL",CA| OMNI BC HD
+http://startv365.com:80/9794783213/6955630461/259046
+#EXTINF:-1 tvg-id="" tvg-name="CA| RT NEWS HD" tvg-logo="https://lo1.in/ca/rtnw.png" group-title="AM | CANADA GENERAL",CA| RT NEWS HD
+http://startv365.com:80/9794783213/6955630461/259075
+#EXTINF:-1 tvg-id="theweathernetwork.ca" tvg-name="CA| THE WEATHER NETWORK  HD" tvg-logo="https://lo1.in/ca/wnw.png" group-title="AM | CANADA GENERAL",CA| THE WEATHER NETWORK  HD
+http://startv365.com:80/9794783213/6955630461/176086
+#EXTINF:-1 tvg-id="" tvg-name="CA| CITY NEWS TORONTO ON" tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA GENERAL",CA| CITY NEWS TORONTO ON
+http://startv365.com:80/9794783213/6955630461/8463
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦GENERAL✦●✦ ." tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA GENERAL",✦●✦GENERAL✦●✦ .
+http://startv365.com:80/9794783213/6955630461/176109
+#EXTINF:-1 tvg-id="" tvg-name="CA| LEGISLATIVE ASSEMBLY OF NEW BRUNSWICK" tvg-logo="https://lo1.in/ca/llsemnbsw.png" group-title="AM | CANADA GENERAL",CA| LEGISLATIVE ASSEMBLY OF NEW BRUNSWICK
+http://startv365.com:80/9794783213/6955630461/259043
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS TV GREY COUNTY HD" tvg-logo="https://lo1.in/ca/rogrtvgc.png" group-title="AM | CANADA GENERAL",CA| ROGERS TV GREY COUNTY HD
+http://startv365.com:80/9794783213/6955630461/259045
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS TV  " tvg-logo="https://lo1.in/ca/roger.png" group-title="AM | CANADA GENERAL",CA| ROGERS TV  
+http://startv365.com:80/9794783213/6955630461/176069
+#EXTINF:-1 tvg-id="" tvg-name="CA| BRAVO HD" tvg-logo="https://lo1.in/ca/brv.png" group-title="AM | CANADA GENERAL",CA| BRAVO HD
+http://startv365.com:80/9794783213/6955630461/154162
+#EXTINF:-1 tvg-id="yestv.ca" tvg-name="CA| YES TV HD" tvg-logo="https://lo1.in/ca/yestv.png" group-title="AM | CANADA GENERAL",CA| YES TV HD
+http://startv365.com:80/9794783213/6955630461/176067
+#EXTINF:-1 tvg-id="" tvg-name="CA| BIG TEN HD" tvg-logo="https://lo1.in/ca/bigten.png" group-title="AM | CANADA GENERAL",CA| BIG TEN HD
+http://startv365.com:80/9794783213/6955630461/259050
+#EXTINF:-1 tvg-id="" tvg-name="CA| GUSTO" tvg-logo="https://lo1.in/ca/gsto.png" group-title="AM | CANADA GENERAL",CA| GUSTO
+http://startv365.com:80/9794783213/6955630461/242944
+#EXTINF:-1 tvg-id="" tvg-name="CA| MAV TV FHD" tvg-logo="https://lo1.in/ca/mav.png" group-title="AM | CANADA GENERAL",CA| MAV TV FHD
+http://startv365.com:80/9794783213/6955630461/242948
+#EXTINF:-1 tvg-id="wnetwork.ca" tvg-name="CA| W NETWORK WEST HD" tvg-logo="https://lo1.in/ca/wnww.png" group-title="AM | CANADA GENERAL",CA| W NETWORK WEST HD
+http://startv365.com:80/9794783213/6955630461/362320
+#EXTINF:-1 tvg-id="" tvg-name="CA| AQUARIUM" tvg-logo="https://lo1.in/ca/aqua.png" group-title="AM | CANADA GENERAL",CA| AQUARIUM
+http://startv365.com:80/9794783213/6955630461/259053
+#EXTINF:-1 tvg-id="" tvg-name="CA| OLN HD" tvg-logo="https://lo1.in/ca/oln.png" group-title="AM | CANADA GENERAL",CA| OLN HD
+http://startv365.com:80/9794783213/6955630461/176084
+#EXTINF:-1 tvg-id="" tvg-name="CA| ETERNAL WORD TELEVISION NETWORK " tvg-logo="https://lo1.in/ca/etewrldtlnw.png" group-title="AM | CANADA GENERAL",CA| ETERNAL WORD TELEVISION NETWORK 
+http://startv365.com:80/9794783213/6955630461/176076
+#EXTINF:-1 tvg-id="" tvg-name="CA| TSC HD" tvg-logo="https://lo1.in/ca/tsc.png" group-title="AM | CANADA GENERAL",CA| TSC HD
+http://startv365.com:80/9794783213/6955630461/242954
+#EXTINF:-1 tvg-id="silverscreenclassics.ca" tvg-name="CA| SCREEN SAVER" tvg-logo="https://lo1.in/ca/scrnsaver.png" group-title="AM | CANADA GENERAL",CA| SCREEN SAVER
+http://startv365.com:80/9794783213/6955630461/259051
+#EXTINF:-1 tvg-id="" tvg-name="CA| FAITH TV HD" tvg-logo="https://lo1.in/ca/faith.png" group-title="AM | CANADA GENERAL",CA| FAITH TV HD
+http://startv365.com:80/9794783213/6955630461/176077
+#EXTINF:-1 tvg-id="saltlighttv.ca" tvg-name="CA| SALT HD" tvg-logo="https://lo1.in/ca/sltplslght.png" group-title="AM | CANADA GENERAL",CA| SALT HD
+http://startv365.com:80/9794783213/6955630461/176147
+#EXTINF:-1 tvg-id="" tvg-name="CA| EWTN HD" tvg-logo="https://lo1.in/ca/ewtn.png" group-title="AM | CANADA GENERAL",CA| EWTN HD
+http://startv365.com:80/9794783213/6955630461/172069
+#EXTINF:-1 tvg-id="vision.ca" tvg-name="CA| VISION HD" tvg-logo="https://lo1.in/ca/vision.png" group-title="AM | CANADA GENERAL",CA| VISION HD
+http://startv365.com:80/9794783213/6955630461/176068
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAYSTAR TV HD" tvg-logo="https://lo1.in/ca/daystr.png" group-title="AM | CANADA GENERAL",CA| DAYSTAR TV HD
+http://startv365.com:80/9794783213/6955630461/176105
+#EXTINF:-1 tvg-id="" tvg-name="CA| WGN" tvg-logo="" group-title="AM | CANADA GENERAL",CA| WGN
+http://startv365.com:80/9794783213/6955630461/156683
+#EXTINF:-1 tvg-id="" tvg-name="CA| ONE" tvg-logo="" group-title="AM | CANADA GENERAL",CA| ONE
+http://startv365.com:80/9794783213/6955630461/156684
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPACE" tvg-logo="" group-title="AM | CANADA GENERAL",CA| SPACE
+http://startv365.com:80/9794783213/6955630461/156703
+#EXTINF:-1 tvg-id="" tvg-name="CA| PBS EAST" tvg-logo="" group-title="AM | CANADA GENERAL",CA| PBS EAST
+http://startv365.com:80/9794783213/6955630461/156704
+#EXTINF:-1 tvg-id="" tvg-name="CA| MTIME" tvg-logo="" group-title="AM | CANADA GENERAL",CA| MTIME
+http://startv365.com:80/9794783213/6955630461/156707
+#EXTINF:-1 tvg-id="" tvg-name="CA| MIRACLE" tvg-logo="" group-title="AM | CANADA GENERAL",CA| MIRACLE
+http://startv365.com:80/9794783213/6955630461/156708
+#EXTINF:-1 tvg-id="" tvg-name="CA| REV TV" tvg-logo="" group-title="AM | CANADA GENERAL",CA| REV TV
+http://startv365.com:80/9794783213/6955630461/156709
+#EXTINF:-1 tvg-id="" tvg-name="CA| KTLA" tvg-logo="" group-title="AM | CANADA GENERAL",CA| KTLA
+http://startv365.com:80/9794783213/6955630461/156710
+#EXTINF:-1 tvg-id="" tvg-name="CA| HOPE TV" tvg-logo="" group-title="AM | CANADA GENERAL",CA| HOPE TV
+http://startv365.com:80/9794783213/6955630461/156711
+#EXTINF:-1 tvg-id="" tvg-name="CA| FOX WEST" tvg-logo="" group-title="AM | CANADA GENERAL",CA| FOX WEST
+http://startv365.com:80/9794783213/6955630461/156712
+#EXTINF:-1 tvg-id="" tvg-name="CA| FOX EAST" tvg-logo="" group-title="AM | CANADA GENERAL",CA| FOX EAST
+http://startv365.com:80/9794783213/6955630461/156713
+#EXTINF:-1 tvg-id="" tvg-name="CA| FAMILY CHRGD" tvg-logo="" group-title="AM | CANADA GENERAL",CA| FAMILY CHRGD
+http://startv365.com:80/9794783213/6955630461/156714
+#EXTINF:-1 tvg-id="" tvg-name="CA| CW 11" tvg-logo="" group-title="AM | CANADA GENERAL",CA| CW 11
+http://startv365.com:80/9794783213/6955630461/156715
+#EXTINF:-1 tvg-id="" tvg-name="CA| AHC" tvg-logo="" group-title="AM | CANADA GENERAL",CA| AHC
+http://startv365.com:80/9794783213/6955630461/156718
+#EXTINF:-1 tvg-id="" tvg-name="CA| ACTION" tvg-logo="" group-title="AM | CANADA GENERAL",CA| ACTION
+http://startv365.com:80/9794783213/6955630461/156719
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ST-CAM✦●✦" tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA GENERAL",✦●✦ST-CAM✦●✦
+http://startv365.com:80/9794783213/6955630461/400407466
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦GÉNÉRAL✦●✦ " tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA FRANÇAIS",✦●✦GÉNÉRAL✦●✦ 
+http://startv365.com:80/9794783213/6955630461/172053
+#EXTINF:-1 tvg-id="amitv.ca" tvg-name="CA| (FR) AMITV HD" tvg-logo="https://lo1.in/ca/amitv.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) AMITV HD
+http://startv365.com:80/9794783213/6955630461/258929
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) AMI AUDIO HD" tvg-logo="https://lo1.in/ca/amiaud.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) AMI AUDIO HD
+http://startv365.com:80/9794783213/6955630461/258930
+#EXTINF:-1 tvg-id="canalsavoir.ca" tvg-name="CA| (FR) CANAL S HD" tvg-logo="https://lo1.in/ca/cnls.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) CANAL S HD
+http://startv365.com:80/9794783213/6955630461/258931
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ZTÉLÉ HD" tvg-logo="https://lo1.in/ca/ztl.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ZTÉLÉ HD
+http://startv365.com:80/9794783213/6955630461/258936
+#EXTINF:-1 tvg-id="vision.ca" tvg-name="CA| (FR) VISION HD" tvg-logo="https://lo1.in/ca/vision.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) VISION HD
+http://startv365.com:80/9794783213/6955630461/258937
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS SPORTS" tvg-logo="https://lo1.in/ca/rds.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) RDS SPORTS
+http://startv365.com:80/9794783213/6955630461/258938
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO CFTF" tvg-logo="https://lo1.in/ca/novo.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) NOOVO CFTF
+http://startv365.com:80/9794783213/6955630461/258939
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO ABITIBI-TÉMISCAMINGUE (CFVS-TV)" tvg-logo="https://lo1.in/ca/novo.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) NOOVO ABITIBI-TÉMISCAMINGUE (CFVS-TV)
+http://startv365.com:80/9794783213/6955630461/400172373
+#EXTINF:-1 tvg-id="canalsavoir.ca" tvg-name="CA| (FR) CANAL SAVOIR SD" tvg-logo="https://lo1.in/ca/svr.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) CANAL SAVOIR SD
+http://startv365.com:80/9794783213/6955630461/154164
+#EXTINF:-1 tvg-id="cpac.ca" tvg-name="CA| (FR) CPAC FRENCH" tvg-logo="https://lo1.in/ca/caacfr.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) CPAC FRENCH
+http://startv365.com:80/9794783213/6955630461/258940
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) AHC" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) AHC
+http://startv365.com:80/9794783213/6955630461/156685
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) RDS
+http://startv365.com:80/9794783213/6955630461/156686
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) RDS (LQ)  (R)" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) RDS (LQ)  (R)
+http://startv365.com:80/9794783213/6955630461/156687
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) LE CANAL DE L ASSEMBLEE" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) LE CANAL DE L ASSEMBLEE
+http://startv365.com:80/9794783213/6955630461/156690
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) EWTN" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) EWTN
+http://startv365.com:80/9794783213/6955630461/156691
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦LES INFOS✦●✦ " tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA FRANÇAIS",✦●✦LES INFOS✦●✦ 
+http://startv365.com:80/9794783213/6955630461/172070
+#EXTINF:-1 tvg-id="assembleenationale.ca" tvg-name="CA| (FR) L'ASSEMBLEE NATIONALE DU QUEBEC HD " tvg-logo="https://lo1.in/ca/assmbnatqbc.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) L'ASSEMBLEE NATIONALE DU QUEBEC HD 
+http://startv365.com:80/9794783213/6955630461/172055
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR)  EMCI TV HD" tvg-logo="https://lo1.in/ca/emci.png" group-title="AM | CANADA FRANÇAIS",CA| (FR)  EMCI TV HD
+http://startv365.com:80/9794783213/6955630461/172068
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) EURONEWS HD " tvg-logo="https://lo1.in/ca/eurns.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) EURONEWS HD 
+http://startv365.com:80/9794783213/6955630461/172071
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA HULL HD" tvg-logo="https://lo1.in/ca/tvamntreal.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TVA HULL HD
+http://startv365.com:80/9794783213/6955630461/172080
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA QUEBEC CITY HD" tvg-logo="https://lo1.in/ca/tvaq.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TVA QUEBEC CITY HD
+http://startv365.com:80/9794783213/6955630461/172330
+#EXTINF:-1 tvg-id="tv5.ca" tvg-name="CA| (FR) TV5 HD" tvg-logo="https://lo1.in/ca/tv5.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TV5 HD
+http://startv365.com:80/9794783213/6955630461/172085
+#EXTINF:-1 tvg-id="meteomedia.ca" tvg-name="CA| (FR) METEO MEDIA MONTREAL HD" tvg-logo="https://lo1.in/ca/metomed.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) METEO MEDIA MONTREAL HD
+http://startv365.com:80/9794783213/6955630461/172074
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) FRANCE 24 HD" tvg-logo="https://lo1.in/ca/fr24.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) FRANCE 24 HD
+http://startv365.com:80/9794783213/6955630461/172072
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI ARTV HD" tvg-logo="https://lo1.in/ca/iciartv.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI ARTV HD
+http://startv365.com:80/9794783213/6955630461/172393
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE ACADIE HD " tvg-logo="https://lo1.in/ca/icitl.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE ACADIE HD 
+http://startv365.com:80/9794783213/6955630461/172334
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE ALBERTA HD " tvg-logo="https://lo1.in/ca/icitlbert.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE ALBERTA HD 
+http://startv365.com:80/9794783213/6955630461/172335
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE CB-YUKON HD " tvg-logo="https://lo1.in/ca/icitl.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE CB-YUKON HD 
+http://startv365.com:80/9794783213/6955630461/172428
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE EST-QUEBEC HD " tvg-logo="https://lo1.in/ca/icitl.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE EST-QUEBEC HD 
+http://startv365.com:80/9794783213/6955630461/172058
+#EXTINF:-1 tvg-id="icitelevisionmontreal.ca" tvg-name="CA| (FR) ICI TELE MONTREAL HD" tvg-logo="https://lo1.in/ca/icitl.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE MONTREAL HD
+http://startv365.com:80/9794783213/6955630461/400172375
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/icitl.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE QUEBEC HD
+http://startv365.com:80/9794783213/6955630461/400172374
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE ONTARIO HD" tvg-logo="https://lo1.in/ca/icitl.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE ONTARIO HD
+http://startv365.com:80/9794783213/6955630461/400172378
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE MONCTON FHD" tvg-logo="https://lo1.in/ca/icitl.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE MONCTON FHD
+http://startv365.com:80/9794783213/6955630461/400172377
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE VANCOUVER HD" tvg-logo="https://lo1.in/ca/icitl.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE VANCOUVER HD
+http://startv365.com:80/9794783213/6955630461/400172376
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE MANITOBA HD " tvg-logo="https://lo1.in/ca/icitl.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE MANITOBA HD 
+http://startv365.com:80/9794783213/6955630461/172060
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE MAURICIE HD " tvg-logo="https://lo1.in/ca/icitl.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE MAURICIE HD 
+http://startv365.com:80/9794783213/6955630461/172061
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE OTTAWA-GATINEAU HD " tvg-logo="https://lo1.in/ca/icitl.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE OTTAWA-GATINEAU HD 
+http://startv365.com:80/9794783213/6955630461/172064
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE SAGUENAY HD " tvg-logo="https://lo1.in/ca/icitl.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE SAGUENAY HD 
+http://startv365.com:80/9794783213/6955630461/172066
+#EXTINF:-1 tvg-id="iciradiocanadatoronto.ca" tvg-name="CA| (FR) ICI RADIO-CANADA TELE TORONTO HD" tvg-logo="https://lo1.in/ca/icirdcatoro.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI RADIO-CANADA TELE TORONTO HD
+http://startv365.com:80/9794783213/6955630461/172332
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE SASKATCHEWAN HD" tvg-logo="https://lo1.in/ca/icitlsakachwn.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE SASKATCHEWAN HD
+http://startv365.com:80/9794783213/6955630461/172067
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI RADIO-CANADA TELE QUEBEC HD" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI RADIO-CANADA TELE QUEBEC HD
+http://startv365.com:80/9794783213/6955630461/156699
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI RADIO-CANADA TELE OTTAWA HD" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI RADIO-CANADA TELE OTTAWA HD
+http://startv365.com:80/9794783213/6955630461/156700
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI RADIO CANADA TELE VANCOUVER HD" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI RADIO CANADA TELE VANCOUVER HD
+http://startv365.com:80/9794783213/6955630461/156701
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI EXPLORA HD" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI EXPLORA HD
+http://startv365.com:80/9794783213/6955630461/156697
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE ESTRIE" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE ESTRIE
+http://startv365.com:80/9794783213/6955630461/156698
+#EXTINF:-1 tvg-id="theweathernetwork.ca" tvg-name="CA| (FR) WEATHER NETWORK MONTREAL HD" tvg-logo="https://lo1.in/ca/weathnwm.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) WEATHER NETWORK MONTREAL HD
+http://startv365.com:80/9794783213/6955630461/172075
+#EXTINF:-1 tvg-id="meteomedia.ca" tvg-name="CA| (FR) METEO MEDIA HD" tvg-logo="https://lo1.in/ca/metomed.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) METEO MEDIA HD
+http://startv365.com:80/9794783213/6955630461/172079
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) AFRICA TV HD" tvg-logo="https://lo1.in/ca/afri.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) AFRICA TV HD
+http://startv365.com:80/9794783213/6955630461/172086
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TIVI5 MONDE" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) TIVI5 MONDE
+http://startv365.com:80/9794783213/6955630461/156693
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TV5 MONDE STYLE" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) TV5 MONDE STYLE
+http://startv365.com:80/9794783213/6955630461/156694
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TV5 MONDE INFO" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) TV5 MONDE INFO
+http://startv365.com:80/9794783213/6955630461/156695
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TV5 MONDE" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) TV5 MONDE
+http://startv365.com:80/9794783213/6955630461/156696
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦LES ENFANTS✦●✦ " tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA FRANÇAIS",✦●✦LES ENFANTS✦●✦ 
+http://startv365.com:80/9794783213/6955630461/172439
+#EXTINF:-1 tvg-id="telequebec.ca" tvg-name="CA| (FR) TELE QUEBEC HD" tvg-logo="https://lo1.in/ca/tlqbc.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TELE QUEBEC HD
+http://startv365.com:80/9794783213/6955630461/172431
+#EXTINF:-1 tvg-id="telemagino.ca" tvg-name="CA| (FR) TELEMAGINO HD " tvg-logo="https://lo1.in/ca/tlmegino.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TELEMAGINO HD 
+http://startv365.com:80/9794783213/6955630461/172430
+#EXTINF:-1 tvg-id="teletoonfrench.ca" tvg-name="CA| (FR) TELETOON HD" tvg-logo="https://lo1.in/ca/tltns.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TELETOON HD
+http://startv365.com:80/9794783213/6955630461/172432
+#EXTINF:-1 tvg-id="lachainedisney.ca" tvg-name="CA| (FR) DISNEY LA CHAINE HD" tvg-logo="https://lo1.in/ca/disnch.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) DISNEY LA CHAINE HD
+http://startv365.com:80/9794783213/6955630461/172438
+#EXTINF:-1 tvg-id="iciradiocanadamontreal.ca" tvg-name="CA| (FR) ICI Radio Canada Tele Moncton HD" tvg-logo="https://lo1.in/ca/icitl.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI Radio Canada Tele Moncton HD
+http://startv365.com:80/9794783213/6955630461/172427
+#EXTINF:-1 tvg-id="iciradiocanadamontreal.ca" tvg-name="CA| (FR) ICI RADIO-CANADA TELE MONTREAL HD" tvg-logo="https://lo1.in/ca/icitl.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI RADIO-CANADA TELE MONTREAL HD
+http://startv365.com:80/9794783213/6955630461/172429
+#EXTINF:-1 tvg-id="yoopa.ca" tvg-name="CA| (FR) YOOPA HD" tvg-logo="https://lo1.in/ca/yopz.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) YOOPA HD
+http://startv365.com:80/9794783213/6955630461/172433
+#EXTINF:-1 tvg-id="tfo.ca" tvg-name="CA| (FR) TFO HD" tvg-logo="https://lo1.in/ca/tfo.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TFO HD
+http://startv365.com:80/9794783213/6955630461/172436
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) BABY TV" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) BABY TV
+http://startv365.com:80/9794783213/6955630461/156692
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) DISNEY JUNIOR" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) DISNEY JUNIOR
+http://startv365.com:80/9794783213/6955630461/156702
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦DES SPORTS✦●✦ " tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA FRANÇAIS",✦●✦DES SPORTS✦●✦ 
+http://startv365.com:80/9794783213/6955630461/172307
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) LCN HD" tvg-logo="https://lo1.in/ca/lcn.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) LCN HD
+http://startv365.com:80/9794783213/6955630461/172073
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) LCN SD" tvg-logo="https://lo1.in/ca/lcn.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) LCN SD
+http://startv365.com:80/9794783213/6955630461/376598
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) LCN HD [back-up]" tvg-logo="https://lo1.in/ca/lcn.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) LCN HD [back-up]
+http://startv365.com:80/9794783213/6955630461/400368485
+#EXTINF:-1 tvg-id="globalmontreal.ca" tvg-name="CA| (FR) TVA MONTREAL HD" tvg-logo="https://lo1.in/ca/tvamntreal.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TVA MONTREAL HD
+http://startv365.com:80/9794783213/6955630461/172081
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA MONTREAL HD [back-up]" tvg-logo="https://lo1.in/ca/tvacrltn.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TVA MONTREAL HD [back-up]
+http://startv365.com:80/9794783213/6955630461/400368486
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI RDI HD" tvg-logo="https://lo1.in/ca/icirdi.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI RDI HD
+http://startv365.com:80/9794783213/6955630461/172083
+#EXTINF:-1 tvg-id="icitelevisionmontreal.ca" tvg-name="CA| (FR) ICI TELE HD" tvg-logo="https://lo1.in/ca/icitl.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE HD
+http://startv365.com:80/9794783213/6955630461/172084
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELE 2 HD" tvg-logo="https://lo1.in/ca/icitl.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELE 2 HD
+http://startv365.com:80/9794783213/6955630461/172078
+#EXTINF:-1 tvg-id="rdsinfo.ca" tvg-name="CA| (FR) RDS INFO " tvg-logo="https://lo1.in/ca/rdsinf.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) RDS INFO 
+http://startv365.com:80/9794783213/6955630461/172224
+#EXTINF:-1 tvg-id="rds.ca" tvg-name="CA| (FR) RDS1 HD" tvg-logo="https://lo1.in/ca/rds.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) RDS1 HD
+http://startv365.com:80/9794783213/6955630461/172228
+#EXTINF:-1 tvg-id="rds2.ca" tvg-name="CA| (FR) RDS2 HD " tvg-logo="https://lo1.in/ca/rds2.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) RDS2 HD 
+http://startv365.com:80/9794783213/6955630461/172226
+#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA| (FR) TVA SPORTS HD" tvg-logo="https://lo1.in/ca/tvasp.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TVA SPORTS HD
+http://startv365.com:80/9794783213/6955630461/172232
+#EXTINF:-1 tvg-id="tvasports2.ca" tvg-name="CA| (FR) TVA SPORTS 2 HD" tvg-logo="https://lo1.in/ca/tvasp.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TVA SPORTS 2 HD
+http://startv365.com:80/9794783213/6955630461/172231
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦DOCUMENTAIRE✦●✦ " tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA FRANÇAIS",✦●✦DOCUMENTAIRE✦●✦ 
+http://startv365.com:80/9794783213/6955630461/172414
+#EXTINF:-1 tvg-id="investigation.ca" tvg-name="CA| (FR) INVESTIGATION HD " tvg-logo="https://lo1.in/ca/invesdis.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) INVESTIGATION HD 
+http://startv365.com:80/9794783213/6955630461/172400
+#EXTINF:-1 tvg-id="historia.ca" tvg-name="CA| (FR) HISTORIA HD" tvg-logo="https://lo1.in/ca/hisch.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) HISTORIA HD
+http://startv365.com:80/9794783213/6955630461/172411
+#EXTINF:-1 tvg-id="canald.ca" tvg-name="CA| (FR) CANAL D HD" tvg-logo="https://lo1.in/ca/cnld.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) CANAL D HD
+http://startv365.com:80/9794783213/6955630461/172395
+#EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CA| (FR) CANAL VIE HD" tvg-logo="https://lo1.in/ca/cnllv.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) CANAL VIE HD
+http://startv365.com:80/9794783213/6955630461/172396
+#EXTINF:-1 tvg-id="z.ca" tvg-name="CA| (FR) CANAL Z SD" tvg-logo="https://lo1.in/ca/cnlz.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) CANAL Z SD
+http://startv365.com:80/9794783213/6955630461/172397
+#EXTINF:-1 tvg-id="moicie.ca" tvg-name="CA| (FR) MOI ET CIE HD" tvg-logo="https://lo1.in/ca/moic.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) MOI ET CIE HD
+http://startv365.com:80/9794783213/6955630461/172413
+#EXTINF:-1 tvg-id="unistv.ca" tvg-name="CA| (FR) UNIS TV HD" tvg-logo="https://lo1.in/ca/unis.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) UNIS TV HD
+http://startv365.com:80/9794783213/6955630461/172406
+#EXTINF:-1 tvg-id="zeste.ca" tvg-name="CA| (FR) ZESTE HD" tvg-logo="https://lo1.in/ca/zndespet.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ZESTE HD
+http://startv365.com:80/9794783213/6955630461/172403
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO V-TELE HD" tvg-logo="https://lo1.in/ca/novo.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) NOOVO V-TELE HD
+http://startv365.com:80/9794783213/6955630461/172409
+#EXTINF:-1 tvg-id="planeteplus.ca" tvg-name="CA| (FR) PLANETE+ HD" tvg-logo="https://lo1.in/ca/plntpls.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) PLANETE+ HD
+http://startv365.com:80/9794783213/6955630461/172410
+#EXTINF:-1 tvg-id="canalsavoir.ca" tvg-name="CA| (FR) SAVOIR MEDIA HD" tvg-logo="https://lo1.in/ca/svrmed.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) SAVOIR MEDIA HD
+http://startv365.com:80/9794783213/6955630461/172401
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) SEASONS HD" tvg-logo="https://lo1.in/ca/season.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) SEASONS HD
+http://startv365.com:80/9794783213/6955630461/172402
+#EXTINF:-1 tvg-id="" tvg-name="CA|(FR) PALMARESADISQ PAR STINGRAY FHD" tvg-logo="https://lo1.in/ca/palmaps.png" group-title="AM | CANADA FRANÇAIS",CA|(FR) PALMARESADISQ PAR STINGRAY FHD
+http://startv365.com:80/9794783213/6955630461/172405
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦FILMS✦●✦ " tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA FRANÇAIS",✦●✦FILMS✦●✦ 
+http://startv365.com:80/9794783213/6955630461/172394
+#EXTINF:-1 tvg-id="ellefictions.ca" tvg-name="CA| (FR) ELLE HD" tvg-logo="https://lo1.in/ca/elle.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ELLE HD
+http://startv365.com:80/9794783213/6955630461/172366
+#EXTINF:-1 tvg-id="addiktv.ca" tvg-name="CA| (FR) ADDIK TV HD" tvg-logo="https://lo1.in/ca/adik.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ADDIK TV HD
+http://startv365.com:80/9794783213/6955630461/172364
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) PRISE HD  " tvg-logo="https://lo1.in/ca/prise2.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) PRISE HD  
+http://startv365.com:80/9794783213/6955630461/172407
+#EXTINF:-1 tvg-id="prise2.ca" tvg-name="CA| (FR) PRISE2 HD" tvg-logo="https://lo1.in/ca/pris2.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) PRISE2 HD
+http://startv365.com:80/9794783213/6955630461/172367
+#EXTINF:-1 tvg-id="superecran.ca" tvg-name="CA| (FR) SUPER ECRAN 1 HD" tvg-logo="https://lo1.in/ca/sprcran1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) SUPER ECRAN 1 HD
+http://startv365.com:80/9794783213/6955630461/172370
+#EXTINF:-1 tvg-id="superecran2.ca" tvg-name="CA| (FR) SUPER ECRAN 2 HD" tvg-logo="https://lo1.in/ca/sprcran1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) SUPER ECRAN 2 HD
+http://startv365.com:80/9794783213/6955630461/172371
+#EXTINF:-1 tvg-id="superecran3.ca" tvg-name="CA| (FR) SUPER ECRAN 3 HD" tvg-logo="https://lo1.in/ca/sprcran1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) SUPER ECRAN 3 HD
+http://startv365.com:80/9794783213/6955630461/172372
+#EXTINF:-1 tvg-id="superecran4.ca" tvg-name="CA| (FR) SUPER ECRAN 4 HD" tvg-logo="https://lo1.in/ca/sprcran1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) SUPER ECRAN 4 HD
+http://startv365.com:80/9794783213/6955630461/172373
+#EXTINF:-1 tvg-id="seriesplus.ca" tvg-name="CA| (FR) SERIES+ HD" tvg-logo="https://lo1.in/ca/serpls.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) SERIES+ HD
+http://startv365.com:80/9794783213/6955630461/172368
+#EXTINF:-1 tvg-id="cinepop.ca" tvg-name="CA| (FR) CINE POP HD" tvg-logo="https://lo1.in/ca/cinpop.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) CINE POP HD
+http://startv365.com:80/9794783213/6955630461/172365
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO MONTREAL HD (CFJP TV)" tvg-logo="https://lo1.in/ca/novomntreal.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) NOOVO MONTREAL HD (CFJP TV)
+http://startv365.com:80/9794783213/6955630461/172374
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO QUEBEC CITY (CFAP-TV) HD" tvg-logo="https://lo1.in/ca/novoqbc.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) NOOVO QUEBEC CITY (CFAP-TV) HD
+http://startv365.com:80/9794783213/6955630461/172375
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO SHERBROOKE HD (CFKS-TV) " tvg-logo="https://lo1.in/ca/novoshrbrk.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) NOOVO SHERBROOKE HD (CFKS-TV) 
+http://startv365.com:80/9794783213/6955630461/172376
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO TROIS-RIVIERES (CFKM-TV) HD" tvg-logo="https://lo1.in/ca/novo3serv.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) NOOVO TROIS-RIVIERES (CFKM-TV) HD
+http://startv365.com:80/9794783213/6955630461/172377
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) NOOVO HD" tvg-logo="https://lo1.in/ca/novo.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) NOOVO HD
+http://startv365.com:80/9794783213/6955630461/172385
+#EXTINF:-1 tvg-id="amitele.ca" tvg-name="CA| (FR) AMI-TELE HD" tvg-logo="https://lo1.in/ca/amitele.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) AMI-TELE HD
+http://startv365.com:80/9794783213/6955630461/172386
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 1 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) A LA CARTE 1 HD
+http://startv365.com:80/9794783213/6955630461/370430
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 2 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) A LA CARTE 2 HD
+http://startv365.com:80/9794783213/6955630461/370431
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 3 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) A LA CARTE 3 HD
+http://startv365.com:80/9794783213/6955630461/370432
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 4 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) A LA CARTE 4 HD
+http://startv365.com:80/9794783213/6955630461/370433
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 5 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) A LA CARTE 5 HD
+http://startv365.com:80/9794783213/6955630461/370434
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 6 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) A LA CARTE 6 HD
+http://startv365.com:80/9794783213/6955630461/370435
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 7 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) A LA CARTE 7 HD
+http://startv365.com:80/9794783213/6955630461/370436
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 8 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) A LA CARTE 8 HD
+http://startv365.com:80/9794783213/6955630461/370437
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 9 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) A LA CARTE 9 HD
+http://startv365.com:80/9794783213/6955630461/370438
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 10 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) A LA CARTE 10 HD
+http://startv365.com:80/9794783213/6955630461/370439
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 11 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) A LA CARTE 11 HD
+http://startv365.com:80/9794783213/6955630461/370440
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 12 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) A LA CARTE 12 HD
+http://startv365.com:80/9794783213/6955630461/370421
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 13 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) A LA CARTE 13 HD
+http://startv365.com:80/9794783213/6955630461/370422
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 14 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) A LA CARTE 14 HD
+http://startv365.com:80/9794783213/6955630461/370423
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) A LA CARTE 15 HD" tvg-logo="https://lo1.in/ca/alacrt1.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) A LA CARTE 15 HD
+http://startv365.com:80/9794783213/6955630461/370424
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦DIVERTISSEMENT✦●✦ " tvg-logo="https://lo1.in/ca/caflg.png" group-title="AM | CANADA FRANÇAIS",✦●✦DIVERTISSEMENT✦●✦ 
+http://startv365.com:80/9794783213/6955630461/172363
+#EXTINF:-1 tvg-id="casatv.ca" tvg-name="CA| (FR) CASA HD" tvg-logo="https://lo1.in/ca/casa.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) CASA HD
+http://startv365.com:80/9794783213/6955630461/172327
+#EXTINF:-1 tvg-id="max.ca" tvg-name="CA| (FR) MAX HD " tvg-logo="https://lo1.in/ca/max.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) MAX HD 
+http://startv365.com:80/9794783213/6955630461/172341
+#EXTINF:-1 tvg-id="canalevasion.ca" tvg-name="CA| (FR) EVASION HD" tvg-logo="https://lo1.in/ca/evas.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) EVASION HD
+http://startv365.com:80/9794783213/6955630461/172339
+#EXTINF:-1 tvg-id="frissonstv.ca" tvg-name="CA| (FR) FRISSONS TV HD " tvg-logo="https://lo1.in/ca/frson.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) FRISSONS TV HD 
+http://startv365.com:80/9794783213/6955630461/172340
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA TROIS-RIVIERES HD" tvg-logo="https://lo1.in/ca/tva3rivier.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TVA TROIS-RIVIERES HD
+http://startv365.com:80/9794783213/6955630461/172331
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TVA RIVIERE-DU-LOUP HD" tvg-logo="https://lo1.in/ca/tvarvierlop.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TVA RIVIERE-DU-LOUP HD
+http://startv365.com:80/9794783213/6955630461/172337
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) CGTN FRANÇAIS HD" tvg-logo="https://lo1.in/ca/cgtnfr.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) CGTN FRANÇAIS HD
+http://startv365.com:80/9794783213/6955630461/172328
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) ICI TELEVISION HD" tvg-logo="https://lo1.in/ca/icitl.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) ICI TELEVISION HD
+http://startv365.com:80/9794783213/6955630461/172333
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TV ROGERS OTTAWA " tvg-logo="https://lo1.in/ca/roger.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TV ROGERS OTTAWA 
+http://startv365.com:80/9794783213/6955630461/172336
+#EXTINF:-1 tvg-id="aptn.ca" tvg-name="CA| (FR) APTN HD" tvg-logo="https://lo1.in/ca/aptn.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) APTN HD
+http://startv365.com:80/9794783213/6955630461/172338
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦LA MUSIQUE✦●✦ " tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA FRANÇAIS",✦●✦LA MUSIQUE✦●✦ 
+http://startv365.com:80/9794783213/6955630461/172426
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) MEZZO LIVE HD" tvg-logo="https://lo1.in/ca/mezlv.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) MEZZO LIVE HD
+http://startv365.com:80/9794783213/6955630461/172415
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) STINGRAY CLASSICA HD" tvg-logo="https://lo1.in/ca/stinclas.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) STINGRAY CLASSICA HD
+http://startv365.com:80/9794783213/6955630461/172417
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TRACE AFRICA HD" tvg-logo="https://lo1.in/ca/trcaf.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TRACE AFRICA HD
+http://startv365.com:80/9794783213/6955630461/172419
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TRACE NAIJA HD" tvg-logo="https://lo1.in/ca/trcnaija.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TRACE NAIJA HD
+http://startv365.com:80/9794783213/6955630461/172421
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TRACE TOCA HD" tvg-logo="https://lo1.in/ca/trctoca.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TRACE TOCA HD
+http://startv365.com:80/9794783213/6955630461/172422
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TRACE URBAN HD" tvg-logo="https://lo1.in/ca/trcurbn.png" group-title="AM | CANADA FRANÇAIS",CA| (FR) TRACE URBAN HD
+http://startv365.com:80/9794783213/6955630461/172424
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TRACE TROPICAL" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) TRACE TROPICAL
+http://startv365.com:80/9794783213/6955630461/156688
+#EXTINF:-1 tvg-id="" tvg-name="CA| (FR) TRACE MZIKI" tvg-logo="" group-title="AM | CANADA FRANÇAIS",CA| (FR) TRACE MZIKI
+http://startv365.com:80/9794783213/6955630461/156689
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦SPORTS&EVENTS✦●✦ " tvg-logo="https://lo1.in/ca/caflg.png" group-title="AM | CANADA SPORTS/EVENTS",✦●✦SPORTS&EVENTS✦●✦ 
+http://startv365.com:80/9794783213/6955630461/175887
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="CA| WILLOW CRICKET HD" tvg-logo="https://lo1.in/ca/wilowcrkt.png" group-title="AM | CANADA SPORTS/EVENTS",CA| WILLOW CRICKET HD
+http://startv365.com:80/9794783213/6955630461/175793
+#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="CA| NBA TV HD " tvg-logo="https://lo1.in/ca/nbatv.png" group-title="AM | CANADA SPORTS/EVENTS",CA| NBA TV HD 
+http://startv365.com:80/9794783213/6955630461/175804
+#EXTINF:-1 tvg-id="" tvg-name="CA| GOLF CHANNEL HD " tvg-logo="https://lo1.in/ca/glfch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| GOLF CHANNEL HD 
+http://startv365.com:80/9794783213/6955630461/175874
+#EXTINF:-1 tvg-id="fightnetwork.ca" tvg-name="CA| THE FIGHT NETWORK HD " tvg-logo="https://lo1.in/ca/fghtnw.png" group-title="AM | CANADA SPORTS/EVENTS",CA| THE FIGHT NETWORK HD 
+http://startv365.com:80/9794783213/6955630461/175878
+#EXTINF:-1 tvg-id="" tvg-name="CA| WWE NETWORK  HD" tvg-logo="https://lo1.in/ca/wenw.png" group-title="AM | CANADA SPORTS/EVENTS",CA| WWE NETWORK  HD
+http://startv365.com:80/9794783213/6955630461/175872
+#EXTINF:-1 tvg-id="beinsport.ca" tvg-name="CA| BEIN SPORTS HD " tvg-logo="https://lo1.in/ca/bs.png" group-title="AM | CANADA SPORTS/EVENTS",CA| BEIN SPORTS HD 
+http://startv365.com:80/9794783213/6955630461/175784
+#EXTINF:-1 tvg-id="nflnetworkcanada.ca" tvg-name="CA| NFL NETWORK HD" tvg-logo="https://lo1.in/ca/nflnw.png" group-title="AM | CANADA SPORTS/EVENTS",CA| NFL NETWORK HD
+http://startv365.com:80/9794783213/6955630461/175771
+#EXTINF:-1 tvg-id="" tvg-name="CA| BC GOLFN" tvg-logo="https://lo1.in/ca/glfch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| BC GOLFN
+http://startv365.com:80/9794783213/6955630461/259055
+#EXTINF:-1 tvg-id="" tvg-name="CA| CBN COMMONWEATH BROADCASTING NETWORK HD" tvg-logo="https://lo1.in/ca/cbncwbnw.png" group-title="AM | CANADA SPORTS/EVENTS",CA| CBN COMMONWEATH BROADCASTING NETWORK HD
+http://startv365.com:80/9794783213/6955630461/175884
+#EXTINF:-1 tvg-id="espnclassic.ca" tvg-name="CA| ESPN CLASSIC " tvg-logo="https://lo1.in/ca/espncl.png" group-title="AM | CANADA SPORTS/EVENTS",CA| ESPN CLASSIC 
+http://startv365.com:80/9794783213/6955630461/175885
+#EXTINF:-1 tvg-id="hpitv.ca" tvg-name="CA| HPITV HD " tvg-logo="https://lo1.in/ca/hpiest.png" group-title="AM | CANADA SPORTS/EVENTS",CA| HPITV HD 
+http://startv365.com:80/9794783213/6955630461/175880
+#EXTINF:-1 tvg-id="hpitvinternational.ca" tvg-name="CA| HPITV INTERNATIONAL HD " tvg-logo="https://lo1.in/ca/hpitvinte.png" group-title="AM | CANADA SPORTS/EVENTS",CA| HPITV INTERNATIONAL HD 
+http://startv365.com:80/9794783213/6955630461/175883
+#EXTINF:-1 tvg-id="hpitv.ca" tvg-name="CA| HPITV WEST HD " tvg-logo="https://lo1.in/ca/hpiweest.png" group-title="AM | CANADA SPORTS/EVENTS",CA| HPITV WEST HD 
+http://startv365.com:80/9794783213/6955630461/175882
+#EXTINF:-1 tvg-id="" tvg-name="CA| EURO WORLD SPORT" tvg-logo="https://lo1.in/ca/eurwrldsp.png" group-title="AM | CANADA SPORTS/EVENTS",CA| EURO WORLD SPORT
+http://startv365.com:80/9794783213/6955630461/258952
+#EXTINF:-1 tvg-id="gameplus.ca" tvg-name="CA| GAME PLUS " tvg-logo="https://lo1.in/ca/gamepls.png" group-title="AM | CANADA SPORTS/EVENTS",CA| GAME PLUS 
+http://startv365.com:80/9794783213/6955630461/175685
+#EXTINF:-1 tvg-id="ginxesportstvcanada.ca" tvg-name="CA| GINX ESPORTS TV CANADA  HD" tvg-logo="https://lo1.in/ca/ginxespca.png" group-title="AM | CANADA SPORTS/EVENTS",CA| GINX ESPORTS TV CANADA  HD
+http://startv365.com:80/9794783213/6955630461/175790
+#EXTINF:-1 tvg-id="leafstv.ca" tvg-name="CA| LEAFS NATION NETWORK HD " tvg-logo="https://lo1.in/ca/leafsnw.png" group-title="AM | CANADA SPORTS/EVENTS",CA| LEAFS NATION NETWORK HD 
+http://startv365.com:80/9794783213/6955630461/175886
+#EXTINF:-1 tvg-id="" tvg-name="CA| MLB NETWORK " tvg-logo="https://lo1.in/ca/mlbnw.png" group-title="AM | CANADA SPORTS/EVENTS",CA| MLB NETWORK 
+http://startv365.com:80/9794783213/6955630461/175770
+#EXTINF:-1 tvg-id="" tvg-name="CA| RIDE TV HD " tvg-logo="https://lo1.in/ca/ridect.png" group-title="AM | CANADA SPORTS/EVENTS",CA| RIDE TV HD 
+http://startv365.com:80/9794783213/6955630461/175879
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS PREVIEW CHANNEL (CH430)" tvg-logo="https://lo1.in/ca/tvrgrs.png" group-title="AM | CANADA SPORTS/EVENTS",CA| ROGERS PREVIEW CHANNEL (CH430)
+http://startv365.com:80/9794783213/6955630461/259059
+#EXTINF:-1 tvg-id="sportsmanchannel.ca" tvg-name="CA| SPORTSMAN HD" tvg-logo="https://lo1.in/ca/spman.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSMAN HD
+http://startv365.com:80/9794783213/6955630461/175792
+#EXTINF:-1 tvg-id="onesoccer.ca" tvg-name="CA| ONE SOCCER HD" tvg-logo="https://lo1.in/ca/onescr.png" group-title="AM | CANADA SPORTS/EVENTS",CA| ONE SOCCER HD
+http://startv365.com:80/9794783213/6955630461/176149
+#EXTINF:-1 tvg-id="" tvg-name="CA| IFC HD" tvg-logo="" group-title="AM | CANADA SPORTS/EVENTS",CA| IFC HD
+http://startv365.com:80/9794783213/6955630461/156676
+#EXTINF:-1 tvg-id="" tvg-name="CA| WILLOW EXTRA HD" tvg-logo="https://lo1.in/ca/wilowext.png" group-title="AM | CANADA SPORTS/EVENTS",CA| WILLOW EXTRA HD
+http://startv365.com:80/9794783213/6955630461/400201893
+#EXTINF:-1 tvg-id="hpitv.ca" tvg-name="CA| HPITV EAST" tvg-logo="https://lo1.in/ca/hpiest.png" group-title="AM | CANADA SPORTS/EVENTS",CA| HPITV EAST
+http://startv365.com:80/9794783213/6955630461/259049
+#EXTINF:-1 tvg-id="" tvg-name="CA| PPV2" tvg-logo="https://lo1.in/ppvs/ppvlive.png" group-title="AM | CANADA SPORTS/EVENTS",CA| PPV2
+http://startv365.com:80/9794783213/6955630461/21233
+#EXTINF:-1 tvg-id="" tvg-name="CA| LIGUE NATIONALE DE HOCKEY HD" tvg-logo="https://lo1.in/ca/lignathock.png" group-title="AM | CANADA SPORTS/EVENTS",CA| LIGUE NATIONALE DE HOCKEY HD
+http://startv365.com:80/9794783213/6955630461/21235
+#EXTINF:-1 tvg-id="" tvg-name="CA| LIGUE NATIONALE DE HOCKEY 2 HD" tvg-logo="https://lo1.in/ca/lignathock.png" group-title="AM | CANADA SPORTS/EVENTS",CA| LIGUE NATIONALE DE HOCKEY 2 HD
+http://startv365.com:80/9794783213/6955630461/21236
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦TSN-CHANNELS✦●✦ " tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA SPORTS/EVENTS",✦●✦TSN-CHANNELS✦●✦ 
+http://startv365.com:80/9794783213/6955630461/378827
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA| TSN 1 HD" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| TSN 1 HD
+http://startv365.com:80/9794783213/6955630461/175769
+#EXTINF:-1 tvg-id="" tvg-name="CA| TSN 1 HD [BACK-UP]" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| TSN 1 HD [BACK-UP]
+http://startv365.com:80/9794783213/6955630461/400374782
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA| TSN 2 HD" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| TSN 2 HD
+http://startv365.com:80/9794783213/6955630461/175768
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA| TSN 2 HD [BACK-UP]" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| TSN 2 HD [BACK-UP]
+http://startv365.com:80/9794783213/6955630461/400374781
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA| TSN 3 HD" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| TSN 3 HD
+http://startv365.com:80/9794783213/6955630461/175767
+#EXTINF:-1 tvg-id="" tvg-name="CA| TSN 3 HD [BACK-UP]" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| TSN 3 HD [BACK-UP]
+http://startv365.com:80/9794783213/6955630461/400374780
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA| TSN 4 HD" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| TSN 4 HD
+http://startv365.com:80/9794783213/6955630461/175766
+#EXTINF:-1 tvg-id="" tvg-name="CA| TSN 4 HD [BACK-UP]" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| TSN 4 HD [BACK-UP]
+http://startv365.com:80/9794783213/6955630461/400374779
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA| TSN 5 HD" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| TSN 5 HD
+http://startv365.com:80/9794783213/6955630461/175765
+#EXTINF:-1 tvg-id="" tvg-name="CA| TSN 5 HD [BACK-UP]" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| TSN 5 HD [BACK-UP]
+http://startv365.com:80/9794783213/6955630461/400374778
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA| TSN4 HD BLACKOUT " tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| TSN4 HD BLACKOUT 
+http://startv365.com:80/9794783213/6955630461/175875
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA| TSN5 BLACKOUT " tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| TSN5 BLACKOUT 
+http://startv365.com:80/9794783213/6955630461/175876
+#EXTINF:-1 tvg-id="" tvg-name="CA| TSN 1 SD" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| TSN 1 SD
+http://startv365.com:80/9794783213/6955630461/400374809
+#EXTINF:-1 tvg-id="" tvg-name="CA| TSN 2 SD" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| TSN 2 SD
+http://startv365.com:80/9794783213/6955630461/400374808
+#EXTINF:-1 tvg-id="" tvg-name="CA| TSN 3 SD" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| TSN 3 SD
+http://startv365.com:80/9794783213/6955630461/400374807
+#EXTINF:-1 tvg-id="" tvg-name="CA| TSN 4 SD" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| TSN 4 SD
+http://startv365.com:80/9794783213/6955630461/400374806
+#EXTINF:-1 tvg-id="" tvg-name="CA| TSN 5 SD" tvg-logo="https://lo1.in/ca/tsn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| TSN 5 SD
+http://startv365.com:80/9794783213/6955630461/400374805
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦SPORTS-NET CHANNELS✦●✦" tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA SPORTS/EVENTS",✦●✦SPORTS-NET CHANNELS✦●✦
+http://startv365.com:80/9794783213/6955630461/378826
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET NEWS" tvg-logo="https://lo1.in/ca/spnns.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET NEWS
+http://startv365.com:80/9794783213/6955630461/258947
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET WWE HD" tvg-logo="https://lo1.in/ca/wenw.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET WWE HD
+http://startv365.com:80/9794783213/6955630461/400370359
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET PPV HD" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET PPV HD
+http://startv365.com:80/9794783213/6955630461/175742
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="CA| SPORTSNET 360 HD" tvg-logo="https://lo1.in/ca/spsnt360.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET 360 HD
+http://startv365.com:80/9794783213/6955630461/175777
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET 360 SD" tvg-logo="https://lo1.in/ca/spsnt360.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET 360 SD
+http://startv365.com:80/9794783213/6955630461/400370282
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="CA| SPORTSNET ONE HD" tvg-logo="https://lo1.in/ca/spsntn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET ONE HD
+http://startv365.com:80/9794783213/6955630461/175775
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET ONE SD" tvg-logo="https://lo1.in/ca/spsntn.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET ONE SD
+http://startv365.com:80/9794783213/6955630461/400370336
+#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-name="CA| SPORTSNET PACIFIC HD" tvg-logo="https://lo1.in/ca/spnetpa.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET PACIFIC HD
+http://startv365.com:80/9794783213/6955630461/175773
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET PACIFIC SD" tvg-logo="https://lo1.in/ca/spnetpa.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET PACIFIC SD
+http://startv365.com:80/9794783213/6955630461/400370338
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA| SPORTSNET EAST HD" tvg-logo="https://lo1.in/ca/spsntest.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET EAST HD
+http://startv365.com:80/9794783213/6955630461/175776
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET EAST SD" tvg-logo="https://lo1.in/ca/spsntest.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET EAST SD
+http://startv365.com:80/9794783213/6955630461/400370335
+#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="CA| SPORTSNET WEST HD" tvg-logo="https://lo1.in/ca/spnetwe.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET WEST HD
+http://startv365.com:80/9794783213/6955630461/175772
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET WEST SD" tvg-logo="https://lo1.in/ca/spnetwe.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET WEST SD
+http://startv365.com:80/9794783213/6955630461/400370339
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA| SPORTSNET ONTARIO HD" tvg-logo="https://lo1.in/ca/spsntnrd.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET ONTARIO HD
+http://startv365.com:80/9794783213/6955630461/175774
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET ONTARIO SD" tvg-logo="https://lo1.in/ca/spsntnrd.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET ONTARIO SD
+http://startv365.com:80/9794783213/6955630461/400370337
+#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="CA| SPORTSNET WORLD HD" tvg-logo="https://lo1.in/ca/spnetw.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET WORLD HD
+http://startv365.com:80/9794783213/6955630461/175783
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET WORLD SD" tvg-logo="https://lo1.in/ca/spnetw.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET WORLD SD
+http://startv365.com:80/9794783213/6955630461/400370340
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET WORLD EXTRA 1" tvg-logo="https://lo1.in/ca/spnetwext.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET WORLD EXTRA 1
+http://startv365.com:80/9794783213/6955630461/258948
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET WORLD EXTRA 2" tvg-logo="https://lo1.in/ca/spnetwext.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET WORLD EXTRA 2
+http://startv365.com:80/9794783213/6955630461/258949
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET WORLD EXTRA 3" tvg-logo="https://lo1.in/ca/spnetwext.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET WORLD EXTRA 3
+http://startv365.com:80/9794783213/6955630461/258950
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET WORLD EXTRA 4" tvg-logo="https://lo1.in/ca/spnetwext.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET WORLD EXTRA 4
+http://startv365.com:80/9794783213/6955630461/258951
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET EVENT 1 HD ( LIVE EVENTS ONLY )" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET EVENT 1 HD ( LIVE EVENTS ONLY )
+http://startv365.com:80/9794783213/6955630461/81003
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET EVENT 2 HD ( LIVE EVENTS ONLY )" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET EVENT 2 HD ( LIVE EVENTS ONLY )
+http://startv365.com:80/9794783213/6955630461/81002
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET EVENT 3 HD ( LIVE EVENTS ONLY )" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET EVENT 3 HD ( LIVE EVENTS ONLY )
+http://startv365.com:80/9794783213/6955630461/81001
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET EVENT 4 HD ( LIVE EVENTS ONLY )" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET EVENT 4 HD ( LIVE EVENTS ONLY )
+http://startv365.com:80/9794783213/6955630461/81000
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET EVENT 5 HD ( LIVE EVENTS ONLY )" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET EVENT 5 HD ( LIVE EVENTS ONLY )
+http://startv365.com:80/9794783213/6955630461/80999
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET EVENT 6 HD ( LIVE EVENTS ONLY )" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET EVENT 6 HD ( LIVE EVENTS ONLY )
+http://startv365.com:80/9794783213/6955630461/80998
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET EVENT 7 HD ( LIVE EVENTS ONLY )" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET EVENT 7 HD ( LIVE EVENTS ONLY )
+http://startv365.com:80/9794783213/6955630461/80997
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET EVENT 8 HD ( LIVE EVENTS ONLY )" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET EVENT 8 HD ( LIVE EVENTS ONLY )
+http://startv365.com:80/9794783213/6955630461/80996
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET EVENT 9 HD ( LIVE EVENTS ONLY )" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET EVENT 9 HD ( LIVE EVENTS ONLY )
+http://startv365.com:80/9794783213/6955630461/80995
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET EVENT 10 HD ( LIVE EVENTS ONLY )" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET EVENT 10 HD ( LIVE EVENTS ONLY )
+http://startv365.com:80/9794783213/6955630461/80994
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET EVENT 11 HD ( LIVE EVENTS ONLY )" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET EVENT 11 HD ( LIVE EVENTS ONLY )
+http://startv365.com:80/9794783213/6955630461/80993
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET EVENT 12 HD ( LIVE EVENTS ONLY )" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET EVENT 12 HD ( LIVE EVENTS ONLY )
+http://startv365.com:80/9794783213/6955630461/80992
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET EVENT 13 HD ( LIVE EVENTS ONLY )" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET EVENT 13 HD ( LIVE EVENTS ONLY )
+http://startv365.com:80/9794783213/6955630461/80991
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET EVENT 14 HD ( LIVE EVENTS ONLY )" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET EVENT 14 HD ( LIVE EVENTS ONLY )
+http://startv365.com:80/9794783213/6955630461/80990
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET EVENT 15 HD ( LIVE EVENTS ONLY )" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET EVENT 15 HD ( LIVE EVENTS ONLY )
+http://startv365.com:80/9794783213/6955630461/30407
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTSNET EVENT 16 HD ( LIVE EVENTS ONLY )" tvg-logo="https://lo1.in/ca/spnetppv.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTSNET EVENT 16 HD ( LIVE EVENTS ONLY )
+http://startv365.com:80/9794783213/6955630461/30408
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦NHL-EVENTS✦●✦ " tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA SPORTS/EVENTS",✦●✦NHL-EVENTS✦●✦ 
+http://startv365.com:80/9794783213/6955630461/379242
+#EXTINF:-1 tvg-id="" tvg-name="CA| NHL NETWORK HD" tvg-logo="https://lo1.in/ca/nhlnw.png" group-title="AM | CANADA SPORTS/EVENTS",CA| NHL NETWORK HD
+http://startv365.com:80/9794783213/6955630461/379241
+#EXTINF:-1 tvg-id="" tvg-name="CA| NHL CENTRE ICE FULL PACKAGE (CH450)" tvg-logo="https://lo1.in/ca/nhlcent.png" group-title="AM | CANADA SPORTS/EVENTS",CA| NHL CENTRE ICE FULL PACKAGE (CH450)
+http://startv365.com:80/9794783213/6955630461/259058
+#EXTINF:-1 tvg-id="" tvg-name="CA| NHL CENTRE ICE FULL PACKAGE (CH464)" tvg-logo="https://lo1.in/ca/nhlcent.png" group-title="AM | CANADA SPORTS/EVENTS",CA| NHL CENTRE ICE FULL PACKAGE (CH464)
+http://startv365.com:80/9794783213/6955630461/259057
+#EXTINF:-1 tvg-id="" tvg-name="CA| NHL CENTRE ICE FULL PACKAGE (CH465)" tvg-logo="https://lo1.in/ca/nhlcent.png" group-title="AM | CANADA SPORTS/EVENTS",CA| NHL CENTRE ICE FULL PACKAGE (CH465)
+http://startv365.com:80/9794783213/6955630461/259056
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦SPORTS-PACK CHANNELS✦●✦ " tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA SPORTS/EVENTS",✦●✦SPORTS-PACK CHANNELS✦●✦ 
+http://startv365.com:80/9794783213/6955630461/378828
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTS PACK 16 (CH445)" tvg-logo="https://lo1.in/ca/spspk.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTS PACK 16 (CH445)
+http://startv365.com:80/9794783213/6955630461/258983
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTS PACK 17 (CH446)" tvg-logo="https://lo1.in/ca/spspk.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTS PACK 17 (CH446)
+http://startv365.com:80/9794783213/6955630461/258982
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTS PACK 18 (CH447)" tvg-logo="https://lo1.in/ca/spspk.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTS PACK 18 (CH447)
+http://startv365.com:80/9794783213/6955630461/258981
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTS PACK 19 (CH448)" tvg-logo="https://lo1.in/ca/spspk.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTS PACK 19 (CH448)
+http://startv365.com:80/9794783213/6955630461/258980
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTS PACK 34 (CH463)" tvg-logo="https://lo1.in/ca/spspk.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTS PACK 34 (CH463)
+http://startv365.com:80/9794783213/6955630461/258965
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTS PACK 37 (CH466)" tvg-logo="https://lo1.in/ca/spspk.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTS PACK 37 (CH466)
+http://startv365.com:80/9794783213/6955630461/258964
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTS PACK 38 (CH467)" tvg-logo="https://lo1.in/ca/spspk.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTS PACK 38 (CH467)
+http://startv365.com:80/9794783213/6955630461/258963
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTS PACK 39 (CH468)" tvg-logo="https://lo1.in/ca/spspk.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTS PACK 39 (CH468)
+http://startv365.com:80/9794783213/6955630461/258962
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTS PACK 40 (CH469)" tvg-logo="https://lo1.in/ca/spspk.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTS PACK 40 (CH469)
+http://startv365.com:80/9794783213/6955630461/258960
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTS PACK 41 (CH470)" tvg-logo="https://lo1.in/ca/spspk.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTS PACK 41 (CH470)
+http://startv365.com:80/9794783213/6955630461/258959
+#EXTINF:-1 tvg-id="" tvg-name="CA| SPORTS PACK 42 (CH471)" tvg-logo="https://lo1.in/ca/spspk.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SPORTS PACK 42 (CH471)
+http://startv365.com:80/9794783213/6955630461/258958
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 267 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 267 
+http://startv365.com:80/9794783213/6955630461/175752
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 368 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 368 
+http://startv365.com:80/9794783213/6955630461/175712
+#EXTINF:-1 tvg-id="" tvg-name="CA|SUPER SPORTS CH 422 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA|SUPER SPORTS CH 422 
+http://startv365.com:80/9794783213/6955630461/175737
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 431/476 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 431/476 
+http://startv365.com:80/9794783213/6955630461/175686
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 432/472 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 432/472 
+http://startv365.com:80/9794783213/6955630461/175687
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 433 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 433 
+http://startv365.com:80/9794783213/6955630461/175688
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 434 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 434 
+http://startv365.com:80/9794783213/6955630461/175689
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 435 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 435 
+http://startv365.com:80/9794783213/6955630461/175690
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 436 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 436 
+http://startv365.com:80/9794783213/6955630461/175714
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 437 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 437 
+http://startv365.com:80/9794783213/6955630461/175692
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 438 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 438 
+http://startv365.com:80/9794783213/6955630461/175716
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 439 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 439 
+http://startv365.com:80/9794783213/6955630461/175717
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 440  " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 440  
+http://startv365.com:80/9794783213/6955630461/175718
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 441 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 441 
+http://startv365.com:80/9794783213/6955630461/175719
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 442 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 442 
+http://startv365.com:80/9794783213/6955630461/175720
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 443  " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 443  
+http://startv365.com:80/9794783213/6955630461/175721
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 444 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 444 
+http://startv365.com:80/9794783213/6955630461/175722
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 450 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 450 
+http://startv365.com:80/9794783213/6955630461/175723
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 452 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 452 
+http://startv365.com:80/9794783213/6955630461/175699
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 453 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 453 
+http://startv365.com:80/9794783213/6955630461/175700
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 454/477 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 454/477 
+http://startv365.com:80/9794783213/6955630461/175703
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 455/478  " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 455/478  
+http://startv365.com:80/9794783213/6955630461/175732
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 456/479 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 456/479 
+http://startv365.com:80/9794783213/6955630461/175731
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 457/480 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 457/480 
+http://startv365.com:80/9794783213/6955630461/175733
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 458/481 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 458/481 
+http://startv365.com:80/9794783213/6955630461/175734
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 459/482 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 459/482 
+http://startv365.com:80/9794783213/6955630461/175706
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 460/483 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 460/483 
+http://startv365.com:80/9794783213/6955630461/175735
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 461 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 461 
+http://startv365.com:80/9794783213/6955630461/175724
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 462 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 462 
+http://startv365.com:80/9794783213/6955630461/175725
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 464 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 464 
+http://startv365.com:80/9794783213/6955630461/175710
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 465 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 465 
+http://startv365.com:80/9794783213/6955630461/175711
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 473 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 473 
+http://startv365.com:80/9794783213/6955630461/175726
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 474 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 474 
+http://startv365.com:80/9794783213/6955630461/175727
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 475 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 475 
+http://startv365.com:80/9794783213/6955630461/175728
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 476 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 476 
+http://startv365.com:80/9794783213/6955630461/175729
+#EXTINF:-1 tvg-id="" tvg-name="CA| SUPER SPORTS CH 477 " tvg-logo="https://lo1.in/ca/spsch.png" group-title="AM | CANADA SPORTS/EVENTS",CA| SUPER SPORTS CH 477 
+http://startv365.com:80/9794783213/6955630461/175730
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦DAZN-CHANNELS✦●✦" tvg-logo="https://lo1.in/ca/caflg.png" group-title="AM | CANADA SPORTS/EVENTS",✦●✦DAZN-CHANNELS✦●✦
+http://startv365.com:80/9794783213/6955630461/400252105
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 01 | Abu dhabi open day 5 09th 5:00am/Al shabab vs al ittihad 09th 12:00pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 01 | Abu dhabi open day 5 09th 5:00am/Al shabab vs al ittihad 09th 12:00pm
+http://startv365.com:80/9794783213/6955630461/400252104
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 02 | Transylvania open day 5 09th 8:00am/Ireland u20 vs italy u20 09th 3:15pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 02 | Transylvania open day 5 09th 8:00am/Ireland u20 vs italy u20 09th 3:15pm
+http://startv365.com:80/9794783213/6955630461/400252103
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 03 | Dillon vs bellotti weighin 09th 9:00am/England u20 vs wales u20 09th 3:15pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 03 | Dillon vs bellotti weighin 09th 9:00am/England u20 vs wales u20 09th 3:15pm
+http://startv365.com:80/9794783213/6955630461/400252102
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 04 | Al qadisiyah vs al ahli 09th 9:00am/Dortmund vs freiburg 09th 3:30pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 04 | Al qadisiyah vs al ahli 09th 9:00am/Dortmund vs freiburg 09th 3:30pm
+http://startv365.com:80/9794783213/6955630461/400252101
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 05 | Japan vs hungary 09th 1:00pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 05 | Japan vs hungary 09th 1:00pm
+http://startv365.com:80/9794783213/6955630461/400252100
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 06 | Hamburg vs hannover 09th 1:30pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 06 | Hamburg vs hannover 09th 1:30pm
+http://startv365.com:80/9794783213/6955630461/400252099
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 07 | Essen vs leipzig 09th 1:30pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 07 | Essen vs leipzig 09th 1:30pm
+http://startv365.com:80/9794783213/6955630461/400252098
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 09 | Scotland u20 vs france u20 09th 4:00pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 09 | Scotland u20 vs france u20 09th 4:00pm
+http://startv365.com:80/9794783213/6955630461/400252096
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 10 | Sheffield wednesday vs birmingham 09th 4:00pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 10 | Sheffield wednesday vs birmingham 09th 4:00pm
+http://startv365.com:80/9794783213/6955630461/400252095
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 11 | Darmstadt vs leverkusen 03th 10:30am" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 11 | Darmstadt vs leverkusen 03th 10:30am
+http://startv365.com:80/9794783213/6955630461/400252094
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 12 | Preston vs ipswich 03th 11:00am" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 12 | Preston vs ipswich 03th 11:00am
+http://startv365.com:80/9794783213/6955630461/400252093
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 13 | Atletico madrid vs levante 03th 11:30am" tvg-logo="" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 13 | Atletico madrid vs levante 03th 11:30am
+http://startv365.com:80/9794783213/6955630461/156677
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 14 | Koln vs frankfurt 03th 1:30pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 14 | Koln vs frankfurt 03th 1:30pm
+http://startv365.com:80/9794783213/6955630461/30411
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 15 | Genk vs union saintgilloise 03th 3:45pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 15 | Genk vs union saintgilloise 03th 3:45pm
+http://startv365.com:80/9794783213/6955630461/30412
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 16 | France u20 vs ireland u20 03th 4:10pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 16 | France u20 vs ireland u20 03th 4:10pm
+http://startv365.com:80/9794783213/6955630461/30413
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 17 | Olympiacos vs tsc 14th 4:00pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 17 | Olympiacos vs tsc 14th 4:00pm
+http://startv365.com:80/9794783213/6955630461/30414
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 18 | Ajax vs aek athens 14th 4:00pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 18 | Ajax vs aek athens 14th 4:00pm
+http://startv365.com:80/9794783213/6955630461/30415
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 19 | Brighton vs marseille 14th 4:00pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 19 | Brighton vs marseille 14th 4:00pm
+http://startv365.com:80/9794783213/6955630461/30416
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 20 | Sporting lisbon vs sturm graz 14th 4:00pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 20 | Sporting lisbon vs sturm graz 14th 4:00pm
+http://startv365.com:80/9794783213/6955630461/30417
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 21 | Rakow vs atalanta 14th 4:00pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 21 | Rakow vs atalanta 14th 4:00pm
+http://startv365.com:80/9794783213/6955630461/30418
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 22 | Real betis vs rangers 14th 4:00pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 22 | Real betis vs rangers 14th 4:00pm
+http://startv365.com:80/9794783213/6955630461/30419
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 23 | Aris limassol vs sparta prague 14th 4:00pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 23 | Aris limassol vs sparta prague 14th 4:00pm
+http://startv365.com:80/9794783213/6955630461/30420
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 24 | Chelsea fc women vs bk hacken ff 14th 4:00pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 24 | Chelsea fc women vs bk hacken ff 14th 4:00pm
+http://startv365.com:80/9794783213/6955630461/30421
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 25 | Rodriguez vs edwards press conference 14th 4:00pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 25 | Rodriguez vs edwards press conference 14th 4:00pm
+http://startv365.com:80/9794783213/6955630461/30422
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 26 | Paris saintgermain vs as roma (commentaires en français) 14th 4:00pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 26 | Paris saintgermain vs as roma (commentaires en français) 14th 4:00pm
+http://startv365.com:80/9794783213/6955630461/30423
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 27 | Paris saintgermain vs as roma 14th 4:00pm" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 27 | Paris saintgermain vs as roma 14th 4:00pm
+http://startv365.com:80/9794783213/6955630461/30424
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 28 HD LIVE EVENTS ONLY" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 28 HD LIVE EVENTS ONLY
+http://startv365.com:80/9794783213/6955630461/30425
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 29 HD LIVE EVENTS ONLY" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 29 HD LIVE EVENTS ONLY
+http://startv365.com:80/9794783213/6955630461/30426
+#EXTINF:-1 tvg-id="" tvg-name="CA| DAZN CA 30 HD LIVE EVENTS ONLY" tvg-logo="https://lo1.in/ca/dzncaleo.png" group-title="AM | CANADA SPORTS/EVENTS",CA| DAZN CA 30 HD LIVE EVENTS ONLY
+http://startv365.com:80/9794783213/6955630461/30427
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ ENTERTAINMENT ✦●✦" tvg-logo="https://lo1.in/ca/caflg.png" group-title="AM | CANADA ENTERTAINMENT",✦●✦ ENTERTAINMENT ✦●✦
+http://startv365.com:80/9794783213/6955630461/176157
+#EXTINF:-1 tvg-id="" tvg-name="CA| FIRE PLACE CHANNEL HD" tvg-logo="https://lo1.in/ca/firplcch.png" group-title="AM | CANADA ENTERTAINMENT",CA| FIRE PLACE CHANNEL HD
+http://startv365.com:80/9794783213/6955630461/176110
+#EXTINF:-1 tvg-id="hgtv.ca" tvg-name="CA| HGTV HD" tvg-logo="https://lo1.in/ca/hgtv.png" group-title="AM | CANADA ENTERTAINMENT",CA| HGTV HD
+http://startv365.com:80/9794783213/6955630461/176126
+#EXTINF:-1 tvg-id="ctvcomedyeast.ca" tvg-name="CA| CTV COMEDY" tvg-logo="https://lo1.in/ca/ctvcomch.png" group-title="AM | CANADA ENTERTAINMENT",CA| CTV COMEDY
+http://startv365.com:80/9794783213/6955630461/176152
+#EXTINF:-1 tvg-id="ctvlifechannel.ca" tvg-name="CA| CTV LIFE CHANNEL HD" tvg-logo="https://lo1.in/ca/ctvlfchn.png" group-title="AM | CANADA ENTERTAINMENT",CA| CTV LIFE CHANNEL HD
+http://startv365.com:80/9794783213/6955630461/176145
+#EXTINF:-1 tvg-id="tlc.ca" tvg-name="CA| TLC HD" tvg-logo="https://lo1.in/ca/tlc.png" group-title="AM | CANADA ENTERTAINMENT",CA| TLC HD
+http://startv365.com:80/9794783213/6955630461/176132
+#EXTINF:-1 tvg-id="gametv.ca" tvg-name="CA| GAME TV HD" tvg-logo="https://lo1.in/ca/game.png" group-title="AM | CANADA ENTERTAINMENT",CA| GAME TV HD
+http://startv365.com:80/9794783213/6955630461/176127
+#EXTINF:-1 tvg-id="gameshownetwork.ca" tvg-name="CA| GAME SHOW NETWORK HD" tvg-logo="https://lo1.in/ca/game.png" group-title="AM | CANADA ENTERTAINMENT",CA| GAME SHOW NETWORK HD
+http://startv365.com:80/9794783213/6955630461/176141
+#EXTINF:-1 tvg-id="showcase.ca" tvg-name="CA| SHOWCASE HD" tvg-logo="https://lo1.in/ca/shwcas.png" group-title="AM | CANADA ENTERTAINMENT",CA| SHOWCASE HD
+http://startv365.com:80/9794783213/6955630461/176115
+#EXTINF:-1 tvg-id="foodnetwork.ca" tvg-name="CA| FOOD NETWORK HD" tvg-logo="https://lo1.in/ca/fdnw.png" group-title="AM | CANADA ENTERTAINMENT",CA| FOOD NETWORK HD
+http://startv365.com:80/9794783213/6955630461/176111
+#EXTINF:-1 tvg-id="" tvg-name="CA| DIY  HD" tvg-logo="https://lo1.in/ca/diy.png" group-title="AM | CANADA ENTERTAINMENT",CA| DIY  HD
+http://startv365.com:80/9794783213/6955630461/176151
+#EXTINF:-1 tvg-id="paramountnetwork.ca" tvg-name="CA| PARAMOUNT NETWORK HD" tvg-logo="https://lo1.in/ca/pranw.png" group-title="AM | CANADA ENTERTAINMENT",CA| PARAMOUNT NETWORK HD
+http://startv365.com:80/9794783213/6955630461/176136
+#EXTINF:-1 tvg-id="hln.ca" tvg-name="CA| HLN HD" tvg-logo="https://lo1.in/ca/hln.png" group-title="AM | CANADA ENTERTAINMENT",CA| HLN HD
+http://startv365.com:80/9794783213/6955630461/176125
+#EXTINF:-1 tvg-id="slice.ca" tvg-name="CA| SLICE HD" tvg-logo="https://lo1.in/ca/slice.png" group-title="AM | CANADA ENTERTAINMENT",CA| SLICE HD
+http://startv365.com:80/9794783213/6955630461/176117
+#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="CA| E! ENTERTAINMENT HD" tvg-logo="https://lo1.in/ca/et.png" group-title="AM | CANADA ENTERTAINMENT",CA| E! ENTERTAINMENT HD
+http://startv365.com:80/9794783213/6955630461/176118
+#EXTINF:-1 tvg-id="lifetimetv.ca" tvg-name="CA| LIFETIME HD" tvg-logo="https://lo1.in/ca/lftm.png" group-title="AM | CANADA ENTERTAINMENT",CA| LIFETIME HD
+http://startv365.com:80/9794783213/6955630461/242947
+#EXTINF:-1 tvg-id="" tvg-name="CA| OWN HD" tvg-logo="https://lo1.in/ca/own.png" group-title="AM | CANADA ENTERTAINMENT",CA| OWN HD
+http://startv365.com:80/9794783213/6955630461/176122
+#EXTINF:-1 tvg-id="cookingchannel.ca" tvg-name="CA| THE COOKING CHANNEL HD" tvg-logo="https://lo1.in/ca/ckiinch.png" group-title="AM | CANADA ENTERTAINMENT",CA| THE COOKING CHANNEL HD
+http://startv365.com:80/9794783213/6955630461/176113
+#EXTINF:-1 tvg-id="" tvg-name="CA| AMERICAN HEROES CHANNEL HD " tvg-logo="https://lo1.in/ca/amhech.png" group-title="AM | CANADA ENTERTAINMENT",CA| AMERICAN HEROES CHANNEL HD 
+http://startv365.com:80/9794783213/6955630461/176142
+#EXTINF:-1 tvg-id="travelescape.ca" tvg-name="CA| T+E HD " tvg-logo="https://lo1.in/ca/tplse.png" group-title="AM | CANADA ENTERTAINMENT",CA| T+E HD 
+http://startv365.com:80/9794783213/6955630461/176148
+#EXTINF:-1 tvg-id="makeful.ca" tvg-name="CA| MAKEFUL HD" tvg-logo="https://lo1.in/ca/makful.png" group-title="AM | CANADA ENTERTAINMENT",CA| MAKEFUL HD
+http://startv365.com:80/9794783213/6955630461/176123
+#EXTINF:-1 tvg-id="peachtree.ca" tvg-name="CA| PEACHTREE TV HD" tvg-logo="https://lo1.in/ca/pechtr.png" group-title="AM | CANADA ENTERTAINMENT",CA| PEACHTREE TV HD
+http://startv365.com:80/9794783213/6955630461/176156
+#EXTINF:-1 tvg-id="bbcfirst.ca" tvg-name="CA| BBC FIRST HD" tvg-logo="https://lo1.in/ca/bbcfst.png" group-title="AM | CANADA ENTERTAINMENT",CA| BBC FIRST HD
+http://startv365.com:80/9794783213/6955630461/400162721
+#EXTINF:-1 tvg-id="bbccanada.ca" tvg-name="CA| BBC CANADA FHD" tvg-logo="https://lo1.in/ca/bbcca.png" group-title="AM | CANADA ENTERTAINMENT",CA| BBC CANADA FHD
+http://startv365.com:80/9794783213/6955630461/400162720
+#EXTINF:-1 tvg-id="outtv.ca" tvg-name="CA| OUTTV HD" tvg-logo="https://lo1.in/ca/out.png" group-title="AM | CANADA ENTERTAINMENT",CA| OUTTV HD
+http://startv365.com:80/9794783213/6955630461/176144
+#EXTINF:-1 tvg-id="talentvision.ca" tvg-name="CA| TALENT TV HD" tvg-logo="https://lo1.in/ca/tlnt.png" group-title="AM | CANADA ENTERTAINMENT",CA| TALENT TV HD
+http://startv365.com:80/9794783213/6955630461/173546
+#EXTINF:-1 tvg-id="fashiontv.ca" tvg-name="CA| FASHION TELEVISION CHANNEL HD" tvg-logo="https://lo1.in/ca/fshntl.png" group-title="AM | CANADA ENTERTAINMENT",CA| FASHION TELEVISION CHANNEL HD
+http://startv365.com:80/9794783213/6955630461/176120
+#EXTINF:-1 tvg-id="" tvg-name="CA| PEOPLE" tvg-logo="https://lo1.in/ca/ppl.png" group-title="AM | CANADA ENTERTAINMENT",CA| PEOPLE
+http://startv365.com:80/9794783213/6955630461/362324
+#EXTINF:-1 tvg-id="amitv.ca" tvg-name="CA| AMI TV HD" tvg-logo="https://lo1.in/ca/ami.png" group-title="AM | CANADA ENTERTAINMENT",CA| AMI TV HD
+http://startv365.com:80/9794783213/6955630461/176137
+#EXTINF:-1 tvg-id="" tvg-name="CA| A.SIDE TV HD" tvg-logo="https://lo1.in/ca/aside.png" group-title="AM | CANADA ENTERTAINMENT",CA| A.SIDE TV HD
+http://startv365.com:80/9794783213/6955630461/176139
+#EXTINF:-1 tvg-id="theshoppingchannel.ca" tvg-name="CA| THE SHOPPING CHANNEL HD" tvg-logo="https://lo1.in/ca/shpingch.png" group-title="AM | CANADA ENTERTAINMENT",CA| THE SHOPPING CHANNEL HD
+http://startv365.com:80/9794783213/6955630461/176116
+#EXTINF:-1 tvg-id="" tvg-name="CA| MAGNOLIA NETWORK HD" tvg-logo="https://lo1.in/us/magch.png" group-title="AM | CANADA ENTERTAINMENT",CA| MAGNOLIA NETWORK HD
+http://startv365.com:80/9794783213/6955630461/21248
+#EXTINF:-1 tvg-id="" tvg-name="CA| HOLA TV HD" tvg-logo="" group-title="AM | CANADA ENTERTAINMENT",CA| HOLA TV HD
+http://startv365.com:80/9794783213/6955630461/22839
+#EXTINF:-1 tvg-id="" tvg-name="CA| FAMILY ENTERTAINMENT TV HD" tvg-logo="" group-title="AM | CANADA ENTERTAINMENT",CA| FAMILY ENTERTAINMENT TV HD
+http://startv365.com:80/9794783213/6955630461/22840
+#EXTINF:-1 tvg-id="" tvg-name="CA| OPRAH WINFREY NETWORK HD" tvg-logo="" group-title="AM | CANADA ENTERTAINMENT",CA| OPRAH WINFREY NETWORK HD
+http://startv365.com:80/9794783213/6955630461/22841
+#EXTINF:-1 tvg-id="" tvg-name="CA| HOME GARDEN TELEVISION HD" tvg-logo="" group-title="AM | CANADA ENTERTAINMENT",CA| HOME GARDEN TELEVISION HD
+http://startv365.com:80/9794783213/6955630461/22844
+#EXTINF:-1 tvg-id="" tvg-name="CA| CURIOSITY STREAM HD" tvg-logo="" group-title="AM | CANADA ENTERTAINMENT",CA| CURIOSITY STREAM HD
+http://startv365.com:80/9794783213/6955630461/22853
+#EXTINF:-1 tvg-id="" tvg-name="CA| IMPACT NETWORK HD" tvg-logo="https://lo1.in/us/roku.png" group-title="AM | CANADA ENTERTAINMENT",CA| IMPACT NETWORK HD
+http://startv365.com:80/9794783213/6955630461/22855
+#EXTINF:-1 tvg-id="" tvg-name="CA| DOMINICANA HD" tvg-logo="" group-title="AM | CANADA ENTERTAINMENT",CA| DOMINICANA HD
+http://startv365.com:80/9794783213/6955630461/22845
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦CINEMA✦●✦ " tvg-logo="https://lo1.in/ca/flg.png" group-title="AM | CANADA CINEMA",✦●✦CINEMA✦●✦ 
+http://startv365.com:80/9794783213/6955630461/175941
+#EXTINF:-1 tvg-id="ctvscifichannel.ca" tvg-name="CA| CTV SCI-FI CHANNEL HD" tvg-logo="https://lo1.in/ca/ctvscifich.png" group-title="AM | CANADA CINEMA",CA| CTV SCI-FI CHANNEL HD
+http://startv365.com:80/9794783213/6955630461/175903
+#EXTINF:-1 tvg-id="ctvdramachannel.ca" tvg-name="CA| CTV DRAMA CHANNEL HD" tvg-logo="https://lo1.in/ca/ctvcome.png" group-title="AM | CANADA CINEMA",CA| CTV DRAMA CHANNEL HD
+http://startv365.com:80/9794783213/6955630461/175904
+#EXTINF:-1 tvg-id="chch.ca" tvg-name="CA| CHCH HD" tvg-logo="https://lo1.in/ca/chch.png" group-title="AM | CANADA CINEMA",CA| CHCH HD
+http://startv365.com:80/9794783213/6955630461/175916
+#EXTINF:-1 tvg-id="amc.ca" tvg-name="CA| AMC HD" tvg-logo="https://lo1.in/ca/amc.png" group-title="AM | CANADA CINEMA",CA| AMC HD
+http://startv365.com:80/9794783213/6955630461/175917
+#EXTINF:-1 tvg-id="adultswim.ca" tvg-name="CA| ADULT SWIM HD" tvg-logo="https://lo1.in/ca/adltswim.png" group-title="AM | CANADA CINEMA",CA| ADULT SWIM HD
+http://startv365.com:80/9794783213/6955630461/175899
+#EXTINF:-1 tvg-id="crave1.ca" tvg-name="CA| CRAVE 1 HD" tvg-logo="https://lo1.in/ca/crv1.png" group-title="AM | CANADA CINEMA",CA| CRAVE 1 HD
+http://startv365.com:80/9794783213/6955630461/175918
+#EXTINF:-1 tvg-id="crave2.ca" tvg-name="CA| CRAVE 2 HD" tvg-logo="https://lo1.in/ca/crv2.png" group-title="AM | CANADA CINEMA",CA| CRAVE 2 HD
+http://startv365.com:80/9794783213/6955630461/175919
+#EXTINF:-1 tvg-id="crave3.ca" tvg-name="CA| CRAVE 3 HD" tvg-logo="https://lo1.in/ca/crv3.png" group-title="AM | CANADA CINEMA",CA| CRAVE 3 HD
+http://startv365.com:80/9794783213/6955630461/175920
+#EXTINF:-1 tvg-id="crave4.ca" tvg-name="CA| CRAVE 4 HD" tvg-logo="https://lo1.in/ca/crv4.png" group-title="AM | CANADA CINEMA",CA| CRAVE 4 HD
+http://startv365.com:80/9794783213/6955630461/175921
+#EXTINF:-1 tvg-id="movietime.ca" tvg-name="CA| MOVIETIME HD" tvg-logo="https://lo1.in/ca/movtm.png" group-title="AM | CANADA CINEMA",CA| MOVIETIME HD
+http://startv365.com:80/9794783213/6955630461/175902
+#EXTINF:-1 tvg-id="starz1.ca" tvg-name="CA| STARZ 1 HD" tvg-logo="https://lo1.in/ca/strz1.png" group-title="AM | CANADA CINEMA",CA| STARZ 1 HD
+http://startv365.com:80/9794783213/6955630461/175922
+#EXTINF:-1 tvg-id="starz2.ca" tvg-name="CA| STARZ 2 HD" tvg-logo="https://lo1.in/ca/strz1.png" group-title="AM | CANADA CINEMA",CA| STARZ 2 HD
+http://startv365.com:80/9794783213/6955630461/175923
+#EXTINF:-1 tvg-id="abcspark.ca" tvg-name="CA| ABC SPARK HD" tvg-logo="https://lo1.in/ca/abcsca.png" group-title="AM | CANADA CINEMA",CA| ABC SPARK HD
+http://startv365.com:80/9794783213/6955630461/176131
+#EXTINF:-1 tvg-id="silverscreenclassics.ca" tvg-name="CA| SILVER SCREEN CLASSICS HD" tvg-logo="https://lo1.in/ca/slvrscrncla.png" group-title="AM | CANADA CINEMA",CA| SILVER SCREEN CLASSICS HD
+http://startv365.com:80/9794783213/6955630461/176140
+#EXTINF:-1 tvg-id="hollywoodsuite70s.ca" tvg-name="CA| HOLLYWOOD SUITE 70'S  " tvg-logo="https://lo1.in/ca/hlwdsuit70s.png" group-title="AM | CANADA CINEMA",CA| HOLLYWOOD SUITE 70'S  
+http://startv365.com:80/9794783213/6955630461/175913
+#EXTINF:-1 tvg-id="hollywoodsuite80s.ca" tvg-name="CA| HOLLYWOOD SUITE 80'S " tvg-logo="https://lo1.in/ca/hollysui80s.png" group-title="AM | CANADA CINEMA",CA| HOLLYWOOD SUITE 80'S 
+http://startv365.com:80/9794783213/6955630461/175912
+#EXTINF:-1 tvg-id="hollywoodsuite90s.ca" tvg-name="CA| HOLLYWOOD SUITE 90'S " tvg-logo="https://lo1.in/ca/hollysui90s.png" group-title="AM | CANADA CINEMA",CA| HOLLYWOOD SUITE 90'S 
+http://startv365.com:80/9794783213/6955630461/175911
+#EXTINF:-1 tvg-id="hollywoodsuite2000.ca" tvg-name="CA| HOLLYWOOD SUITE 00'S " tvg-logo="https://lo1.in/ca/hollysui00s.png" group-title="AM | CANADA CINEMA",CA| HOLLYWOOD SUITE 00'S 
+http://startv365.com:80/9794783213/6955630461/175906
+#EXTINF:-1 tvg-id="dejaview.ca" tvg-name="CA| DEJAVIEW  HD" tvg-logo="https://lo1.in/ca/dejav.png" group-title="AM | CANADA CINEMA",CA| DEJAVIEW  HD
+http://startv365.com:80/9794783213/6955630461/176146
+#EXTINF:-1 tvg-id="turnerclassicmovies.ca" tvg-name="CA| TURNER CLASSIC MOVIES HD" tvg-logo="https://lo1.in/ca/trnrclamov.png" group-title="AM | CANADA CINEMA",CA| TURNER CLASSIC MOVIES HD
+http://startv365.com:80/9794783213/6955630461/175901
+#EXTINF:-1 tvg-id="cmt.ca" tvg-name="CA| CMT HD" tvg-logo="https://lo1.in/ca/cmt.png" group-title="AM | CANADA CINEMA",CA| CMT HD
+http://startv365.com:80/9794783213/6955630461/176056
+#EXTINF:-1 tvg-id="fxnow.ca" tvg-name="CA| FX HD" tvg-logo="https://lo1.in/ca/fx.png" group-title="AM | CANADA CINEMA",CA| FX HD
+http://startv365.com:80/9794783213/6955630461/175914
+#EXTINF:-1 tvg-id="fxx.ca" tvg-name="CA| FXX HD" tvg-logo="https://lo1.in/ca/fxx.png" group-title="AM | CANADA CINEMA",CA| FXX HD
+http://startv365.com:80/9794783213/6955630461/175915
+#EXTINF:-1 tvg-id="hbo.ca" tvg-name="CA| HBO 1 HD" tvg-logo="https://lo1.in/ca/gbo1.png" group-title="AM | CANADA CINEMA",CA| HBO 1 HD
+http://startv365.com:80/9794783213/6955630461/175927
+#EXTINF:-1 tvg-id="hbo2.ca" tvg-name="CA| HBO 2 HD" tvg-logo="https://lo1.in/ca/hbo2.png" group-title="AM | CANADA CINEMA",CA| HBO 2 HD
+http://startv365.com:80/9794783213/6955630461/175928
+#EXTINF:-1 tvg-id="" tvg-name="CA| WILDBRAIN" tvg-logo="https://lo1.in/ca/wild.png" group-title="AM | CANADA CINEMA",CA| WILDBRAIN
+http://startv365.com:80/9794783213/6955630461/176055
+#EXTINF:-1 tvg-id="rewind.ca" tvg-name="CA| REWIND" tvg-logo="https://lo1.in/ca/rewind.png" group-title="AM | CANADA CINEMA",CA| REWIND
+http://startv365.com:80/9794783213/6955630461/362322
+#EXTINF:-1 tvg-id="superchannelfuse.ca" tvg-name="CA| SUPER CHANNEL FUSE " tvg-logo="https://lo1.in/ca/sprchfuse.png" group-title="AM | CANADA CINEMA",CA| SUPER CHANNEL FUSE 
+http://startv365.com:80/9794783213/6955630461/175925
+#EXTINF:-1 tvg-id="superchannelheartandhome.ca" tvg-name="CA| SUPER CHANNEL HEART & HOME HD" tvg-logo="https://lo1.in/ca/sprchhrthm.png" group-title="AM | CANADA CINEMA",CA| SUPER CHANNEL HEART & HOME HD
+http://startv365.com:80/9794783213/6955630461/175936
+#EXTINF:-1 tvg-id="superchannelvault.ca" tvg-name="CA| SUPER CHANNEL VAULT HD" tvg-logo="https://lo1.in/ca/sprchvlt.png" group-title="AM | CANADA CINEMA",CA| SUPER CHANNEL VAULT HD
+http://startv365.com:80/9794783213/6955630461/175924
+#EXTINF:-1 tvg-id="" tvg-name="CA| TCM HD" tvg-logo="https://lo1.in/ca/tcm.png" group-title="AM | CANADA CINEMA",CA| TCM HD
+http://startv365.com:80/9794783213/6955630461/242951
+#EXTINF:-1 tvg-id="" tvg-name="CA| LIFETIME MOVIES HD" tvg-logo="" group-title="AM | CANADA CINEMA",CA| LIFETIME MOVIES HD
+http://startv365.com:80/9794783213/6955630461/22843
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦DOCUMENTARY✦●✦ " tvg-logo="https://lo1.in/ca/caflg.png" group-title="AM | CANADA DOCUMENTARY",✦●✦DOCUMENTARY✦●✦ 
+http://startv365.com:80/9794783213/6955630461/176182
+#EXTINF:-1 tvg-id="investigationdiscovery.ca" tvg-name="CA| INVESTIGATION DISCOVERY HD" tvg-logo="https://lo1.in/ca/invesdis.png" group-title="AM | CANADA DOCUMENTARY",CA| INVESTIGATION DISCOVERY HD
+http://startv365.com:80/9794783213/6955630461/176161
+#EXTINF:-1 tvg-id="historychannel.ca" tvg-name="CA| HISTORY CHANNEL HD" tvg-logo="https://lo1.in/ca/hisch.png" group-title="AM | CANADA DOCUMENTARY",CA| HISTORY CHANNEL HD
+http://startv365.com:80/9794783213/6955630461/176160
+#EXTINF:-1 tvg-id="aande.ca" tvg-name="CA| A&E HD" tvg-logo="https://lo1.in/ca/ane.png" group-title="AM | CANADA DOCUMENTARY",CA| A&E HD
+http://startv365.com:80/9794783213/6955630461/176177
+#EXTINF:-1 tvg-id="discoveryvelocity.ca" tvg-name="CA| DISCOVERY VELOCITY HD" tvg-logo="https://lo1.in/ca/disvc.png" group-title="AM | CANADA DOCUMENTARY",CA| DISCOVERY VELOCITY HD
+http://startv365.com:80/9794783213/6955630461/176169
+#EXTINF:-1 tvg-id="discoverychannel.ca" tvg-name="CA| DISCOVERY CANADA HD" tvg-logo="https://lo1.in/ca/discca.png" group-title="AM | CANADA DOCUMENTARY",CA| DISCOVERY CANADA HD
+http://startv365.com:80/9794783213/6955630461/242924
+#EXTINF:-1 tvg-id="discoveryscience.ca" tvg-name="CA| DISCOVERY SCIENCE HD" tvg-logo="https://lo1.in/ca/disscic.png" group-title="AM | CANADA DOCUMENTARY",CA| DISCOVERY SCIENCE HD
+http://startv365.com:80/9794783213/6955630461/176167
+#EXTINF:-1 tvg-id="dtour.ca" tvg-name="CA| DTOUR HD" tvg-logo="https://lo1.in/ca/dtour.png" group-title="AM | CANADA DOCUMENTARY",CA| DTOUR HD
+http://startv365.com:80/9794783213/6955630461/176174
+#EXTINF:-1 tvg-id="smithsonian.ca" tvg-name="CA| SMITHSONIAN HD" tvg-logo="https://lo1.in/ca/smths.png" group-title="AM | CANADA DOCUMENTARY",CA| SMITHSONIAN HD
+http://startv365.com:80/9794783213/6955630461/362321
+#EXTINF:-1 tvg-id="cottagelife.ca" tvg-name="CA| COTTAGE LIFE HD" tvg-logo="https://lo1.in/ca/ctgelf.png" group-title="AM | CANADA DOCUMENTARY",CA| COTTAGE LIFE HD
+http://startv365.com:80/9794783213/6955630461/176181
+#EXTINF:-1 tvg-id="natgeo.ca" tvg-name="CA| NATIONAL GEOGRAPHIC HD" tvg-logo="https://lo1.in/ca/natgeo.png" group-title="AM | CANADA DOCUMENTARY",CA| NATIONAL GEOGRAPHIC HD
+http://startv365.com:80/9794783213/6955630461/176159
+#EXTINF:-1 tvg-id="natgeowild.ca" tvg-name="CA| NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://lo1.in/ca/ntwild.png" group-title="AM | CANADA DOCUMENTARY",CA| NATIONAL GEOGRAPHIC WILD HD
+http://startv365.com:80/9794783213/6955630461/176158
+#EXTINF:-1 tvg-id="nasachannel.us" tvg-name="CA| NASA" tvg-logo="https://lo1.in/ca/nasa.png" group-title="AM | CANADA DOCUMENTARY",CA| NASA
+http://startv365.com:80/9794783213/6955630461/259054
+#EXTINF:-1 tvg-id="history2.ca" tvg-name="CA| H2 HD" tvg-logo="https://lo1.in/ca/h2.png" group-title="AM | CANADA DOCUMENTARY",CA| H2 HD
+http://startv365.com:80/9794783213/6955630461/176143
+#EXTINF:-1 tvg-id="travelxp.ca" tvg-name="CA| TRAVELXP HD" tvg-logo="https://lo1.in/ca/trvlxp.png" group-title="AM | CANADA DOCUMENTARY",CA| TRAVELXP HD
+http://startv365.com:80/9794783213/6955630461/176119
+#EXTINF:-1 tvg-id="animalplanet.ca" tvg-name="CA| ANIMAL PLANET HD" tvg-logo="https://lo1.in/ca/anmlplnt.png" group-title="AM | CANADA DOCUMENTARY",CA| ANIMAL PLANET HD
+http://startv365.com:80/9794783213/6955630461/176171
+#EXTINF:-1 tvg-id="travelescape.ca" tvg-name="CA| TRAVEL ESCAPE HD" tvg-logo="https://lo1.in/ca/trvlescp.png" group-title="AM | CANADA DOCUMENTARY",CA| TRAVEL ESCAPE HD
+http://startv365.com:80/9794783213/6955630461/176176
+#EXTINF:-1 tvg-id="documentarychannel.ca" tvg-name="CA| DOCUMENTARY HD" tvg-logo="https://lo1.in/ca/docum.png" group-title="AM | CANADA DOCUMENTARY",CA| DOCUMENTARY HD
+http://startv365.com:80/9794783213/6955630461/176166
+#EXTINF:-1 tvg-id="crimeinvestigation.ca" tvg-name="CA| CRIME & INVESTIGATION HD" tvg-logo="https://lo1.in/ca/crimninvest.png" group-title="AM | CANADA DOCUMENTARY",CA| CRIME & INVESTIGATION HD
+http://startv365.com:80/9794783213/6955630461/176170
+#EXTINF:-1 tvg-id="wild.ca" tvg-name="CA| WILD TV HD" tvg-logo="https://lo1.in/ca/wild.png" group-title="AM | CANADA DOCUMENTARY",CA| WILD TV HD
+http://startv365.com:80/9794783213/6955630461/176172
+#EXTINF:-1 tvg-id="aptn.ca" tvg-name="CA| APTN HD" tvg-logo="https://lo1.in/ca/aptn.png" group-title="AM | CANADA DOCUMENTARY",CA| APTN HD
+http://startv365.com:80/9794783213/6955630461/176178
+#EXTINF:-1 tvg-id="" tvg-name="CA| AMAZING DISCOVERIES TV HD" tvg-logo="https://lo1.in/ca/amzdis.png" group-title="AM | CANADA DOCUMENTARY",CA| AMAZING DISCOVERIES TV HD
+http://startv365.com:80/9794783213/6955630461/176173
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦KIDS✦●✦ " tvg-logo="https://lo1.in/ca/caflg.png" group-title="AM | CANADA KIDS",✦●✦KIDS✦●✦ 
+http://startv365.com:80/9794783213/6955630461/176066
+#EXTINF:-1 tvg-id="babytv.fr" tvg-name="CA| BABY TV HD" tvg-logo="https://lo1.in/ca/bbytv.png" group-title="AM | CANADA KIDS",CA| BABY TV HD
+http://startv365.com:80/9794783213/6955630461/259076
+#EXTINF:-1 tvg-id="cartoonnetwork.ca" tvg-name="CA| CARTOON NETWORK HD" tvg-logo="https://lo1.in/ca/cn.png" group-title="AM | CANADA KIDS",CA| CARTOON NETWORK HD
+http://startv365.com:80/9794783213/6955630461/176057
+#EXTINF:-1 tvg-id="" tvg-name="CA| CBC HD" tvg-logo="https://lo1.in/ca/cbc.png" group-title="AM | CANADA KIDS",CA| CBC HD
+http://startv365.com:80/9794783213/6955630461/176061
+#EXTINF:-1 tvg-id="disneychannel.ca" tvg-name="CA| DISNEY CHANNEL HD" tvg-logo="https://lo1.in/ca/disnch.png" group-title="AM | CANADA KIDS",CA| DISNEY CHANNEL HD
+http://startv365.com:80/9794783213/6955630461/176051
+#EXTINF:-1 tvg-id="disneyjunior.ca" tvg-name="CA| DISNEY JUNIOR HD" tvg-logo="https://lo1.in/ca/disnjr.png" group-title="AM | CANADA KIDS",CA| DISNEY JUNIOR HD
+http://startv365.com:80/9794783213/6955630461/176059
+#EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="CA| DISNEY XD HD" tvg-logo="https://lo1.in/ca/disnxd.png" group-title="AM | CANADA KIDS",CA| DISNEY XD HD
+http://startv365.com:80/9794783213/6955630461/176050
+#EXTINF:-1 tvg-id="familychannel.ca" tvg-name="CA| FAMILY EAST HD " tvg-logo="https://lo1.in/ca/famchea.png" group-title="AM | CANADA KIDS",CA| FAMILY EAST HD 
+http://startv365.com:80/9794783213/6955630461/176054
+#EXTINF:-1 tvg-id="familyjr.ca" tvg-name="CA| FAMILY JR. " tvg-logo="https://lo1.in/ca/famjr.png" group-title="AM | CANADA KIDS",CA| FAMILY JR. 
+http://startv365.com:80/9794783213/6955630461/176049
+#EXTINF:-1 tvg-id="" tvg-name="CA| FAMILY WEST" tvg-logo="https://lo1.in/ca/famwst.png" group-title="AM | CANADA KIDS",CA| FAMILY WEST
+http://startv365.com:80/9794783213/6955630461/362326
+#EXTINF:-1 tvg-id="" tvg-name="CA| TVO HD" tvg-logo="https://lo1.in/ca/tvo.png" group-title="AM | CANADA KIDS",CA| TVO HD
+http://startv365.com:80/9794783213/6955630461/13289
+#EXTINF:-1 tvg-id="nickelodeon.ca" tvg-name="CA| NICKELODEON" tvg-logo="https://lo1.in/ca/nickol.png" group-title="AM | CANADA KIDS",CA| NICKELODEON
+http://startv365.com:80/9794783213/6955630461/176046
+#EXTINF:-1 tvg-id="" tvg-name="CA| PBS 57 (WCFE) MOUNTAIN LAKE " tvg-logo="https://lo1.in/ca/pbs57.png" group-title="AM | CANADA KIDS",CA| PBS 57 (WCFE) MOUNTAIN LAKE 
+http://startv365.com:80/9794783213/6955630461/176079
+#EXTINF:-1 tvg-id="teletoon.ca" tvg-name="CA| TELETOON " tvg-logo="https://lo1.in/ca/tltns.png" group-title="AM | CANADA KIDS",CA| TELETOON 
+http://startv365.com:80/9794783213/6955630461/176153
+#EXTINF:-1 tvg-id="treehouse.ca" tvg-name="CA| TREEHOUSE" tvg-logo="https://lo1.in/ca/treehs.png" group-title="AM | CANADA KIDS",CA| TREEHOUSE
+http://startv365.com:80/9794783213/6955630461/176048
+#EXTINF:-1 tvg-id="tvo.ca" tvg-name="CA| TV ONTARIO HD" tvg-logo="https://lo1.in/ca/tvontrio.png" group-title="AM | CANADA KIDS",CA| TV ONTARIO HD
+http://startv365.com:80/9794783213/6955630461/176060
+#EXTINF:-1 tvg-id="" tvg-name="CA| YTV EAST HD " tvg-logo="https://lo1.in/ca/yteast.png" group-title="AM | CANADA KIDS",CA| YTV EAST HD 
+http://startv365.com:80/9794783213/6955630461/176047
+#EXTINF:-1 tvg-id="" tvg-name="CA| YTV WEST HD" tvg-logo="https://lo1.in/ca/ytvw.png" group-title="AM | CANADA KIDS",CA| YTV WEST HD
+http://startv365.com:80/9794783213/6955630461/176155
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦MUSIC✦●✦ " tvg-logo="https://lo1.in/ca/caflg.png" group-title="AM | CANADA MUSIC",✦●✦MUSIC✦●✦ 
+http://startv365.com:80/9794783213/6955630461/175898
+#EXTINF:-1 tvg-id="bet.ca" tvg-name="CA| BET HD" tvg-logo="https://lo1.in/ca/bet.png" group-title="AM | CANADA MUSIC",CA| BET HD
+http://startv365.com:80/9794783213/6955630461/175890
+#EXTINF:-1 tvg-id="mtv.ca" tvg-name="CA| MTV HD" tvg-logo="https://lo1.in/ca/mtv.png" group-title="AM | CANADA MUSIC",CA| MTV HD
+http://startv365.com:80/9794783213/6955630461/175889
+#EXTINF:-1 tvg-id="mtv2.ca" tvg-name="CA| MTV 2 HD" tvg-logo="https://lo1.in/ca/mtv2.png" group-title="AM | CANADA MUSIC",CA| MTV 2 HD
+http://startv365.com:80/9794783213/6955630461/175892
+#EXTINF:-1 tvg-id="muchmusic.ca" tvg-name="CA| MUCH MUSIC " tvg-logo="https://lo1.in/ca/muchmus.png" group-title="AM | CANADA MUSIC",CA| MUCH MUSIC 
+http://startv365.com:80/9794783213/6955630461/175888
+#EXTINF:-1 tvg-id="ntvcjon.ca" tvg-name="CA| NTV ST. JOHN'S HD" tvg-logo="https://lo1.in/ca/ntv.png" group-title="AM | CANADA MUSIC",CA| NTV ST. JOHN'S HD
+http://startv365.com:80/9794783213/6955630461/176108
+#EXTINF:-1 tvg-id="onegetfit.ca" tvg-name="CA| ONE GET FIT HD " tvg-logo="https://lo1.in/ca/onegf.png" group-title="AM | CANADA MUSIC",CA| ONE GET FIT HD 
+http://startv365.com:80/9794783213/6955630461/175893
+#EXTINF:-1 tvg-id="" tvg-name="CA| CMT MUSIC HD" tvg-logo="" group-title="AM | CANADA MUSIC",CA| CMT MUSIC HD
+http://startv365.com:80/9794783213/6955630461/22851
+#EXTINF:-1 tvg-id="" tvg-name="CA|  STINGRAY RETRO " tvg-logo="https://lo1.in/ca/stinrtro.png" group-title="AM | CANADA MUSIC",CA|  STINGRAY RETRO 
+http://startv365.com:80/9794783213/6955630461/175896
+#EXTINF:-1 tvg-id="" tvg-name="CA|  STINGRAY VIBE " tvg-logo="https://lo1.in/ca/stinvibe.png" group-title="AM | CANADA MUSIC",CA|  STINGRAY VIBE 
+http://startv365.com:80/9794783213/6955630461/175897
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY ADULT ALTERNATIVE" tvg-logo="https://lo1.in/ca/stinesyles.png" group-title="AM | CANADA MUSIC",CA| STINGRAY ADULT ALTERNATIVE
+http://startv365.com:80/9794783213/6955630461/259025
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY CLASSIC MASTERS" tvg-logo="https://lo1.in/ca/stinesyles.png" group-title="AM | CANADA MUSIC",CA| STINGRAY CLASSIC MASTERS
+http://startv365.com:80/9794783213/6955630461/259022
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY CLASSIC ROCK" tvg-logo="https://lo1.in/ca/stinesyles.png" group-title="AM | CANADA MUSIC",CA| STINGRAY CLASSIC ROCK
+http://startv365.com:80/9794783213/6955630461/259021
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY COUNTRY CLASSICS" tvg-logo="https://lo1.in/ca/stinesyles.png" group-title="AM | CANADA MUSIC",CA| STINGRAY COUNTRY CLASSICS
+http://startv365.com:80/9794783213/6955630461/259020
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY EASY LISTENING" tvg-logo="https://lo1.in/ca/stinesyles.png" group-title="AM | CANADA MUSIC",CA| STINGRAY EASY LISTENING
+http://startv365.com:80/9794783213/6955630461/259018
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY FLASHBACK 70'S" tvg-logo="https://lo1.in/ca/stinesyles.png" group-title="AM | CANADA MUSIC",CA| STINGRAY FLASHBACK 70'S
+http://startv365.com:80/9794783213/6955630461/259017
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY HIT LIST" tvg-logo="https://lo1.in/ca/stinesyles.png" group-title="AM | CANADA MUSIC",CA| STINGRAY HIT LIST
+http://startv365.com:80/9794783213/6955630461/259013
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY HOT COUNTRY" tvg-logo="https://lo1.in/ca/stinesyles.png" group-title="AM | CANADA MUSIC",CA| STINGRAY HOT COUNTRY
+http://startv365.com:80/9794783213/6955630461/259012
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY JUKEBOX OLDIES" tvg-logo="https://lo1.in/ca/stinesyles.png" group-title="AM | CANADA MUSIC",CA| STINGRAY JUKEBOX OLDIES
+http://startv365.com:80/9794783213/6955630461/259010
+#EXTINF:-1 tvg-id="" tvg-name="CA|  STINGRAY LOUD " tvg-logo="https://lo1.in/ca/stinld.png" group-title="AM | CANADA MUSIC",CA|  STINGRAY LOUD 
+http://startv365.com:80/9794783213/6955630461/175895
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY NATURE" tvg-logo="https://lo1.in/ca/stinesyles.png" group-title="AM | CANADA MUSIC",CA| STINGRAY NATURE
+http://startv365.com:80/9794783213/6955630461/259007
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY NOSTALGIE" tvg-logo="https://lo1.in/ca/stinesyles.png" group-title="AM | CANADA MUSIC",CA| STINGRAY NOSTALGIE
+http://startv365.com:80/9794783213/6955630461/259006
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY POP ADULT" tvg-logo="https://lo1.in/ca/stinesyles.png" group-title="AM | CANADA MUSIC",CA| STINGRAY POP ADULT
+http://startv365.com:80/9794783213/6955630461/259005
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY REMEMBER THE 80'S" tvg-logo="https://lo1.in/ca/stinesyles.png" group-title="AM | CANADA MUSIC",CA| STINGRAY REMEMBER THE 80'S
+http://startv365.com:80/9794783213/6955630461/259001
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY ROCK" tvg-logo="https://lo1.in/ca/stinesyles.png" group-title="AM | CANADA MUSIC",CA| STINGRAY ROCK
+http://startv365.com:80/9794783213/6955630461/258999
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY SMOOTH JAZZ" tvg-logo="https://lo1.in/ca/stintpdtnt.png" group-title="AM | CANADA MUSIC",CA| STINGRAY SMOOTH JAZZ
+http://startv365.com:80/9794783213/6955630461/258997
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY SPECIAL ENGLISH" tvg-logo="https://lo1.in/ca/stintpdtnt.png" group-title="AM | CANADA MUSIC",CA| STINGRAY SPECIAL ENGLISH
+http://startv365.com:80/9794783213/6955630461/258996
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY THE BLUES" tvg-logo="https://lo1.in/ca/stintpdtnt.png" group-title="AM | CANADA MUSIC",CA| STINGRAY THE BLUES
+http://startv365.com:80/9794783213/6955630461/258995
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY THE CHILL LOUNGE" tvg-logo="https://lo1.in/ca/stintpdtnt.png" group-title="AM | CANADA MUSIC",CA| STINGRAY THE CHILL LOUNGE
+http://startv365.com:80/9794783213/6955630461/258994
+#EXTINF:-1 tvg-id="" tvg-name="CA| STINGRAY THE SPA" tvg-logo="https://lo1.in/ca/stinspa.png" group-title="AM | CANADA MUSIC",CA| STINGRAY THE SPA
+http://startv365.com:80/9794783213/6955630461/258993
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦LOCAL CHANNELS✦●✦ " tvg-logo="https://lo1.in/ca/caflg.png" group-title="AM | CANADA LOCAL CHANNELS",✦●✦LOCAL CHANNELS✦●✦ 
+http://startv365.com:80/9794783213/6955630461/176045
+#EXTINF:-1 tvg-id="" tvg-name="CA| ABC 7 (WXYZ) DETROIT HD" tvg-logo="https://lo1.in/ca/abc7.png" group-title="AM | CANADA LOCAL CHANNELS",CA| ABC 7 (WXYZ) DETROIT HD
+http://startv365.com:80/9794783213/6955630461/176033
+#EXTINF:-1 tvg-id="" tvg-name="CA| ABC WEST" tvg-logo="" group-title="AM | CANADA LOCAL CHANNELS",CA| ABC WEST
+http://startv365.com:80/9794783213/6955630461/156720
+#EXTINF:-1 tvg-id="" tvg-name="CA| ABC EAST" tvg-logo="" group-title="AM | CANADA LOCAL CHANNELS",CA| ABC EAST
+http://startv365.com:80/9794783213/6955630461/156721
+#EXTINF:-1 tvg-id="" tvg-name="CA| NBC WEST" tvg-logo="" group-title="AM | CANADA LOCAL CHANNELS",CA| NBC WEST
+http://startv365.com:80/9794783213/6955630461/156705
+#EXTINF:-1 tvg-id="" tvg-name="CA| NBC EAST" tvg-logo="" group-title="AM | CANADA LOCAL CHANNELS",CA| NBC EAST
+http://startv365.com:80/9794783213/6955630461/156706
+#EXTINF:-1 tvg-id="ctvhalifax.ca" tvg-name="CA| CTV HALIFAX HD " tvg-logo="https://lo1.in/ca/ctvclgry.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV HALIFAX HD 
+http://startv365.com:80/9794783213/6955630461/175968
+#EXTINF:-1 tvg-id="ctvmontreal.ca" tvg-name="CA| CTV MONTREAL HD " tvg-logo="https://lo1.in/ca/ctvclgry.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV MONTREAL HD 
+http://startv365.com:80/9794783213/6955630461/175970
+#EXTINF:-1 tvg-id="ctvottawa.ca" tvg-name="CA| CTV OTTAWA HD " tvg-logo="https://lo1.in/ca/ctv2trnt.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV OTTAWA HD 
+http://startv365.com:80/9794783213/6955630461/176004
+#EXTINF:-1 tvg-id="ctvwinnipeg.ca" tvg-name="CA| CTV WINNIPEG HD" tvg-logo="https://lo1.in/ca/ctv2bar.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV WINNIPEG HD
+http://startv365.com:80/9794783213/6955630461/175978
+#EXTINF:-1 tvg-id="ctvkitchener.ca" tvg-name="CA| CTV KITCHENER HD " tvg-logo="https://lo1.in/ca/ctv2atlntc.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV KITCHENER HD 
+http://startv365.com:80/9794783213/6955630461/175992
+#EXTINF:-1 tvg-id="ctvcalgary.ca" tvg-name="CA| CTV CALGARY HD " tvg-logo="https://lo1.in/ca/ctvclgry.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV CALGARY HD 
+http://startv365.com:80/9794783213/6955630461/175967
+#EXTINF:-1 tvg-id="ctvmoncton.ca" tvg-name="CA| CTV MONCTON HD " tvg-logo="https://lo1.in/ca/ctvclgry.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV MONCTON HD 
+http://startv365.com:80/9794783213/6955630461/175969
+#EXTINF:-1 tvg-id="ctvnorthbay.ca" tvg-name="CA| CTV NORTH BAY HD " tvg-logo="https://lo1.in/ca/ctvclgry.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV NORTH BAY HD 
+http://startv365.com:80/9794783213/6955630461/175971
+#EXTINF:-1 tvg-id="ctvedmonton.ca" tvg-name="CA| CTV EDMONTON HD" tvg-logo="https://lo1.in/ca/ctvedmt.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV EDMONTON HD
+http://startv365.com:80/9794783213/6955630461/400274017
+#EXTINF:-1 tvg-id="ctvregina.ca" tvg-name="CA| CTV REGINA HD " tvg-logo="https://lo1.in/ca/ctvclgry.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV REGINA HD 
+http://startv365.com:80/9794783213/6955630461/175972
+#EXTINF:-1 tvg-id="ctvsaultstemarie.ca" tvg-name="CA| CTV SAULT STE. MARIE HD " tvg-logo="https://lo1.in/ca/ctvclgry.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV SAULT STE. MARIE HD 
+http://startv365.com:80/9794783213/6955630461/175973
+#EXTINF:-1 tvg-id="ctvsudbury.ca" tvg-name="CA| CTV SUDBURY HD " tvg-logo="https://lo1.in/ca/ctvclgry.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV SUDBURY HD 
+http://startv365.com:80/9794783213/6955630461/175974
+#EXTINF:-1 tvg-id="" tvg-name="CA| CTV SYDNEY HD " tvg-logo="https://lo1.in/ca/ctvclgry.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV SYDNEY HD 
+http://startv365.com:80/9794783213/6955630461/175975
+#EXTINF:-1 tvg-id="ctvtimmins.ca" tvg-name="CA| CTV TIMMINS HD " tvg-logo="https://lo1.in/ca/ctvclgry.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV TIMMINS HD 
+http://startv365.com:80/9794783213/6955630461/175976
+#EXTINF:-1 tvg-id="ctvvancouver.ca" tvg-name="CA| CTV VANCOUVER HD " tvg-logo="https://lo1.in/ca/ctvclgry.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV VANCOUVER HD 
+http://startv365.com:80/9794783213/6955630461/175977
+#EXTINF:-1 tvg-id="" tvg-name="CA| CTV LETHBRIDGE HD" tvg-logo="" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV LETHBRIDGE HD
+http://startv365.com:80/9794783213/6955630461/156679
+#EXTINF:-1 tvg-id="" tvg-name="CA| CTV PRINCE ALBERT HD" tvg-logo="" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV PRINCE ALBERT HD
+http://startv365.com:80/9794783213/6955630461/156680
+#EXTINF:-1 tvg-id="" tvg-name="CA| CTV SASKATOON HD" tvg-logo="" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV SASKATOON HD
+http://startv365.com:80/9794783213/6955630461/156681
+#EXTINF:-1 tvg-id="" tvg-name="CA| CTV YORKTON HD" tvg-logo="" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV YORKTON HD
+http://startv365.com:80/9794783213/6955630461/156682
+#EXTINF:-1 tvg-id="ctv2ottawa.ca" tvg-name="CA| CTV2 OTTAWA HD " tvg-logo="https://lo1.in/ca/ctv2trnt.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV2 OTTAWA HD 
+http://startv365.com:80/9794783213/6955630461/175996
+#EXTINF:-1 tvg-id="ctv2toronto.ca" tvg-name="CA| CTV2 TORONTO HD" tvg-logo="https://lo1.in/ca/ctv2bar.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV2 TORONTO HD
+http://startv365.com:80/9794783213/6955630461/175980
+#EXTINF:-1 tvg-id="ctvatlantic.ca" tvg-name="CA| CTV2 ATLANTIC HD" tvg-logo="https://lo1.in/ca/ctv2atlntc.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV2 ATLANTIC HD
+http://startv365.com:80/9794783213/6955630461/176044
+#EXTINF:-1 tvg-id="ctv2barrie.ca" tvg-name="CA| CTV2 BARRIE HD " tvg-logo="https://lo1.in/ca/ctv2bar.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV2 BARRIE HD 
+http://startv365.com:80/9794783213/6955630461/175944
+#EXTINF:-1 tvg-id="ctv2london.ca" tvg-name="CA| CTV2 LONDON HD " tvg-logo="https://lo1.in/ca/ctv2atlntc.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV2 LONDON HD 
+http://startv365.com:80/9794783213/6955630461/175993
+#EXTINF:-1 tvg-id="ctv2vancouver.ca" tvg-name="CA| CTV2 VANCOUVER ISLAND HD" tvg-logo="https://lo1.in/ca/ctv2vncvris.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV2 VANCOUVER ISLAND HD
+http://startv365.com:80/9794783213/6955630461/259208
+#EXTINF:-1 tvg-id="" tvg-name="CA| CTV2 VICTORIA HD " tvg-logo="https://lo1.in/ca/ctv2bar.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV2 VICTORIA HD 
+http://startv365.com:80/9794783213/6955630461/175981
+#EXTINF:-1 tvg-id="ctv2windsor.ca" tvg-name="CA| CTV2 WINDSOR HD " tvg-logo="https://lo1.in/ca/ctv2bar.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV2 WINDSOR HD 
+http://startv365.com:80/9794783213/6955630461/175982
+#EXTINF:-1 tvg-id="" tvg-name="CA| CTV2 Alberta | HD" tvg-logo="" group-title="AM | CANADA LOCAL CHANNELS",CA| CTV2 Alberta | HD
+http://startv365.com:80/9794783213/6955630461/156678
+#EXTINF:-1 tvg-id="globaltoronto.ca" tvg-name="CA| GLOBAL TORONTO HD" tvg-logo="https://lo1.in/ca/glbltrnto.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL TORONTO HD
+http://startv365.com:80/9794783213/6955630461/175946
+#EXTINF:-1 tvg-id="globalcalgary.ca" tvg-name="CA| GLOBAL CALGARY NEWS HD" tvg-logo="https://lo1.in/ca/glblcalns.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL CALGARY NEWS HD
+http://startv365.com:80/9794783213/6955630461/259206
+#EXTINF:-1 tvg-id="globaledmonton.ca" tvg-name="CA| GLOBAL EDMONTON NEWS HD" tvg-logo="https://lo1.in/ca/glbldmnns.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL EDMONTON NEWS HD
+http://startv365.com:80/9794783213/6955630461/259205
+#EXTINF:-1 tvg-id="globalbc.ca" tvg-name="CA| GLOBAL BC NEWS HD" tvg-logo="https://lo1.in/ca/glblbcns.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL BC NEWS HD
+http://startv365.com:80/9794783213/6955630461/259207
+#EXTINF:-1 tvg-id="globaldurham.ca" tvg-name="CA| GLOBAL DURHAM HD " tvg-logo="https://lo1.in/ca/glblvancr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL DURHAM HD 
+http://startv365.com:80/9794783213/6955630461/175991
+#EXTINF:-1 tvg-id="" tvg-name="CA| GLOBAL MARITIMES HD" tvg-logo="https://lo1.in/ca/glbl.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL MARITIMES HD
+http://startv365.com:80/9794783213/6955630461/43245
+#EXTINF:-1 tvg-id="hlobalhalifaxCIHF.ca" tvg-name="CA| GLOBAL HALIFAX HD" tvg-logo="https://lo1.in/ca/glblhlfx.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL HALIFAX HD
+http://startv365.com:80/9794783213/6955630461/400241862
+#EXTINF:-1 tvg-id="hlobalhalifaxCIHF.ca" tvg-name="CA| GLOBAL HALIFAX NEWS HD " tvg-logo="https://lo1.in/ca/glblvancr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL HALIFAX NEWS HD 
+http://startv365.com:80/9794783213/6955630461/175984
+#EXTINF:-1 tvg-id="" tvg-name="CA| GLOBAL KINGSTON HD " tvg-logo="https://lo1.in/ca/glblks.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL KINGSTON HD 
+http://startv365.com:80/9794783213/6955630461/360852
+#EXTINF:-1 tvg-id="" tvg-name="CA| GLOBAL KINGSTON NEWS HD" tvg-logo="https://lo1.in/ca/glblvancr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL KINGSTON NEWS HD
+http://startv365.com:80/9794783213/6955630461/175985
+#EXTINF:-1 tvg-id="globallethbridge.ca" tvg-name="CA| GLOBAL LETHBRIDGE NEWS HD" tvg-logo="https://lo1.in/ca/glblbrdgns.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL LETHBRIDGE NEWS HD
+http://startv365.com:80/9794783213/6955630461/259204
+#EXTINF:-1 tvg-id="globalmontreal.ca" tvg-name="CA| GLOBAL MONTREAL HD " tvg-logo="https://lo1.in/ca/glblvancr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL MONTREAL HD 
+http://startv365.com:80/9794783213/6955630461/175986
+#EXTINF:-1 tvg-id="" tvg-name="CA| GLOBAL NATIONAL (HD) " tvg-logo="https://lo1.in/ca/glblvancr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL NATIONAL (HD) 
+http://startv365.com:80/9794783213/6955630461/175990
+#EXTINF:-1 tvg-id="" tvg-name="CA| GLOBAL OKANAGAN NEWS HD" tvg-logo="https://lo1.in/ca/glblokngnns.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL OKANAGAN NEWS HD
+http://startv365.com:80/9794783213/6955630461/259203
+#EXTINF:-1 tvg-id="" tvg-name="CA| GLOBAL PETERBOROUGH HD " tvg-logo="https://lo1.in/ca/glblvancr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL PETERBOROUGH HD 
+http://startv365.com:80/9794783213/6955630461/175987
+#EXTINF:-1 tvg-id="globalnewsbc1.ca" tvg-name="CA| GIOBAL PETERBOROUGH NEWS HD" tvg-logo="https://lo1.in/ca/glblvancr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GIOBAL PETERBOROUGH NEWS HD
+http://startv365.com:80/9794783213/6955630461/400693129
+#EXTINF:-1 tvg-id="globalregina.ca" tvg-name="CA| GLOBAL REGINA NEWS HD" tvg-logo="https://lo1.in/ca/glblre.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL REGINA NEWS HD
+http://startv365.com:80/9794783213/6955630461/259202
+#EXTINF:-1 tvg-id="globalsaskatoon.ca" tvg-name="CA| GLOBAL SASKATOON NEWS HD" tvg-logo="https://lo1.in/ca/glblsktnns.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL SASKATOON NEWS HD
+http://startv365.com:80/9794783213/6955630461/259201
+#EXTINF:-1 tvg-id="" tvg-name="CA| GLOBAL VANCOUVER" tvg-logo="https://lo1.in/ca/glblvancr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL VANCOUVER
+http://startv365.com:80/9794783213/6955630461/175988
+#EXTINF:-1 tvg-id="" tvg-name="CA| GLOBAL WINNIPEG NEWS HD" tvg-logo="https://lo1.in/ca/glblwinipegns.png" group-title="AM | CANADA LOCAL CHANNELS",CA| GLOBAL WINNIPEG NEWS HD
+http://startv365.com:80/9794783213/6955630461/259200
+#EXTINF:-1 tvg-id="" tvg-name="CA| BUSINESS BLOOMBERG HD " tvg-logo="https://lo1.in/ca/bblmbrg.png" group-title="AM | CANADA LOCAL CHANNELS",CA| BUSINESS BLOOMBERG HD 
+http://startv365.com:80/9794783213/6955630461/176042
+#EXTINF:-1 tvg-id="citytvmontrealqc.ca" tvg-name="CA| CITYTV MONTREAL HD " tvg-logo="https://lo1.in/ca/citymntrl.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CITYTV MONTREAL HD 
+http://startv365.com:80/9794783213/6955630461/175965
+#EXTINF:-1 tvg-id="citytvwinnipeg.ca" tvg-name="CA| CITY TV WINNIPEG HD" tvg-logo="https://lo1.in/ca/citywinipeg.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CITY TV WINNIPEG HD
+http://startv365.com:80/9794783213/6955630461/362327
+#EXTINF:-1 tvg-id="citytvcalgary.ca" tvg-name="CA| CITY TV CALGARY HD" tvg-logo="https://lo1.in/ca/citywinipeg.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CITY TV CALGARY HD
+http://startv365.com:80/9794783213/6955630461/362328
+#EXTINF:-1 tvg-id="citytvvancouverqc.ca" tvg-name="CA| CITYTV VANCOUVER HD " tvg-logo="https://lo1.in/ca/cityvncvr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CITYTV VANCOUVER HD 
+http://startv365.com:80/9794783213/6955630461/175966
+#EXTINF:-1 tvg-id="" tvg-name="CA| PBS (WTVS) SEATTLE HD" tvg-logo="https://lo1.in/ca/pbsse.png" group-title="AM | CANADA LOCAL CHANNELS",CA| PBS (WTVS) SEATTLE HD
+http://startv365.com:80/9794783213/6955630461/258942
+#EXTINF:-1 tvg-id="" tvg-name="CA| PBS 10 (WMEM) PRESQUE ISLE HD" tvg-logo="https://lo1.in/ca/pbs10ps.png" group-title="AM | CANADA LOCAL CHANNELS",CA| PBS 10 (WMEM) PRESQUE ISLE HD
+http://startv365.com:80/9794783213/6955630461/176019
+#EXTINF:-1 tvg-id="" tvg-name="CA| PBS 17 (WNED) BUFFALO  HD" tvg-logo="https://lo1.in/ca/pbs17.png" group-title="AM | CANADA LOCAL CHANNELS",CA| PBS 17 (WNED) BUFFALO  HD
+http://startv365.com:80/9794783213/6955630461/176020
+#EXTINF:-1 tvg-id="" tvg-name="CA| PBS DETROIT (WTVS) HD" tvg-logo="https://lo1.in/ca/pbsse.png" group-title="AM | CANADA LOCAL CHANNELS",CA| PBS DETROIT (WTVS) HD
+http://startv365.com:80/9794783213/6955630461/176037
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS TV (CORNER BROOK) HD" tvg-logo="https://lo1.in/ca/tvrgr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| ROGERS TV (CORNER BROOK) HD
+http://startv365.com:80/9794783213/6955630461/176036
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS TV (OTTAWA) " tvg-logo="https://lo1.in/ca/tvrgr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| ROGERS TV (OTTAWA) 
+http://startv365.com:80/9794783213/6955630461/175997
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS TV (ST. JOHN'S) HD" tvg-logo="https://lo1.in/ca/tvrgr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| ROGERS TV (ST. JOHN'S) HD
+http://startv365.com:80/9794783213/6955630461/176035
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS TV BARRIE " tvg-logo="https://lo1.in/ca/tvrgr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| ROGERS TV BARRIE 
+http://startv365.com:80/9794783213/6955630461/176009
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS TV BATHURST " tvg-logo="https://lo1.in/ca/tvrgr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| ROGERS TV BATHURST 
+http://startv365.com:80/9794783213/6955630461/176007
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS TV GUELPH " tvg-logo="https://lo1.in/ca/tvrgr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| ROGERS TV GUELPH 
+http://startv365.com:80/9794783213/6955630461/176010
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS TV ST. THOMAS/STRATHROY " tvg-logo="https://lo1.in/ca/tvrgr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| ROGERS TV ST. THOMAS/STRATHROY 
+http://startv365.com:80/9794783213/6955630461/176005
+#EXTINF:-1 tvg-id="" tvg-name="CA| ROGERS TV WATERLOO " tvg-logo="https://lo1.in/ca/tvrgr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| ROGERS TV WATERLOO 
+http://startv365.com:80/9794783213/6955630461/176006
+#EXTINF:-1 tvg-id="" tvg-name="CA| JEWISH LIFE TV SD" tvg-logo="https://lo1.in/ca/jewshlf.png" group-title="AM | CANADA LOCAL CHANNELS",CA| JEWISH LIFE TV SD
+http://startv365.com:80/9794783213/6955630461/176041
+#EXTINF:-1 tvg-id="omnivancouver.ca" tvg-name="CA| OMNI VANCOUVER HD " tvg-logo="https://lo1.in/ca/omnivncvr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| OMNI VANCOUVER HD 
+http://startv365.com:80/9794783213/6955630461/175962
+#EXTINF:-1 tvg-id="" tvg-name="CA| TV ROGERS (MONCTON) HD" tvg-logo="https://lo1.in/ca/tvrgr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| TV ROGERS (MONCTON) HD
+http://startv365.com:80/9794783213/6955630461/176038
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦CBC-NETWORK✦●✦" tvg-logo="https://lo1.in/ca/caflg.png" group-title="AM | CANADA LOCAL CHANNELS",✦●✦CBC-NETWORK✦●✦
+http://startv365.com:80/9794783213/6955630461/400407467
+#EXTINF:-1 tvg-id="" tvg-name="CA|  CBC Calgary AB HD" tvg-logo="https://lo1.in/ca/cbcnsnw.png" group-title="AM | CANADA LOCAL CHANNELS",CA|  CBC Calgary AB HD
+http://startv365.com:80/9794783213/6955630461/8469
+#EXTINF:-1 tvg-id="" tvg-name="CA|  CBC Charlottetown PE HD" tvg-logo="https://lo1.in/ca/cbcnsnw.png" group-title="AM | CANADA LOCAL CHANNELS",CA|  CBC Charlottetown PE HD
+http://startv365.com:80/9794783213/6955630461/8470
+#EXTINF:-1 tvg-id="" tvg-name="CA|  CBC Edmonton AB HD" tvg-logo="https://lo1.in/ca/cbcnsnw.png" group-title="AM | CANADA LOCAL CHANNELS",CA|  CBC Edmonton AB HD
+http://startv365.com:80/9794783213/6955630461/8471
+#EXTINF:-1 tvg-id="" tvg-name="CA|  CBC Fredericton NB HD" tvg-logo="https://lo1.in/ca/cbcnsnw.png" group-title="AM | CANADA LOCAL CHANNELS",CA|  CBC Fredericton NB HD
+http://startv365.com:80/9794783213/6955630461/8472
+#EXTINF:-1 tvg-id="" tvg-name="CA|  CBC Montreal QC HD" tvg-logo="https://lo1.in/ca/cbcnsnw.png" group-title="AM | CANADA LOCAL CHANNELS",CA|  CBC Montreal QC HD
+http://startv365.com:80/9794783213/6955630461/8473
+#EXTINF:-1 tvg-id="" tvg-name="CA|  CBC Regina SK HD" tvg-logo="https://lo1.in/ca/cbcnsnw.png" group-title="AM | CANADA LOCAL CHANNELS",CA|  CBC Regina SK HD
+http://startv365.com:80/9794783213/6955630461/8474
+#EXTINF:-1 tvg-id="" tvg-name="CA|  CBC St Johns NL HD" tvg-logo="https://lo1.in/ca/cbcnsnw.png" group-title="AM | CANADA LOCAL CHANNELS",CA|  CBC St Johns NL HD
+http://startv365.com:80/9794783213/6955630461/8475
+#EXTINF:-1 tvg-id="" tvg-name="CA|  CBC Toronto ON HD" tvg-logo="https://lo1.in/ca/cbcnsnw.png" group-title="AM | CANADA LOCAL CHANNELS",CA|  CBC Toronto ON HD
+http://startv365.com:80/9794783213/6955630461/8476
+#EXTINF:-1 tvg-id="" tvg-name="CA|  CBC Vancouver BC HD" tvg-logo="https://lo1.in/ca/cbcnsnw.png" group-title="AM | CANADA LOCAL CHANNELS",CA|  CBC Vancouver BC HD
+http://startv365.com:80/9794783213/6955630461/8477
+#EXTINF:-1 tvg-id="" tvg-name="CA|  CBC Winnipeg MB HD" tvg-logo="https://lo1.in/ca/cbcnsnw.png" group-title="AM | CANADA LOCAL CHANNELS",CA|  CBC Winnipeg MB HD
+http://startv365.com:80/9794783213/6955630461/8478
+#EXTINF:-1 tvg-id="" tvg-name="CA|  CBC Yellowknife NT HD" tvg-logo="https://lo1.in/ca/cbcnsnw.png" group-title="AM | CANADA LOCAL CHANNELS",CA|  CBC Yellowknife NT HD
+http://startv365.com:80/9794783213/6955630461/8479
+#EXTINF:-1 tvg-id="" tvg-name="CA| CBS WEST" tvg-logo="" group-title="AM | CANADA LOCAL CHANNELS",CA| CBS WEST
+http://startv365.com:80/9794783213/6955630461/156716
+#EXTINF:-1 tvg-id="" tvg-name="CA| CBS EAST" tvg-logo="" group-title="AM | CANADA LOCAL CHANNELS",CA| CBS EAST
+http://startv365.com:80/9794783213/6955630461/156717
+#EXTINF:-1 tvg-id="cbctoronto.ca" tvg-name="CA| CBC TORONTO HD" tvg-logo="https://lo1.in/ca/cbctrnt.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CBC TORONTO HD
+http://startv365.com:80/9794783213/6955630461/175956
+#EXTINF:-1 tvg-id="cbccalgary.ca" tvg-name="CA| CBC CALGARY HD" tvg-logo="https://lo1.in/ca/cbcchrlt.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CBC CALGARY HD
+http://startv365.com:80/9794783213/6955630461/175947
+#EXTINF:-1 tvg-id="cbccharlottetown.ca" tvg-name="CA| CBC CHARLOTTETOWN HD " tvg-logo="https://lo1.in/ca/cbcchrlttwn.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CBC CHARLOTTETOWN HD 
+http://startv365.com:80/9794783213/6955630461/175948
+#EXTINF:-1 tvg-id="cbcedmonton.ca" tvg-name="CA| CBC EDMONTON HD " tvg-logo="https://lo1.in/ca/cbcedmntn.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CBC EDMONTON HD 
+http://startv365.com:80/9794783213/6955630461/175949
+#EXTINF:-1 tvg-id="cbcfredericton.ca" tvg-name="CA| CBC FREDERICTON HD " tvg-logo="https://lo1.in/ca/cbcfredrc.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CBC FREDERICTON HD 
+http://startv365.com:80/9794783213/6955630461/175950
+#EXTINF:-1 tvg-id="cbchalifax.ca" tvg-name="CA| CBC HALIFAX HD " tvg-logo="https://lo1.in/ca/cbchlfx.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CBC HALIFAX HD 
+http://startv365.com:80/9794783213/6955630461/175951
+#EXTINF:-1 tvg-id="" tvg-name="CA| CBC MONCTON HD " tvg-logo="https://lo1.in/ca/cbcmnctn.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CBC MONCTON HD 
+http://startv365.com:80/9794783213/6955630461/176021
+#EXTINF:-1 tvg-id="cbcmontreal.ca" tvg-name="CA| CBC MONTREAL HD" tvg-logo="https://lo1.in/ca/cbcmntrl.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CBC MONTREAL HD
+http://startv365.com:80/9794783213/6955630461/175952
+#EXTINF:-1 tvg-id="cbcottawa.ca" tvg-name="CA| CBC OTTAWA HD" tvg-logo="https://lo1.in/ca/cbcotwa.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CBC OTTAWA HD
+http://startv365.com:80/9794783213/6955630461/175953
+#EXTINF:-1 tvg-id="cbcregina.ca" tvg-name="CA| CBC REGINA HD " tvg-logo="https://lo1.in/ca/cbcrgina.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CBC REGINA HD 
+http://startv365.com:80/9794783213/6955630461/175954
+#EXTINF:-1 tvg-id="cbccbnt.ca" tvg-name="CA| CBC ST JOHN'S HD " tvg-logo="https://lo1.in/ca/cbcstjn.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CBC ST JOHN'S HD 
+http://startv365.com:80/9794783213/6955630461/175955
+#EXTINF:-1 tvg-id="cbcvancouver.ca" tvg-name="CA| CBC VANCOUVER HD " tvg-logo="https://lo1.in/ca/cbcvncvr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CBC VANCOUVER HD 
+http://startv365.com:80/9794783213/6955630461/175957
+#EXTINF:-1 tvg-id="cbcwindsor.ca" tvg-name="CA| CBC WINDSOR HD " tvg-logo="https://lo1.in/ca/cbcwindsr.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CBC WINDSOR HD 
+http://startv365.com:80/9794783213/6955630461/175958
+#EXTINF:-1 tvg-id="cbcwinnipeg.ca" tvg-name="CA| CBC WINNIPEG HD " tvg-logo="https://lo1.in/ca/cbcwinipg.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CBC WINNIPEG HD 
+http://startv365.com:80/9794783213/6955630461/175959
+#EXTINF:-1 tvg-id="cbccfykyellowknife.ca" tvg-name="CA| CBC YELLOWKNIFE HD " tvg-logo="https://lo1.in/ca/cbcyelowknif.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CBC YELLOWKNIFE HD 
+http://startv365.com:80/9794783213/6955630461/175960
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ROGERSTV-NETWORK✦●✦" tvg-logo="https://lo1.in/ca/caflg.png" group-title="AM | CANADA LOCAL CHANNELS",✦●✦ROGERSTV-NETWORK✦●✦
+http://startv365.com:80/9794783213/6955630461/400407468
+#EXTINF:-1 tvg-id="" tvg-name="CA| CHCO-TV26 CHARLOTTE COUNTY TELEVISION HD" tvg-logo="https://lo1.in/ca/chcotv.png" group-title="AM | CANADA LOCAL CHANNELS",CA| CHCO-TV26 CHARLOTTE COUNTY TELEVISION HD
+http://startv365.com:80/9794783213/6955630461/21247
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦CA| OTHERS ✦●✦ " tvg-logo="https://lo1.in/ca/caflg.png" group-title="AM | CANADA OTHERS",✦●✦CA| OTHERS ✦●✦ 
+http://startv365.com:80/9794783213/6955630461/173550
+#EXTINF:-1 tvg-id="" tvg-name="CA| (GR) ANT1 SD" tvg-logo="https://lo1.in/ca/ant1.png" group-title="AM | CANADA OTHERS",CA| (GR) ANT1 SD
+http://startv365.com:80/9794783213/6955630461/173509
+#EXTINF:-1 tvg-id="" tvg-name="CA| (GR) ALPHA SAT FHD" tvg-logo="https://lo1.in/ca/alphast.png" group-title="AM | CANADA OTHERS",CA| (GR) ALPHA SAT FHD
+http://startv365.com:80/9794783213/6955630461/173504
+#EXTINF:-1 tvg-id="fairchild.ca" tvg-name="CA| (ZH) FAIRCHILD 1 HD" tvg-logo="https://lo1.in/ca/fch.png" group-title="AM | CANADA OTHERS",CA| (ZH) FAIRCHILD 1 HD
+http://startv365.com:80/9794783213/6955630461/400273106
+#EXTINF:-1 tvg-id="fairchild2.ca" tvg-name="CA| (ZH) FAIRCHILD 2 HD" tvg-logo="https://lo1.in/ca/frchl2.png" group-title="AM | CANADA OTHERS",CA| (ZH) FAIRCHILD 2 HD
+http://startv365.com:80/9794783213/6955630461/173540
+#EXTINF:-1 tvg-id="" tvg-name="CA| (PH) GMA PINOY TV SD" tvg-logo="https://lo1.in/ca/gmapiny.png" group-title="AM | CANADA OTHERS",CA| (PH) GMA PINOY TV SD
+http://startv365.com:80/9794783213/6955630461/173530
+#EXTINF:-1 tvg-id="" tvg-name="CA| (HI) AAPKA COLORS FHD" tvg-logo="https://lo1.in/ca/aapkaclr.png" group-title="AM | CANADA OTHERS",CA| (HI) AAPKA COLORS FHD
+http://startv365.com:80/9794783213/6955630461/173517
+#EXTINF:-1 tvg-id="" tvg-name="CA| JOY TV 10  HD" tvg-logo="https://lo1.in/ca/joytv.png" group-title="AM | CANADA OTHERS",CA| JOY TV 10  HD
+http://startv365.com:80/9794783213/6955630461/176150
+#EXTINF:-1 tvg-id="" tvg-name="CA| (GR) MEGA COSMOS SD" tvg-logo="https://lo1.in/ca/megacsms.png" group-title="AM | CANADA OTHERS",CA| (GR) MEGA COSMOS SD
+http://startv365.com:80/9794783213/6955630461/173507
+#EXTINF:-1 tvg-id="univisioncanada.ca" tvg-name="CA| (ES) UNIVISION CANADA HD" tvg-logo="https://lo1.in/ca/univsca.png" group-title="AM | CANADA OTHERS",CA| (ES) UNIVISION CANADA HD
+http://startv365.com:80/9794783213/6955630461/173503
+#EXTINF:-1 tvg-id="" tvg-name="CA| (PH) KAPATID TV5 SD" tvg-logo="https://lo1.in/ca/kptdtv5.png" group-title="AM | CANADA OTHERS",CA| (PH) KAPATID TV5 SD
+http://startv365.com:80/9794783213/6955630461/173531
+#EXTINF:-1 tvg-id="teleninos.ca" tvg-name="CA| (ES) TELENINOS HD" tvg-logo="https://lo1.in/ca/tlninos.png" group-title="AM | CANADA OTHERS",CA| (ES) TELENINOS HD
+http://startv365.com:80/9794783213/6955630461/173500
+#EXTINF:-1 tvg-id="" tvg-name="CA| (AF) AFROGLOBAL NETWORK TELEVISION HD" tvg-logo="https://lo1.in/ca/afrognwtl.png" group-title="AM | CANADA OTHERS",CA| (AF) AFROGLOBAL NETWORK TELEVISION HD
+http://startv365.com:80/9794783213/6955630461/173497
+#EXTINF:-1 tvg-id="" tvg-name="CA| (AF) AFRO MUSIC HD" tvg-logo="https://lo1.in/ca/afrot.png" group-title="AM | CANADA OTHERS",CA| (AF) AFRO MUSIC HD
+http://startv365.com:80/9794783213/6955630461/173498
+#EXTINF:-1 tvg-id="" tvg-name="CA| (GR) SPORT PLUS SD" tvg-logo="https://lo1.in/ca/sprtpls.png" group-title="AM | CANADA OTHERS",CA| (GR) SPORT PLUS SD
+http://startv365.com:80/9794783213/6955630461/173510
+#EXTINF:-1 tvg-id="" tvg-name="CA| (HI) ATN HD" tvg-logo="https://lo1.in/ca/atn.png" group-title="AM | CANADA OTHERS",CA| (HI) ATN HD
+http://startv365.com:80/9794783213/6955630461/173511
+#EXTINF:-1 tvg-id="zeepunjabi.ca" tvg-name="CA| (HI) PUNJABI TV FHD" tvg-logo="https://lo1.in/ca/punjbi.png" group-title="AM | CANADA OTHERS",CA| (HI) PUNJABI TV FHD
+http://startv365.com:80/9794783213/6955630461/173512
+#EXTINF:-1 tvg-id="" tvg-name="CA| (HI) TAG TV FHD" tvg-logo="https://lo1.in/ca/tag.png" group-title="AM | CANADA OTHERS",CA| (HI) TAG TV FHD
+http://startv365.com:80/9794783213/6955630461/173515
+#EXTINF:-1 tvg-id="tvasia.ca" tvg-name="CA| (HI) TV ASIA SD" tvg-logo="https://lo1.in/ca/tvasia.png" group-title="AM | CANADA OTHERS",CA| (HI) TV ASIA SD
+http://startv365.com:80/9794783213/6955630461/173521
+#EXTINF:-1 tvg-id="" tvg-name="CA| (PA) ATN PUNJABI SD" tvg-logo="https://lo1.in/ca/atnpunjb.png" group-title="AM | CANADA OTHERS",CA| (PA) ATN PUNJABI SD
+http://startv365.com:80/9794783213/6955630461/173524
+#EXTINF:-1 tvg-id="" tvg-name="CA| (PT) RECORD TV HD" tvg-logo="https://lo1.in/ca/rcrd.png" group-title="AM | CANADA OTHERS",CA| (PT) RECORD TV HD
+http://startv365.com:80/9794783213/6955630461/173535
+#EXTINF:-1 tvg-id="" tvg-name="CA| (PT) RTPI SD" tvg-logo="https://lo1.in/ca/rtpi.png" group-title="AM | CANADA OTHERS",CA| (PT) RTPI SD
+http://startv365.com:80/9794783213/6955630461/173536
+#EXTINF:-1 tvg-id="" tvg-name="CA| (ZH) CCTV1 HD" tvg-logo="https://lo1.in/ca/cctv1.png" group-title="AM | CANADA OTHERS",CA| (ZH) CCTV1 HD
+http://startv365.com:80/9794783213/6955630461/173538
+#EXTINF:-1 tvg-id="" tvg-name="CA| (ZH) CGTN HD" tvg-logo="https://lo1.in/ca/cgtn.png" group-title="AM | CANADA OTHERS",CA| (ZH) CGTN HD
+http://startv365.com:80/9794783213/6955630461/173548
+#EXTINF:-1 tvg-id="" tvg-name="CA| (ZH) CGTN-DOCUMENTARY HD" tvg-logo="https://lo1.in/ca/cgtndoc.png" group-title="AM | CANADA OTHERS",CA| (ZH) CGTN-DOCUMENTARY HD
+http://startv365.com:80/9794783213/6955630461/173549
+#EXTINF:-1 tvg-id="" tvg-name="CA| CANADA ONE HD" tvg-logo="https://lo1.in/ca/caone.png" group-title="AM | CANADA OTHERS",CA| CANADA ONE HD
+http://startv365.com:80/9794783213/6955630461/376325
+#EXTINF:-1 tvg-id="" tvg-name="CA| EAWAZ TV" tvg-logo="https://lo1.in/ca/eawaz.png" group-title="AM | CANADA OTHERS",CA| EAWAZ TV
+http://startv365.com:80/9794783213/6955630461/387775
+#EXTINF:-1 tvg-id="" tvg-name="CA| FAIRCHILD TELEVISION WEST HD" tvg-logo="https://lo1.in/ca/fch.png" group-title="AM | CANADA OTHERS",CA| FAIRCHILD TELEVISION WEST HD
+http://startv365.com:80/9794783213/6955630461/21237
