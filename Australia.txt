@@ -1,0 +1,437 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ |AU| AUSTRALIA ✦●✦" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",✦●✦ |AU| AUSTRALIA ✦●✦
+http://startv365.com:80/9794783213/6955630461/118198
+#EXTINF:-1 tvg-id="" tvg-name="AU| AL JAZEERA HD" tvg-logo="https://lo1.in/aust/jazera.png" group-title="AS | AUSTRALIA",AU| AL JAZEERA HD
+http://startv365.com:80/9794783213/6955630461/400254537
+#EXTINF:-1 tvg-id="espnhd.au" tvg-name="AU| ESPN 1 HD" tvg-logo="https://lo1.in/aust/espn1.png" group-title="AS | AUSTRALIA",AU| ESPN 1 HD
+http://startv365.com:80/9794783213/6955630461/400254620
+#EXTINF:-1 tvg-id="espn2hd.au" tvg-name="AU| ESPN 2 HD" tvg-logo="https://lo1.in/aust/espn2.png" group-title="AS | AUSTRALIA",AU| ESPN 2 HD
+http://startv365.com:80/9794783213/6955630461/400254619
+#EXTINF:-1 tvg-id="" tvg-name="AU| SBS VICELAND NATIONAL HD" tvg-logo="https://lo1.in/aust/sbsfdnat.png" group-title="AS | AUSTRALIA",AU| SBS VICELAND NATIONAL HD
+http://startv365.com:80/9794783213/6955630461/400254522
+#EXTINF:-1 tvg-id="" tvg-name="AU| SBS VICELAND SYDNEY HD" tvg-logo="https://lo1.in/aust/sbsvlndsyd.png" group-title="AS | AUSTRALIA",AU| SBS VICELAND SYDNEY HD
+http://startv365.com:80/9794783213/6955630461/400254521
+#EXTINF:-1 tvg-id="" tvg-name="AU| SNOWY MOUNTAINS TV SYDNEY HD" tvg-logo="https://lo1.in/aust/snwmntsyd.png" group-title="AS | AUSTRALIA",AU| SNOWY MOUNTAINS TV SYDNEY HD
+http://startv365.com:80/9794783213/6955630461/400254516
+#EXTINF:-1 tvg-id="beinsports3hd.au" tvg-name="AU| BEIN SPORTS 1 HD" tvg-logo="https://lo1.in/aust/bs1.png" group-title="AS | AUSTRALIA",AU| BEIN SPORTS 1 HD
+http://startv365.com:80/9794783213/6955630461/355734
+#EXTINF:-1 tvg-id="beinsports2hd.au" tvg-name="AU| BEIN SPORTS 2 HD" tvg-logo="https://lo1.in/aust/bs2.png" group-title="AS | AUSTRALIA",AU| BEIN SPORTS 2 HD
+http://startv365.com:80/9794783213/6955630461/400200340
+#EXTINF:-1 tvg-id="beinsports3.au" tvg-name="AU| BEIN SPORTS 3 HD" tvg-logo="https://lo1.in/aust/bs3.png" group-title="AS | AUSTRALIA",AU| BEIN SPORTS 3 HD
+http://startv365.com:80/9794783213/6955630461/355737
+#EXTINF:-1 tvg-id="bloomberg.au" tvg-name="AU| BLOOMBERG TV" tvg-logo="https://lo1.in/aust/blmbrg.png" group-title="AS | AUSTRALIA",AU| BLOOMBERG TV
+http://startv365.com:80/9794783213/6955630461/355738
+#EXTINF:-1 tvg-id="expo.au" tvg-name="AU| EXPO CHANNEL HD" tvg-logo="https://lo1.in/aust/expoch.png" group-title="AS | AUSTRALIA",AU| EXPO CHANNEL HD
+http://startv365.com:80/9794783213/6955630461/355745
+#EXTINF:-1 tvg-id="" tvg-name="AU| FOX SPORTS NEWS HD" tvg-logo="https://lo1.in/aust/fxspnssyd.png" group-title="AS | AUSTRALIA",AU| FOX SPORTS NEWS HD
+http://startv365.com:80/9794783213/6955630461/400254525
+#EXTINF:-1 tvg-id="foxsports501.au" tvg-name="AU| FOX SPORTS 501 HD" tvg-logo="https://lo1.in/aust/fxsp501.png" group-title="AS | AUSTRALIA",AU| FOX SPORTS 501 HD
+http://startv365.com:80/9794783213/6955630461/355747
+#EXTINF:-1 tvg-id="foxsports502.au" tvg-name="AU| FOX SPORTS 502 HD" tvg-logo="https://lo1.in/aust/fxsp502.png" group-title="AS | AUSTRALIA",AU| FOX SPORTS 502 HD
+http://startv365.com:80/9794783213/6955630461/355748
+#EXTINF:-1 tvg-id="foxsports503hd.au" tvg-name="AU| FOX SPORTS 503 HD" tvg-logo="https://lo1.in/aust/fxsp503.png" group-title="AS | AUSTRALIA",AU| FOX SPORTS 503 HD
+http://startv365.com:80/9794783213/6955630461/355749
+#EXTINF:-1 tvg-id="foxsports504.au" tvg-name="AU| FOX SPORTS 504 HD" tvg-logo="https://lo1.in/aust/fxsp504.png" group-title="AS | AUSTRALIA",AU| FOX SPORTS 504 HD
+http://startv365.com:80/9794783213/6955630461/355750
+#EXTINF:-1 tvg-id="" tvg-name="AU| FOX SPORTS 505 HD" tvg-logo="https://lo1.in/aust/fxsp505.png" group-title="AS | AUSTRALIA",AU| FOX SPORTS 505 HD
+http://startv365.com:80/9794783213/6955630461/400365590
+#EXTINF:-1 tvg-id="foxsports506hd.au" tvg-name="AU| FOX SPORTS 506 HD" tvg-logo="https://lo1.in/aust/fxsp506.png" group-title="AS | AUSTRALIA",AU| FOX SPORTS 506 HD
+http://startv365.com:80/9794783213/6955630461/355751
+#EXTINF:-1 tvg-id="" tvg-name="AU| FOX SPORTS 507 HD" tvg-logo="https://lo1.in/aust/fxsp507.png" group-title="AS | AUSTRALIA",AU| FOX SPORTS 507 HD
+http://startv365.com:80/9794783213/6955630461/400365591
+#EXTINF:-1 tvg-id="" tvg-name="AU| OUTDOOR CHANNEL HD" tvg-logo="https://lo1.in/aust/otdrch.png" group-title="AS | AUSTRALIA",AU| OUTDOOR CHANNEL HD
+http://startv365.com:80/9794783213/6955630461/355761
+#EXTINF:-1 tvg-id="" tvg-name="AU| REDBULL TV" tvg-logo="https://lo1.in/aust/redbul.png" group-title="AS | AUSTRALIA",AU| REDBULL TV
+http://startv365.com:80/9794783213/6955630461/355770
+#EXTINF:-1 tvg-id="" tvg-name="AU| REDBULL TV MELBOURNE" tvg-logo="https://lo1.in/aust/rbmel.png" group-title="AS | AUSTRALIA",AU| REDBULL TV MELBOURNE
+http://startv365.com:80/9794783213/6955630461/355771
+#EXTINF:-1 tvg-id="" tvg-name="AU| REDBULL TV NATIONAL" tvg-logo="https://lo1.in/aust/rbnat.png" group-title="AS | AUSTRALIA",AU| REDBULL TV NATIONAL
+http://startv365.com:80/9794783213/6955630461/355772
+#EXTINF:-1 tvg-id="" tvg-name="AU| REDBULL TV PERTH" tvg-logo="https://lo1.in/aust/rbper.png" group-title="AS | AUSTRALIA",AU| REDBULL TV PERTH
+http://startv365.com:80/9794783213/6955630461/355773
+#EXTINF:-1 tvg-id="skyracing1.au" tvg-name="AU| SKY RACING 1 HD" tvg-logo="https://lo1.in/aust/skyrcg1.png" group-title="AS | AUSTRALIA",AU| SKY RACING 1 HD
+http://startv365.com:80/9794783213/6955630461/355775
+#EXTINF:-1 tvg-id="skyracing2.au" tvg-name="AU| SKY RACING 2 HD" tvg-logo="https://lo1.in/aust/skyrcg2.png" group-title="AS | AUSTRALIA",AU| SKY RACING 2 HD
+http://startv365.com:80/9794783213/6955630461/355776
+#EXTINF:-1 tvg-id="sbs.au" tvg-name="AU| SBS BRISBANE" tvg-logo="https://lo1.in/aust/sbsbrs.png" group-title="AS | AUSTRALIA",AU| SBS BRISBANE
+http://startv365.com:80/9794783213/6955630461/355778
+#EXTINF:-1 tvg-id="sbsfood.au" tvg-name="AU| SBS FOOD NATIONAL HD" tvg-logo="https://lo1.in/aust/sbsfdnat.png" group-title="AS | AUSTRALIA",AU| SBS FOOD NATIONAL HD
+http://startv365.com:80/9794783213/6955630461/355780
+#EXTINF:-1 tvg-id="sbsfood.au" tvg-name="AU| SBS FOOD MELBOURNE HD" tvg-logo="https://lo1.in/aust/sbsfdmel.png" group-title="AS | AUSTRALIA",AU| SBS FOOD MELBOURNE HD
+http://startv365.com:80/9794783213/6955630461/355781
+#EXTINF:-1 tvg-id="sbsfood.au" tvg-name="AU| SBS FOOD PERTH HD" tvg-logo="https://lo1.in/aust/sbsfddar.png" group-title="AS | AUSTRALIA",AU| SBS FOOD PERTH HD
+http://startv365.com:80/9794783213/6955630461/355783
+#EXTINF:-1 tvg-id="sbshd.au" tvg-name="AU| SBS FOOD DARWIN  HD" tvg-logo="https://lo1.in/aust/sbsfddar.png" group-title="AS | AUSTRALIA",AU| SBS FOOD DARWIN  HD
+http://startv365.com:80/9794783213/6955630461/355784
+#EXTINF:-1 tvg-id="sbs.au" tvg-name="AU| SBS MELBOURNE HD" tvg-logo="https://lo1.in/aust/sbsmel.png" group-title="AS | AUSTRALIA",AU| SBS MELBOURNE HD
+http://startv365.com:80/9794783213/6955630461/355785
+#EXTINF:-1 tvg-id="sbs.au" tvg-name="AU| SBS PERTH HD" tvg-logo="https://lo1.in/aust/sbsper.png" group-title="AS | AUSTRALIA",AU| SBS PERTH HD
+http://startv365.com:80/9794783213/6955630461/355786
+#EXTINF:-1 tvg-id="sbs.au" tvg-name="AU| SBS SYDNEY HD" tvg-logo="https://lo1.in/aust/sbssyd.png" group-title="AS | AUSTRALIA",AU| SBS SYDNEY HD
+http://startv365.com:80/9794783213/6955630461/355787
+#EXTINF:-1 tvg-id="sbsvicelandhd.au" tvg-name="AU| SBS VICELAND" tvg-logo="https://lo1.in/aust/sbsvlnd.png" group-title="AS | AUSTRALIA",AU| SBS VICELAND
+http://startv365.com:80/9794783213/6955630461/355788
+#EXTINF:-1 tvg-id="sbsvicelandhd.au" tvg-name="AU| SBS VICELAND MELBOURNE" tvg-logo="https://lo1.in/aust/sbsvlndmel.png" group-title="AS | AUSTRALIA",AU| SBS VICELAND MELBOURNE
+http://startv365.com:80/9794783213/6955630461/355789
+#EXTINF:-1 tvg-id="sbsvicelandhd.au" tvg-name="AU| SBS VICELAND PERTH" tvg-logo="https://lo1.in/aust/sbsvlndper.png" group-title="AS | AUSTRALIA",AU| SBS VICELAND PERTH
+http://startv365.com:80/9794783213/6955630461/355790
+#EXTINF:-1 tvg-id="sbsworldmovies.au" tvg-name="AU| SBS WORLD MOVIES NATIONAL" tvg-logo="https://lo1.in/aust/sbsvlndnat.png" group-title="AS | AUSTRALIA",AU| SBS WORLD MOVIES NATIONAL
+http://startv365.com:80/9794783213/6955630461/355793
+#EXTINF:-1 tvg-id="sbsworldmovies.au" tvg-name="AU| SBS WORLD MOVIES PERTH" tvg-logo="https://lo1.in/aust/sbswrldmovper.png" group-title="AS | AUSTRALIA",AU| SBS WORLD MOVIES PERTH
+http://startv365.com:80/9794783213/6955630461/355794
+#EXTINF:-1 tvg-id="seven.au" tvg-name="AU| SEVEN HD" tvg-logo="https://lo1.in/aust/svn.png" group-title="AS | AUSTRALIA",AU| SEVEN HD
+http://startv365.com:80/9794783213/6955630461/355796
+#EXTINF:-1 tvg-id="skynewsextra.au" tvg-name="AU| SKY NEWS EXTRA 1 HD" tvg-logo="https://lo1.in/aust/skynsex1.png" group-title="AS | AUSTRALIA",AU| SKY NEWS EXTRA 1 HD
+http://startv365.com:80/9794783213/6955630461/355798
+#EXTINF:-1 tvg-id="" tvg-name="AU| SKY NEWS EXTRA 2 HD" tvg-logo="https://lo1.in/aust/skynsex2.png" group-title="AS | AUSTRALIA",AU| SKY NEWS EXTRA 2 HD
+http://startv365.com:80/9794783213/6955630461/355799
+#EXTINF:-1 tvg-id="skynewsaustralia.au" tvg-name="AU| SKY NEWS AUSTRALIA HD" tvg-logo="https://lo1.in/aust/skynsaus.png" group-title="AS | AUSTRALIA",AU| SKY NEWS AUSTRALIA HD
+http://startv365.com:80/9794783213/6955630461/355801
+#EXTINF:-1 tvg-id="" tvg-name="AU| SKY NEWS WEATHER AUSTRALIA HD" tvg-logo="" group-title="AS | AUSTRALIA",AU| SKY NEWS WEATHER AUSTRALIA HD
+http://startv365.com:80/9794783213/6955630461/157056
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC NEWS SYDNEY" tvg-logo="" group-title="AS | AUSTRALIA",AU| ABC NEWS SYDNEY
+http://startv365.com:80/9794783213/6955630461/157057
+#EXTINF:-1 tvg-id="" tvg-name="AU| NITV" tvg-logo="" group-title="AS | AUSTRALIA",AU| NITV
+http://startv365.com:80/9794783213/6955630461/157059
+#EXTINF:-1 tvg-id="tvsn.au" tvg-name="AU| TVSN" tvg-logo="https://lo1.in/aust/tvsn.png" group-title="AS | AUSTRALIA",AU| TVSN
+http://startv365.com:80/9794783213/6955630461/355807
+#EXTINF:-1 tvg-id="" tvg-name="AU| CHANNEL 9 PERTH HD" tvg-logo="https://lo1.in/aust/chn9per.png" group-title="AS | AUSTRALIA",AU| CHANNEL 9 PERTH HD
+http://startv365.com:80/9794783213/6955630461/400254527
+#EXTINF:-1 tvg-id="abccomedyabckids.au" tvg-name="AU| ABC KIDS NATIONAL" tvg-logo="https://lo1.in/aust/abckdsnat.png" group-title="AS | AUSTRALIA",AU| ABC KIDS NATIONAL
+http://startv365.com:80/9794783213/6955630461/355719
+#EXTINF:-1 tvg-id="abcme.au" tvg-name="AU| ABC ME HD" tvg-logo="https://lo1.in/aust/abcme.png" group-title="AS | AUSTRALIA",AU| ABC ME HD
+http://startv365.com:80/9794783213/6955630461/355721
+#EXTINF:-1 tvg-id="abcme.au" tvg-name="AU| ABC ME NATIONAL" tvg-logo="https://lo1.in/aust/abcme.png" group-title="AS | AUSTRALIA",AU| ABC ME NATIONAL
+http://startv365.com:80/9794783213/6955630461/355722
+#EXTINF:-1 tvg-id="abcnews.au" tvg-name="AU| ABC NEWS" tvg-logo="https://lo1.in/aust/abcns.png" group-title="AS | AUSTRALIA",AU| ABC NEWS
+http://startv365.com:80/9794783213/6955630461/355725
+#EXTINF:-1 tvg-id="abc.au" tvg-name="AU| ABC HD" tvg-logo="https://lo1.in/aust/abc.png" group-title="AS | AUSTRALIA",AU| ABC HD
+http://startv365.com:80/9794783213/6955630461/355729
+#EXTINF:-1 tvg-id="abccomedyabckids.au" tvg-name="AU| ABC KIDS PERTH" tvg-logo="https://lo1.in/aust/abckdsper.png" group-title="AS | AUSTRALIA",AU| ABC KIDS PERTH
+http://startv365.com:80/9794783213/6955630461/355720
+#EXTINF:-1 tvg-id="abccomedyabckids.au" tvg-name="AU| ABC COMEDY HD" tvg-logo="https://lo1.in/aust/abccom.png" group-title="AS | AUSTRALIA",AU| ABC COMEDY HD
+http://startv365.com:80/9794783213/6955630461/355715
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC ME SYDNEY HD" tvg-logo="https://lo1.in/aust/abcmesyd.png" group-title="AS | AUSTRALIA",AU| ABC ME SYDNEY HD
+http://startv365.com:80/9794783213/6955630461/400254538
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC ME MELBOURNE HD" tvg-logo="https://lo1.in/aust/abcmemel.png" group-title="AS | AUSTRALIA",AU| ABC ME MELBOURNE HD
+http://startv365.com:80/9794783213/6955630461/400254539
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC ME HOBART HD" tvg-logo="https://lo1.in/aust/abcmehob.png" group-title="AS | AUSTRALIA",AU| ABC ME HOBART HD
+http://startv365.com:80/9794783213/6955630461/400254540
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC ME DARWIN HD" tvg-logo="https://lo1.in/aust/abcmedar.png" group-title="AS | AUSTRALIA",AU| ABC ME DARWIN HD
+http://startv365.com:80/9794783213/6955630461/400254541
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC ME CANBERRA HD" tvg-logo="https://lo1.in/aust/abcmecbr.png" group-title="AS | AUSTRALIA",AU| ABC ME CANBERRA HD
+http://startv365.com:80/9794783213/6955630461/400254542
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC ME BRISBANE HD" tvg-logo="https://lo1.in/aust/abcmebrs.png" group-title="AS | AUSTRALIA",AU| ABC ME BRISBANE HD
+http://startv365.com:80/9794783213/6955630461/400254543
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC ME ADELAIDE HD" tvg-logo="https://lo1.in/aust/abcmeade.png" group-title="AS | AUSTRALIA",AU| ABC ME ADELAIDE HD
+http://startv365.com:80/9794783213/6955630461/400254544
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC KIDS SYDNEY HD" tvg-logo="https://lo1.in/aust/abckdssyd.png" group-title="AS | AUSTRALIA",AU| ABC KIDS SYDNEY HD
+http://startv365.com:80/9794783213/6955630461/400254545
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC KIDS MELBOURNE HD" tvg-logo="https://lo1.in/aust/abckdsmel.png" group-title="AS | AUSTRALIA",AU| ABC KIDS MELBOURNE HD
+http://startv365.com:80/9794783213/6955630461/400254546
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC KIDS HOBART HD" tvg-logo="https://lo1.in/aust/abckdshob.png" group-title="AS | AUSTRALIA",AU| ABC KIDS HOBART HD
+http://startv365.com:80/9794783213/6955630461/400254547
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC KIDS DARWIN HD" tvg-logo="https://lo1.in/aust/abckdsdar.png" group-title="AS | AUSTRALIA",AU| ABC KIDS DARWIN HD
+http://startv365.com:80/9794783213/6955630461/400254548
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC KIDS CANBERRA HD" tvg-logo="https://lo1.in/aust/abckdscbr.png" group-title="AS | AUSTRALIA",AU| ABC KIDS CANBERRA HD
+http://startv365.com:80/9794783213/6955630461/400254549
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC KIDS BRISBANE HD" tvg-logo="https://lo1.in/aust/abckdsbrs.png" group-title="AS | AUSTRALIA",AU| ABC KIDS BRISBANE HD
+http://startv365.com:80/9794783213/6955630461/400254550
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC KIDS ADELAIDE HD" tvg-logo="https://lo1.in/aust/abckdsade.png" group-title="AS | AUSTRALIA",AU| ABC KIDS ADELAIDE HD
+http://startv365.com:80/9794783213/6955630461/400254551
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC HOBART HD" tvg-logo="https://lo1.in/aust/abchob.png" group-title="AS | AUSTRALIA",AU| ABC HOBART HD
+http://startv365.com:80/9794783213/6955630461/400254552
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC DARWIN HD" tvg-logo="https://lo1.in/aust/abcdar.png" group-title="AS | AUSTRALIA",AU| ABC DARWIN HD
+http://startv365.com:80/9794783213/6955630461/400254553
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC CANBERRA HD" tvg-logo="https://lo1.in/aust/abccbr.png" group-title="AS | AUSTRALIA",AU| ABC CANBERRA HD
+http://startv365.com:80/9794783213/6955630461/400254556
+#EXTINF:-1 tvg-id="" tvg-name="AU| ABC ADELAIDE HD" tvg-logo="https://lo1.in/aust/abccdl.png" group-title="AS | AUSTRALIA",AU| ABC ADELAIDE HD
+http://startv365.com:80/9794783213/6955630461/400254557
+#EXTINF:-1 tvg-id="" tvg-name="AU| FUEL TV HD" tvg-logo="https://lo1.in/aust/fuel.png" group-title="AS | AUSTRALIA",AU| FUEL TV HD
+http://startv365.com:80/9794783213/6955630461/355752
+#EXTINF:-1 tvg-id="racing.com.au" tvg-name="AU| RACING.COM MELBOURNE" tvg-logo="https://lo1.in/aust/rcgcommel.png" group-title="AS | AUSTRALIA",AU| RACING.COM MELBOURNE
+http://startv365.com:80/9794783213/6955630461/355766
+#EXTINF:-1 tvg-id="racing.com.au" tvg-name="AU| RACING.COM NATIONAL HD" tvg-logo="https://lo1.in/aust/rcgcomnat.png" group-title="AS | AUSTRALIA",AU| RACING.COM NATIONAL HD
+http://startv365.com:80/9794783213/6955630461/355767
+#EXTINF:-1 tvg-id="racing.com.au" tvg-name="AU| RACING.COM PERTH" tvg-logo="https://lo1.in/aust/rcgcomper.png" group-title="AS | AUSTRALIA",AU| RACING.COM PERTH
+http://startv365.com:80/9794783213/6955630461/355768
+#EXTINF:-1 tvg-id="" tvg-name="AU| C31 MELBOURNE HD" tvg-logo="https://lo1.in/aust/c31mel.png" group-title="AS | AUSTRALIA",AU| C31 MELBOURNE HD
+http://startv365.com:80/9794783213/6955630461/400254533
+#EXTINF:-1 tvg-id="" tvg-name="AU| AL JAZEERA SYDNEY HD" tvg-logo="https://lo1.in/aust/jazera.png" group-title="AS | AUSTRALIA",AU| AL JAZEERA SYDNEY HD
+http://startv365.com:80/9794783213/6955630461/400254536
+#EXTINF:-1 tvg-id="racing.com.au" tvg-name="AU| RACING HD" tvg-logo="https://lo1.in/aust/rcg.png" group-title="AS | AUSTRALIA",AU| RACING HD
+http://startv365.com:80/9794783213/6955630461/400254617
+#EXTINF:-1 tvg-id="" tvg-name="AU| 7TWO HOBART HD" tvg-logo="https://lo1.in/aust/two7.png" group-title="AS | AUSTRALIA",AU| 7TWO HOBART HD
+http://startv365.com:80/9794783213/6955630461/400254583
+#EXTINF:-1 tvg-id="" tvg-name="AU| 7TWO MELBOURNE HD" tvg-logo="https://lo1.in/aust/two7.png" group-title="AS | AUSTRALIA",AU| 7TWO MELBOURNE HD
+http://startv365.com:80/9794783213/6955630461/400254582
+#EXTINF:-1 tvg-id="" tvg-name="AU| 7TWO SYDNEY HD" tvg-logo="https://lo1.in/aust/two7.png" group-title="AS | AUSTRALIA",AU| 7TWO SYDNEY HD
+http://startv365.com:80/9794783213/6955630461/400254580
+#EXTINF:-1 tvg-id="7flix.au" tvg-name="AU| 7 FLIX" tvg-logo="https://lo1.in/aust/7flxadl.png" group-title="AS | AUSTRALIA",AU| 7 FLIX
+http://startv365.com:80/9794783213/6955630461/355669
+#EXTINF:-1 tvg-id="7flix.au" tvg-name="AU| 7 FLIX BRISBANE HD" tvg-logo="https://lo1.in/aust/flxbrs7.png" group-title="AS | AUSTRALIA",AU| 7 FLIX BRISBANE HD
+http://startv365.com:80/9794783213/6955630461/355670
+#EXTINF:-1 tvg-id="7mate.au" tvg-name="AU| 7MATE" tvg-logo="https://lo1.in/aust/mate7.png" group-title="AS | AUSTRALIA",AU| 7MATE
+http://startv365.com:80/9794783213/6955630461/355675
+#EXTINF:-1 tvg-id="7mate.au" tvg-name="AU| 7MATE PERTH" tvg-logo="https://lo1.in/aust/matepe7.png" group-title="AS | AUSTRALIA",AU| 7MATE PERTH
+http://startv365.com:80/9794783213/6955630461/355676
+#EXTINF:-1 tvg-id="7two.au" tvg-name="AU| 7 TWO HD" tvg-logo="https://lo1.in/aust/two7.png" group-title="AS | AUSTRALIA",AU| 7 TWO HD
+http://startv365.com:80/9794783213/6955630461/355684
+#EXTINF:-1 tvg-id="" tvg-name="AU| 7TWO PERTH HD" tvg-logo="https://lo1.in/aust/two7.png" group-title="AS | AUSTRALIA",AU| 7TWO PERTH HD
+http://startv365.com:80/9794783213/6955630461/400254581
+#EXTINF:-1 tvg-id="" tvg-name="AU| 7TWO DARWIN HD" tvg-logo="https://lo1.in/aust/two7.png" group-title="AS | AUSTRALIA",AU| 7TWO DARWIN HD
+http://startv365.com:80/9794783213/6955630461/400254584
+#EXTINF:-1 tvg-id="" tvg-name="AU| 7TWO CANBERRA HD" tvg-logo="https://lo1.in/aust/two7.png" group-title="AS | AUSTRALIA",AU| 7TWO CANBERRA HD
+http://startv365.com:80/9794783213/6955630461/400254585
+#EXTINF:-1 tvg-id="" tvg-name="AU| 7TWO BRISBANE HD" tvg-logo="https://lo1.in/aust/two7.png" group-title="AS | AUSTRALIA",AU| 7TWO BRISBANE HD
+http://startv365.com:80/9794783213/6955630461/400254586
+#EXTINF:-1 tvg-id="" tvg-name="AU| 7TWO ADELAIDE HD" tvg-logo="https://lo1.in/aust/two7.png" group-title="AS | AUSTRALIA",AU| 7TWO ADELAIDE HD
+http://startv365.com:80/9794783213/6955630461/400254587
+#EXTINF:-1 tvg-id="" tvg-name="AU| 7MATE SYDNEY HD" tvg-logo="https://lo1.in/aust/7matesyd.png" group-title="AS | AUSTRALIA",AU| 7MATE SYDNEY HD
+http://startv365.com:80/9794783213/6955630461/400254588
+#EXTINF:-1 tvg-id="" tvg-name="AU| 7MATE MELBOURNE HD" tvg-logo="https://lo1.in/aust/7matesyd.png" group-title="AS | AUSTRALIA",AU| 7MATE MELBOURNE HD
+http://startv365.com:80/9794783213/6955630461/400254589
+#EXTINF:-1 tvg-id="" tvg-name="AU| 7MATE HOBART HD" tvg-logo="https://lo1.in/aust/7matesyd.png" group-title="AS | AUSTRALIA",AU| 7MATE HOBART HD
+http://startv365.com:80/9794783213/6955630461/400254590
+#EXTINF:-1 tvg-id="" tvg-name="AU| 7MATE DARWIN HD" tvg-logo="https://lo1.in/aust/7matesyd.png" group-title="AS | AUSTRALIA",AU| 7MATE DARWIN HD
+http://startv365.com:80/9794783213/6955630461/400254591
+#EXTINF:-1 tvg-id="" tvg-name="AU| 7MATE BRISBANE HD" tvg-logo="https://lo1.in/aust/7matesyd.png" group-title="AS | AUSTRALIA",AU| 7MATE BRISBANE HD
+http://startv365.com:80/9794783213/6955630461/400254592
+#EXTINF:-1 tvg-id="" tvg-name="AU| 7FLIX SYDNEY HD" tvg-logo="https://lo1.in/aust/7flxper.png" group-title="AS | AUSTRALIA",AU| 7FLIX SYDNEY HD
+http://startv365.com:80/9794783213/6955630461/400254593
+#EXTINF:-1 tvg-id="" tvg-name="AU| 7FLIX PERTH HD" tvg-logo="https://lo1.in/aust/7flxper.png" group-title="AS | AUSTRALIA",AU| 7FLIX PERTH HD
+http://startv365.com:80/9794783213/6955630461/400254594
+#EXTINF:-1 tvg-id="" tvg-name="AU| 7FLIX HOBART HD" tvg-logo="https://lo1.in/aust/7flxhob.png" group-title="AS | AUSTRALIA",AU| 7FLIX HOBART HD
+http://startv365.com:80/9794783213/6955630461/400254595
+#EXTINF:-1 tvg-id="" tvg-name="AU| 7FLIX DARWIN HD" tvg-logo="https://lo1.in/aust/7flxdar.png" group-title="AS | AUSTRALIA",AU| 7FLIX DARWIN HD
+http://startv365.com:80/9794783213/6955630461/400254596
+#EXTINF:-1 tvg-id="" tvg-name="AU| 7FLIX ADELAIDE HD" tvg-logo="https://lo1.in/aust/7flxadl.png" group-title="AS | AUSTRALIA",AU| 7FLIX ADELAIDE HD
+http://startv365.com:80/9794783213/6955630461/400254597
+#EXTINF:-1 tvg-id="7hd.au" tvg-name="AU| CHANNEL 7 HD" tvg-logo="https://lo1.in/aust/chan7.png" group-title="AS | AUSTRALIA",AU| CHANNEL 7 HD
+http://startv365.com:80/9794783213/6955630461/355740
+#EXTINF:-1 tvg-id="9hd.au" tvg-name="AU| CHANNEL 9 HD" tvg-logo="https://lo1.in/aust/9.png" group-title="AS | AUSTRALIA",AU| CHANNEL 9 HD
+http://startv365.com:80/9794783213/6955630461/355699
+#EXTINF:-1 tvg-id="" tvg-name="AU| CHANNEL 9 DARWIN HD" tvg-logo="https://lo1.in/aust/chn9dar.png" group-title="AS | AUSTRALIA",AU| CHANNEL 9 DARWIN HD
+http://startv365.com:80/9794783213/6955630461/400254529
+#EXTINF:-1 tvg-id="" tvg-name="AU| CHANNEL 9 CANBERRA HD" tvg-logo="https://lo1.in/aust/chn9cbr.png" group-title="AS | AUSTRALIA",AU| CHANNEL 9 CANBERRA HD
+http://startv365.com:80/9794783213/6955630461/400254530
+#EXTINF:-1 tvg-id="" tvg-name="AU| CHANNEL 9 MELBOURNE HD" tvg-logo="https://lo1.in/aust/chn9mel.png" group-title="AS | AUSTRALIA",AU| CHANNEL 9 MELBOURNE HD
+http://startv365.com:80/9794783213/6955630461/400254528
+#EXTINF:-1 tvg-id="" tvg-name="AU| CHANNEL 9 SYDNEY HD" tvg-logo="https://lo1.in/aust/chn9syd.png" group-title="AS | AUSTRALIA",AU| CHANNEL 9 SYDNEY HD
+http://startv365.com:80/9794783213/6955630461/400254526
+#EXTINF:-1 tvg-id="" tvg-name="AU| CHANNEL 9 ADELAIDE HD" tvg-logo="https://lo1.in/aust/chn9ade.png" group-title="AS | AUSTRALIA",AU| CHANNEL 9 ADELAIDE HD
+http://startv365.com:80/9794783213/6955630461/400254531
+#EXTINF:-1 tvg-id="" tvg-name="AU| CHANNEL 9 BRISBANE HD" tvg-logo="https://lo1.in/aust/chn9brs.png" group-title="AS | AUSTRALIA",AU| CHANNEL 9 BRISBANE HD
+http://startv365.com:80/9794783213/6955630461/400254532
+#EXTINF:-1 tvg-id="9life.au" tvg-name="AU| 9LIFE HD" tvg-logo="https://lo1.in/aust/9lf.png" group-title="AS | AUSTRALIA",AU| 9LIFE HD
+http://startv365.com:80/9794783213/6955630461/355704
+#EXTINF:-1 tvg-id="9rush.au" tvg-name="AU| 9 RUSH HD" tvg-logo="https://lo1.in/aust/9rush.png" group-title="AS | AUSTRALIA",AU| 9 RUSH HD
+http://startv365.com:80/9794783213/6955630461/355708
+#EXTINF:-1 tvg-id="9rush.au" tvg-name="AU| 9 RUSH BRISBANE" tvg-logo="https://lo1.in/aust/9rush.png" group-title="AS | AUSTRALIA",AU| 9 RUSH BRISBANE
+http://startv365.com:80/9794783213/6955630461/355707
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9RUSH HOBART HD" tvg-logo="https://lo1.in/aust/9rushhob.png" group-title="AS | AUSTRALIA",AU| 9RUSH HOBART HD
+http://startv365.com:80/9794783213/6955630461/400254560
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9RUSH DARWIN HD" tvg-logo="https://lo1.in/aust/9rushmel.png" group-title="AS | AUSTRALIA",AU| 9RUSH DARWIN HD
+http://startv365.com:80/9794783213/6955630461/400254561
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9RUSH ADELAIDE HD" tvg-logo="https://lo1.in/aust/9rushmel.png" group-title="AS | AUSTRALIA",AU| 9RUSH ADELAIDE HD
+http://startv365.com:80/9794783213/6955630461/400254562
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9RUSH SYDNEY HD" tvg-logo="https://lo1.in/aust/9rushsyd.png" group-title="AS | AUSTRALIA",AU| 9RUSH SYDNEY HD
+http://startv365.com:80/9794783213/6955630461/400254558
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9RUSH MELBOURNE HD" tvg-logo="https://lo1.in/aust/9rushmel.png" group-title="AS | AUSTRALIA",AU| 9RUSH MELBOURNE HD
+http://startv365.com:80/9794783213/6955630461/400254559
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9LIFE PERTH HD" tvg-logo="https://lo1.in/aust/9lf.png" group-title="AS | AUSTRALIA",AU| 9LIFE PERTH HD
+http://startv365.com:80/9794783213/6955630461/400254563
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9LIFE MELBOURNE HD" tvg-logo="https://lo1.in/aust/9lf.png" group-title="AS | AUSTRALIA",AU| 9LIFE MELBOURNE HD
+http://startv365.com:80/9794783213/6955630461/400254564
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9LIFE HOBART HD" tvg-logo="https://lo1.in/aust/9lf.png" group-title="AS | AUSTRALIA",AU| 9LIFE HOBART HD
+http://startv365.com:80/9794783213/6955630461/400254565
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9LIFE DARWIN HD" tvg-logo="https://lo1.in/aust/9lf.png" group-title="AS | AUSTRALIA",AU| 9LIFE DARWIN HD
+http://startv365.com:80/9794783213/6955630461/400254566
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9LIFE ADELAIDE HD" tvg-logo="https://lo1.in/aust/9lf.png" group-title="AS | AUSTRALIA",AU| 9LIFE ADELAIDE HD
+http://startv365.com:80/9794783213/6955630461/400254569
+#EXTINF:-1 tvg-id="9life.au" tvg-name="AU| 9LIFE SYDNEY" tvg-logo="https://lo1.in/aust/9lf.png" group-title="AS | AUSTRALIA",AU| 9LIFE SYDNEY
+http://startv365.com:80/9794783213/6955630461/355700
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9LIFE CANBERRA HD" tvg-logo="https://lo1.in/aust/9lf.png" group-title="AS | AUSTRALIA",AU| 9LIFE CANBERRA HD
+http://startv365.com:80/9794783213/6955630461/400254567
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9LIFE BRISBANE HD" tvg-logo="https://lo1.in/aust/9lf.png" group-title="AS | AUSTRALIA",AU| 9LIFE BRISBANE HD
+http://startv365.com:80/9794783213/6955630461/400254568
+#EXTINF:-1 tvg-id="9go.au" tvg-name="AU| 9GO! PERTH HD" tvg-logo="https://lo1.in/aust/9goper.png" group-title="AS | AUSTRALIA",AU| 9GO! PERTH HD
+http://startv365.com:80/9794783213/6955630461/355698
+#EXTINF:-1 tvg-id="9go.au" tvg-name="AU| 9GO SYDNEY" tvg-logo="https://lo1.in/aust/9gosyd.png" group-title="AS | AUSTRALIA",AU| 9GO SYDNEY
+http://startv365.com:80/9794783213/6955630461/355694
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9GO! MELBOURNE HD" tvg-logo="https://lo1.in/aust/9gomel.png" group-title="AS | AUSTRALIA",AU| 9GO! MELBOURNE HD
+http://startv365.com:80/9794783213/6955630461/400254570
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9GO! BRISBANE HD" tvg-logo="https://lo1.in/aust/9gobrs.png" group-title="AS | AUSTRALIA",AU| 9GO! BRISBANE HD
+http://startv365.com:80/9794783213/6955630461/400254571
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9 GO ADELAIDE" tvg-logo="" group-title="AS | AUSTRALIA",AU| 9 GO ADELAIDE
+http://startv365.com:80/9794783213/6955630461/157058
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9GEM HOBART HD" tvg-logo="https://lo1.in/aust/9gemhob.png" group-title="AS | AUSTRALIA",AU| 9GEM HOBART HD
+http://startv365.com:80/9794783213/6955630461/400254575
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9GEM DARWIN HD" tvg-logo="https://lo1.in/aust/9gemhob.png" group-title="AS | AUSTRALIA",AU| 9GEM DARWIN HD
+http://startv365.com:80/9794783213/6955630461/400254576
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9GEM CANBERRA HD" tvg-logo="https://lo1.in/aust/9gemhob.png" group-title="AS | AUSTRALIA",AU| 9GEM CANBERRA HD
+http://startv365.com:80/9794783213/6955630461/400254577
+#EXTINF:-1 tvg-id="9gem.au" tvg-name="AU| 9GEM TV HD" tvg-logo="https://lo1.in/aust/9gem.png" group-title="AS | AUSTRALIA",AU| 9GEM TV HD
+http://startv365.com:80/9794783213/6955630461/355693
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9GEM SYDNEY HD" tvg-logo="https://lo1.in/aust/9gemsyd.png" group-title="AS | AUSTRALIA",AU| 9GEM SYDNEY HD
+http://startv365.com:80/9794783213/6955630461/400254572
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9GEM PERTH HD" tvg-logo="https://lo1.in/aust/9gemper.png" group-title="AS | AUSTRALIA",AU| 9GEM PERTH HD
+http://startv365.com:80/9794783213/6955630461/400254573
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9GEM MELBOURNE HD" tvg-logo="https://lo1.in/aust/9gemmel.png" group-title="AS | AUSTRALIA",AU| 9GEM MELBOURNE HD
+http://startv365.com:80/9794783213/6955630461/400254574
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9GEM BRISBANE HD" tvg-logo="https://lo1.in/aust/9gemhob.png" group-title="AS | AUSTRALIA",AU| 9GEM BRISBANE HD
+http://startv365.com:80/9794783213/6955630461/400254578
+#EXTINF:-1 tvg-id="" tvg-name="AU| 9GEM ADELAIDE HD" tvg-logo="https://lo1.in/aust/9gemhob.png" group-title="AS | AUSTRALIA",AU| 9GEM ADELAIDE HD
+http://startv365.com:80/9794783213/6955630461/400254579
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 SHAKE ADELAIDE HD" tvg-logo="https://lo1.in/aust/10shakbrs.png" group-title="AS | AUSTRALIA",AU| 10 SHAKE ADELAIDE HD
+http://startv365.com:80/9794783213/6955630461/400254604
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 SHAKE BRISBANE HD" tvg-logo="https://lo1.in/aust/10shakbrs.png" group-title="AS | AUSTRALIA",AU| 10 SHAKE BRISBANE HD
+http://startv365.com:80/9794783213/6955630461/400254603
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 SHAKE CANBERRA HD" tvg-logo="https://lo1.in/aust/10shkcbr.png" group-title="AS | AUSTRALIA",AU| 10 SHAKE CANBERRA HD
+http://startv365.com:80/9794783213/6955630461/400254602
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 SHAKE MELBOURNE HD" tvg-logo="https://lo1.in/aust/10shakmel.png" group-title="AS | AUSTRALIA",AU| 10 SHAKE MELBOURNE HD
+http://startv365.com:80/9794783213/6955630461/400254601
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 SHAKE PERTH HD" tvg-logo="https://lo1.in/aust/10shakper.png" group-title="AS | AUSTRALIA",AU| 10 SHAKE PERTH HD
+http://startv365.com:80/9794783213/6955630461/400254600
+#EXTINF:-1 tvg-id="10shake.au" tvg-name="AU| 10 SHAKE HD" tvg-logo="https://lo1.in/aust/10shak.png" group-title="AS | AUSTRALIA",AU| 10 SHAKE HD
+http://startv365.com:80/9794783213/6955630461/355712
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 SHAKE SYDNEY HD" tvg-logo="https://lo1.in/aust/10shaksyd.png" group-title="AS | AUSTRALIA",AU| 10 SHAKE SYDNEY HD
+http://startv365.com:80/9794783213/6955630461/400254599
+#EXTINF:-1 tvg-id="10hd.au" tvg-name="AU| 10 BOLD HOBART HD" tvg-logo="https://lo1.in/aust/10bldmlb.png" group-title="AS | AUSTRALIA",AU| 10 BOLD HOBART HD
+http://startv365.com:80/9794783213/6955630461/355742
+#EXTINF:-1 tvg-id="10bold.au" tvg-name="AU| 10 BOLD PERTH HD" tvg-logo="https://lo1.in/aust/10bldcbr.png" group-title="AS | AUSTRALIA",AU| 10 BOLD PERTH HD
+http://startv365.com:80/9794783213/6955630461/355805
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 BOLD MELBOURNE HD" tvg-logo="https://lo1.in/aust/10bldcbr.png" group-title="AS | AUSTRALIA",AU| 10 BOLD MELBOURNE HD
+http://startv365.com:80/9794783213/6955630461/400254611
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 BOLD DARWIN HD" tvg-logo="https://lo1.in/aust/10bldcbr.png" group-title="AS | AUSTRALIA",AU| 10 BOLD DARWIN HD
+http://startv365.com:80/9794783213/6955630461/400254612
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 BOLD CANBERRA HD" tvg-logo="https://lo1.in/aust/10bldcbr.png" group-title="AS | AUSTRALIA",AU| 10 BOLD CANBERRA HD
+http://startv365.com:80/9794783213/6955630461/400254613
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 BOLD BRISBANE HD" tvg-logo="https://lo1.in/aust/10bldcbr.png" group-title="AS | AUSTRALIA",AU| 10 BOLD BRISBANE HD
+http://startv365.com:80/9794783213/6955630461/400254614
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 BOLD ADELAIDE HD" tvg-logo="https://lo1.in/aust/10bldcbr.png" group-title="AS | AUSTRALIA",AU| 10 BOLD ADELAIDE HD
+http://startv365.com:80/9794783213/6955630461/400254615
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 BOLD SYDNEY HD" tvg-logo="https://lo1.in/aust/10bldsyd.png" group-title="AS | AUSTRALIA",AU| 10 BOLD SYDNEY HD
+http://startv365.com:80/9794783213/6955630461/400254598
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 PEACH SYDNEY HD" tvg-logo="https://lo1.in/aust/10pehbr.png" group-title="AS | AUSTRALIA",AU| 10 PEACH SYDNEY HD
+http://startv365.com:80/9794783213/6955630461/400254605
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 PEACH PERTH HD" tvg-logo="https://lo1.in/aust/10pehbr.png" group-title="AS | AUSTRALIA",AU| 10 PEACH PERTH HD
+http://startv365.com:80/9794783213/6955630461/400254606
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 PEACH MELBOURNE HD" tvg-logo="https://lo1.in/aust/10pehbr.png" group-title="AS | AUSTRALIA",AU| 10 PEACH MELBOURNE HD
+http://startv365.com:80/9794783213/6955630461/400254607
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 PEACH HOBART HD" tvg-logo="https://lo1.in/aust/10pehbr.png" group-title="AS | AUSTRALIA",AU| 10 PEACH HOBART HD
+http://startv365.com:80/9794783213/6955630461/400254608
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 PEACH DARWIN HD" tvg-logo="https://lo1.in/aust/10pehbr.png" group-title="AS | AUSTRALIA",AU| 10 PEACH DARWIN HD
+http://startv365.com:80/9794783213/6955630461/400254609
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 PEACH ADELAIDE HD" tvg-logo="https://lo1.in/aust/10pehbr.png" group-title="AS | AUSTRALIA",AU| 10 PEACH ADELAIDE HD
+http://startv365.com:80/9794783213/6955630461/400254610
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 SHAKE DARWIN" tvg-logo="" group-title="AS | AUSTRALIA",AU| 10 SHAKE DARWIN
+http://startv365.com:80/9794783213/6955630461/157044
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 DARWIN" tvg-logo="" group-title="AS | AUSTRALIA",AU| 10 DARWIN
+http://startv365.com:80/9794783213/6955630461/157045
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 PEACH CANBERRA" tvg-logo="" group-title="AS | AUSTRALIA",AU| 10 PEACH CANBERRA
+http://startv365.com:80/9794783213/6955630461/157046
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 CANBERRA" tvg-logo="" group-title="AS | AUSTRALIA",AU| 10 CANBERRA
+http://startv365.com:80/9794783213/6955630461/157047
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 MELBOURNE" tvg-logo="" group-title="AS | AUSTRALIA",AU| 10 MELBOURNE
+http://startv365.com:80/9794783213/6955630461/157048
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 PEACH BRISBANE" tvg-logo="" group-title="AS | AUSTRALIA",AU| 10 PEACH BRISBANE
+http://startv365.com:80/9794783213/6955630461/157049
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 BRISBANE" tvg-logo="" group-title="AS | AUSTRALIA",AU| 10 BRISBANE
+http://startv365.com:80/9794783213/6955630461/157050
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 SHAKE HOBART" tvg-logo="" group-title="AS | AUSTRALIA",AU| 10 SHAKE HOBART
+http://startv365.com:80/9794783213/6955630461/157051
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 HOBART" tvg-logo="" group-title="AS | AUSTRALIA",AU| 10 HOBART
+http://startv365.com:80/9794783213/6955630461/157052
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 ADELAIDE" tvg-logo="" group-title="AS | AUSTRALIA",AU| 10 ADELAIDE
+http://startv365.com:80/9794783213/6955630461/157053
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 PERTH" tvg-logo="" group-title="AS | AUSTRALIA",AU| 10 PERTH
+http://startv365.com:80/9794783213/6955630461/157054
+#EXTINF:-1 tvg-id="" tvg-name="AU| 10 SYDNEY" tvg-logo="" group-title="AS | AUSTRALIA",AU| 10 SYDNEY
+http://startv365.com:80/9794783213/6955630461/157055
+#EXTINF:-1 tvg-id="" tvg-name="AU| TEN SYDNEY HD" tvg-logo="https://lo1.in/aust/ten.png" group-title="AS | AUSTRALIA",AU| TEN SYDNEY HD
+http://startv365.com:80/9794783213/6955630461/400254509
+#EXTINF:-1 tvg-id="" tvg-name="AU| TEN HD" tvg-logo="https://lo1.in/aust/ten.png" group-title="AS | AUSTRALIA",AU| TEN HD
+http://startv365.com:80/9794783213/6955630461/355806
+#EXTINF:-1 tvg-id="" tvg-name="AU| TEN PERTH HD" tvg-logo="https://lo1.in/aust/ten.png" group-title="AS | AUSTRALIA",AU| TEN PERTH HD
+http://startv365.com:80/9794783213/6955630461/400254510
+#EXTINF:-1 tvg-id="" tvg-name="AU| TEN MELBOURNE HD" tvg-logo="https://lo1.in/aust/ten.png" group-title="AS | AUSTRALIA",AU| TEN MELBOURNE HD
+http://startv365.com:80/9794783213/6955630461/400254511
+#EXTINF:-1 tvg-id="" tvg-name="AU| TEN HOBART HD" tvg-logo="https://lo1.in/aust/ten.png" group-title="AS | AUSTRALIA",AU| TEN HOBART HD
+http://startv365.com:80/9794783213/6955630461/400254512
+#EXTINF:-1 tvg-id="" tvg-name="AU| TEN DARWIN HD" tvg-logo="https://lo1.in/aust/tendar.png" group-title="AS | AUSTRALIA",AU| TEN DARWIN HD
+http://startv365.com:80/9794783213/6955630461/400254513
+#EXTINF:-1 tvg-id="" tvg-name="AU| TEN CANBERRA HD" tvg-logo="https://lo1.in/aust/ten.png" group-title="AS | AUSTRALIA",AU| TEN CANBERRA HD
+http://startv365.com:80/9794783213/6955630461/400254514
+#EXTINF:-1 tvg-id="" tvg-name="AU| TEN BRISBANE HD" tvg-logo="https://lo1.in/aust/ten.png" group-title="AS | AUSTRALIA",AU| TEN BRISBANE HD
+http://startv365.com:80/9794783213/6955630461/400254515
+#EXTINF:-1 tvg-id="" tvg-name="AU| KAYO PPV" tvg-logo="https://lo1.in/aust/Kayo.png" group-title="AS | AUSTRALIA",AU| KAYO PPV
+http://startv365.com:80/9794783213/6955630461/13894
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ STAN SPORTS EVENT ✦●✦" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",✦●✦ STAN SPORTS EVENT ✦●✦
+http://startv365.com:80/9794783213/6955630461/34580
+#EXTINF:-1 tvg-id="1.stan" tvg-name="AU| STAN SPORT AU EVENT 01 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 01 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34560
+#EXTINF:-1 tvg-id="2.stan" tvg-name="AU| STAN SPORT AU EVENT 02 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 02 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34561
+#EXTINF:-1 tvg-id="3.stan" tvg-name="AU| STAN SPORT AU EVENT 03 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 03 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34562
+#EXTINF:-1 tvg-id="4.stan" tvg-name="AU| STAN SPORT AU EVENT 04 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 04 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34563
+#EXTINF:-1 tvg-id="5.stan" tvg-name="AU| STAN SPORT AU EVENT 05 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 05 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34564
+#EXTINF:-1 tvg-id="6.stan" tvg-name="AU| STAN SPORT AU EVENT 06 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 06 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34565
+#EXTINF:-1 tvg-id="7.stan" tvg-name="AU| STAN SPORT AU EVENT 07 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 07 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34566
+#EXTINF:-1 tvg-id="8.stan" tvg-name="AU| STAN SPORT AU EVENT 08 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 08 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34567
+#EXTINF:-1 tvg-id="9.stan" tvg-name="AU| STAN SPORT AU EVENT 09 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 09 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34568
+#EXTINF:-1 tvg-id="10.stan" tvg-name="AU| STAN SPORT AU EVENT 10 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 10 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34569
+#EXTINF:-1 tvg-id="11.stan" tvg-name="AU| STAN SPORT AU EVENT 11 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 11 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34570
+#EXTINF:-1 tvg-id="12.stan" tvg-name="AU| STAN SPORT AU EVENT 12 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 12 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34571
+#EXTINF:-1 tvg-id="13.stan" tvg-name="AU| STAN SPORT AU EVENT 13 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 13 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34572
+#EXTINF:-1 tvg-id="14.stan" tvg-name="AU| STAN SPORT AU EVENT 14 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 14 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34573
+#EXTINF:-1 tvg-id="15.stan" tvg-name="AU| STAN SPORT AU EVENT 15 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 15 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34574
+#EXTINF:-1 tvg-id="16.stan" tvg-name="AU| STAN SPORT AU EVENT 16 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 16 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34575
+#EXTINF:-1 tvg-id="17.stan" tvg-name="AU| STAN SPORT AU EVENT 17 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 17 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34576
+#EXTINF:-1 tvg-id="18.stan" tvg-name="AU| STAN SPORT AU EVENT 18 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 18 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34577
+#EXTINF:-1 tvg-id="19.stan" tvg-name="AU| STAN SPORT AU EVENT 19 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 19 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34578
+#EXTINF:-1 tvg-id="20.stan" tvg-name="AU| STAN SPORT AU EVENT 20 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 20 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/34579
+#EXTINF:-1 tvg-id="" tvg-name="AU| STAN SPORT AU EVENT 21 [EVENT ONLY]" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",AU| STAN SPORT AU EVENT 21 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/30396
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ AU OPTUS EVENT ✦●✦" tvg-logo="https://lo1.in/aust/flg.png" group-title="AS | AUSTRALIA",✦●✦ AU OPTUS EVENT ✦●✦
+http://startv365.com:80/9794783213/6955630461/37402
+#EXTINF:-1 tvg-id="1.OPTUS" tvg-name="AU| OPTUS 01 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="AS | AUSTRALIA",AU| OPTUS 01 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/37401
+#EXTINF:-1 tvg-id="2.OPTUS" tvg-name="AU| OPTUS 02 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="AS | AUSTRALIA",AU| OPTUS 02 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/37400
+#EXTINF:-1 tvg-id="3.OPTUS" tvg-name="AU| OPTUS 03 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="AS | AUSTRALIA",AU| OPTUS 03 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/37399
+#EXTINF:-1 tvg-id="4.OPTUS" tvg-name="AU| OPTUS 04 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="AS | AUSTRALIA",AU| OPTUS 04 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/37398
+#EXTINF:-1 tvg-id="5.OPTUS" tvg-name="AU| OPTUS 05 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="AS | AUSTRALIA",AU| OPTUS 05 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/37397
+#EXTINF:-1 tvg-id="6.OPTUS" tvg-name="AU| OPTUS 06 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="AS | AUSTRALIA",AU| OPTUS 06 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/37396
+#EXTINF:-1 tvg-id="7.OPTUS" tvg-name="AU| OPTUS 07 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="AS | AUSTRALIA",AU| OPTUS 07 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/37395
+#EXTINF:-1 tvg-id="8.OPTUS" tvg-name="AU| OPTUS 08 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="AS | AUSTRALIA",AU| OPTUS 08 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/37394
+#EXTINF:-1 tvg-id="9.OPTUS" tvg-name="AU| OPTUS 09 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="AS | AUSTRALIA",AU| OPTUS 09 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/37393
+#EXTINF:-1 tvg-id="10.OPTUS" tvg-name="AU| OPTUS 10 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="AS | AUSTRALIA",AU| OPTUS 10 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/37392
+#EXTINF:-1 tvg-id="11.OPTUS" tvg-name="AU| OPTUS 11 [EVENT ONLY]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="AS | AUSTRALIA",AU| OPTUS 11 [EVENT ONLY]
+http://startv365.com:80/9794783213/6955630461/37391
