@@ -1,0 +1,559 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| GENERALE |✦●✦ " tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",✦●✦| GENERALE |✦●✦ 
+http://startv365.com:80/9794783213/6955630461/212420
+#EXTINF:-1 tvg-id="" tvg-name="MY| Back-Up Ch " tvg-logo="https://lo1.in/MALAY/OKTOLI.png" group-title="AS | MALAYSIA",MY| Back-Up Ch 
+http://startv365.com:80/9794783213/6955630461/54899
+#EXTINF:-1 tvg-id="" tvg-name="MY| Back-Up Ch 2" tvg-logo="https://lo1.in/MALAY/chuti.png" group-title="AS | MALAYSIA",MY| Back-Up Ch 2
+http://startv365.com:80/9794783213/6955630461/191900
+#EXTINF:-1 tvg-id="tv1.my" tvg-name="MY| TV1 HD" tvg-logo="https://lo1.in/MALAY/tv1.png" group-title="AS | MALAYSIA",MY| TV1 HD
+http://startv365.com:80/9794783213/6955630461/192001
+#EXTINF:-1 tvg-id="" tvg-name="MY| TV1 FHD" tvg-logo="https://lo1.in/MALAY/tv1.png" group-title="AS | MALAYSIA",MY| TV1 FHD
+http://startv365.com:80/9794783213/6955630461/79326
+#EXTINF:-1 tvg-id="tv2.my" tvg-name="MY| TV2 HD" tvg-logo="https://lo1.in/MALAY/tv2.png" group-title="AS | MALAYSIA",MY| TV2 HD
+http://startv365.com:80/9794783213/6955630461/192002
+#EXTINF:-1 tvg-id="" tvg-name="MY| TV2 FHD" tvg-logo="https://lo1.in/MALAY/tv2.png" group-title="AS | MALAYSIA",MY| TV2 FHD
+http://startv365.com:80/9794783213/6955630461/79325
+#EXTINF:-1 tvg-id="tv3.my" tvg-name="MY| TV3 HD" tvg-logo="https://lo1.in/MALAY/tv3.png" group-title="AS | MALAYSIA",MY| TV3 HD
+http://startv365.com:80/9794783213/6955630461/400200329
+#EXTINF:-1 tvg-id="" tvg-name="MY| TV3 [BK] HD" tvg-logo="https://lo1.in/MALAY/tv3.png" group-title="AS | MALAYSIA",MY| TV3 [BK] HD
+http://startv365.com:80/9794783213/6955630461/400437966
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO AWANI FHD" tvg-logo="https://lo1.in/MALAY/astroaw.png" group-title="AS | MALAYSIA",MY| ASTRO AWANI FHD
+http://startv365.com:80/9794783213/6955630461/29657
+#EXTINF:-1 tvg-id="astroawani.my" tvg-name="MY| ASTRO AWANI HD" tvg-logo="https://lo1.in/MALAY/astroaw.png" group-title="AS | MALAYSIA",MY| ASTRO AWANI HD
+http://startv365.com:80/9794783213/6955630461/191859
+#EXTINF:-1 tvg-id="astroria.my" tvg-name="MY| ASTRO RIA HD" tvg-logo="https://lo1.in/MALAY/astrori.png" group-title="AS | MALAYSIA",MY| ASTRO RIA HD
+http://startv365.com:80/9794783213/6955630461/191867
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO RIA FHD" tvg-logo="https://lo1.in/MALAY/astrori.png" group-title="AS | MALAYSIA",MY| ASTRO RIA FHD
+http://startv365.com:80/9794783213/6955630461/79321
+#EXTINF:-1 tvg-id="astroprima.my" tvg-name="MY| ASTRO PRIMA HD" tvg-logo="https://lo1.in/MALAY/astroprim.png" group-title="AS | MALAYSIA",MY| ASTRO PRIMA HD
+http://startv365.com:80/9794783213/6955630461/191865
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PRIMA FHD" tvg-logo="https://lo1.in/MALAY/astroprim.png" group-title="AS | MALAYSIA",MY| ASTRO PRIMA FHD
+http://startv365.com:80/9794783213/6955630461/400438338
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO OASIS FHD" tvg-logo="https://lo1.in/MALAY/astrooas.png" group-title="AS | MALAYSIA",MY| ASTRO OASIS FHD
+http://startv365.com:80/9794783213/6955630461/29654
+#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="MY| ASTRO OASIS HD" tvg-logo="https://lo1.in/MALAY/astrooas.png" group-title="AS | MALAYSIA",MY| ASTRO OASIS HD
+http://startv365.com:80/9794783213/6955630461/191864
+#EXTINF:-1 tvg-id="astrowarna.my" tvg-name="MY| ASTRO WARNA HD" tvg-logo="https://lo1.in/MALAY/astrow.png" group-title="AS | MALAYSIA",MY| ASTRO WARNA HD
+http://startv365.com:80/9794783213/6955630461/191874
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO WARNA [BK] HD" tvg-logo="https://lo1.in/MALAY/astrow.png" group-title="AS | MALAYSIA",MY| ASTRO WARNA [BK] HD
+http://startv365.com:80/9794783213/6955630461/79322
+#EXTINF:-1 tvg-id="" tvg-name="MY| CITRA ENTERTAINMENT HD" tvg-logo="" group-title="AS | MALAYSIA",MY| CITRA ENTERTAINMENT HD
+http://startv365.com:80/9794783213/6955630461/79327
+#EXTINF:-1 tvg-id="astrocitra.my" tvg-name="MY| ASTRO CITRA HD" tvg-logo="https://lo1.in/MALAY/astrocit.png" group-title="AS | MALAYSIA",MY| ASTRO CITRA HD
+http://startv365.com:80/9794783213/6955630461/400200335
+#EXTINF:-1 tvg-id="" tvg-name="MY| AWESOME TV HD" tvg-logo="https://lo1.in/MALAY/awsm.png" group-title="AS | MALAYSIA",MY| AWESOME TV HD
+http://startv365.com:80/9794783213/6955630461/400200777
+#EXTINF:-1 tvg-id="" tvg-name="MY| AWESOME TV FHD" tvg-logo="https://lo1.in/MALAY/awsm.png" group-title="AS | MALAYSIA",MY| AWESOME TV FHD
+http://startv365.com:80/9794783213/6955630461/5232
+#EXTINF:-1 tvg-id="astrorania.my" tvg-name="MY| ASTRO RANIA HD" tvg-logo="https://lo1.in/MALAY/astror.png" group-title="AS | MALAYSIA",MY| ASTRO RANIA HD
+http://startv365.com:80/9794783213/6955630461/191866
+#EXTINF:-1 tvg-id="astroaura.my" tvg-name="MY| ASTRO AURA HD" tvg-logo="https://lo1.in/MALAY/astroaur.png" group-title="AS | MALAYSIA",MY| ASTRO AURA HD
+http://startv365.com:80/9794783213/6955630461/191858
+#EXTINF:-1 tvg-id="astroaec.my" tvg-name="MY| ASTRO AEC HD" tvg-logo="https://lo1.in/MALAY/astroaec.png" group-title="AS | MALAYSIA",MY| ASTRO AEC HD
+http://startv365.com:80/9794783213/6955630461/191841
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO AEC [BK] HD" tvg-logo="https://lo1.in/MALAY/astroaec.png" group-title="AS | MALAYSIA",MY| ASTRO AEC [BK] HD
+http://startv365.com:80/9794783213/6955630461/79320
+#EXTINF:-1 tvg-id="" tvg-name="MY| TV ALHIJRAH FHD" tvg-logo="https://lo1.in/MALAY/hijrah.png" group-title="AS | MALAYSIA",MY| TV ALHIJRAH FHD
+http://startv365.com:80/9794783213/6955630461/29649
+#EXTINF:-1 tvg-id="" tvg-name="MY| TV ALHIJRAH HD" tvg-logo="https://lo1.in/MALAY/hijrah.png" group-title="AS | MALAYSIA",MY| TV ALHIJRAH HD
+http://startv365.com:80/9794783213/6955630461/192000
+#EXTINF:-1 tvg-id="ntv7.my" tvg-name="MY| NTV7 HD" tvg-logo="https://lo1.in/MALAY/ntv7.png" group-title="AS | MALAYSIA",MY| NTV7 HD
+http://startv365.com:80/9794783213/6955630461/191968
+#EXTINF:-1 tvg-id="8tv.my" tvg-name="MY| TV8 HD" tvg-logo="https://lo1.in/MALAY/8tv.png" group-title="AS | MALAYSIA",MY| TV8 HD
+http://startv365.com:80/9794783213/6955630461/192003
+#EXTINF:-1 tvg-id="" tvg-name="MY| TV8 [BK] HD" tvg-logo="https://lo1.in/MALAY/8tv.png" group-title="AS | MALAYSIA",MY| TV8 [BK] HD
+http://startv365.com:80/9794783213/6955630461/79324
+#EXTINF:-1 tvg-id="tv9.my" tvg-name="MY| TV9 HD" tvg-logo="https://lo1.in/MALAY/tv9.png" group-title="AS | MALAYSIA",MY| TV9 HD
+http://startv365.com:80/9794783213/6955630461/192004
+#EXTINF:-1 tvg-id="" tvg-name="MY| TV9 [BK] HD" tvg-logo="https://lo1.in/MALAY/tv9.png" group-title="AS | MALAYSIA",MY| TV9 [BK] HD
+http://startv365.com:80/9794783213/6955630461/79323
+#EXTINF:-1 tvg-id="8tv.my" tvg-name="MY| 8TV HD" tvg-logo="https://lo1.in/MALAY/8tv.png" group-title="AS | MALAYSIA",MY| 8TV HD
+http://startv365.com:80/9794783213/6955630461/191836
+#EXTINF:-1 tvg-id="tvsukan.my" tvg-name="MY| TVS HD" tvg-logo="https://lo1.in/MALAY/astrotspm.png" group-title="AS | MALAYSIA",MY| TVS HD
+http://startv365.com:80/9794783213/6955630461/400200328
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO GO Live Event 1 HD" tvg-logo="https://lo1.in/MALAY/AstroGo.png" group-title="AS | MALAYSIA",MY| ASTRO GO Live Event 1 HD
+http://startv365.com:80/9794783213/6955630461/29664
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO GO Live Event 2 HD" tvg-logo="https://lo1.in/MALAY/AstroGo.png" group-title="AS | MALAYSIA",MY| ASTRO GO Live Event 2 HD
+http://startv365.com:80/9794783213/6955630461/29663
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO GO 2 Live Event 3 HD" tvg-logo="https://lo1.in/MALAY/AstroGo.png" group-title="AS | MALAYSIA",MY| ASTRO GO 2 Live Event 3 HD
+http://startv365.com:80/9794783213/6955630461/29662
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO GO 2 Live Event 4 HD" tvg-logo="https://lo1.in/MALAY/AstroGo.png" group-title="AS | MALAYSIA",MY| ASTRO GO 2 Live Event 4 HD
+http://startv365.com:80/9794783213/6955630461/29661
+#EXTINF:-1 tvg-id="astrogoshop.my" tvg-name="MY| GO SHOP 1 HD" tvg-logo="https://lo1.in/MALAY/astroshp.png" group-title="AS | MALAYSIA",MY| GO SHOP 1 HD
+http://startv365.com:80/9794783213/6955630461/191940
+#EXTINF:-1 tvg-id="" tvg-name="MY| GO SHOP 2 HD" tvg-logo="https://lo1.in/MALAY/astroshp.png" group-title="AS | MALAYSIA",MY| GO SHOP 2 HD
+http://startv365.com:80/9794783213/6955630461/191939
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO VINMEEN HD" tvg-logo="https://lo1.in/MALAY/astrovm.png" group-title="AS | MALAYSIA",MY| ASTRO VINMEEN HD
+http://startv365.com:80/9794783213/6955630461/192012
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SENSASI HD" tvg-logo="https://lo1.in/MALAY/SENSASI.png" group-title="AS | MALAYSIA",MY| ASTRO SENSASI HD
+http://startv365.com:80/9794783213/6955630461/13490
+#EXTINF:-1 tvg-id="" tvg-name="MY| ADITHYA HD" tvg-logo="https://lo1.in/MALAY/astroad.png" group-title="AS | MALAYSIA",MY| ADITHYA HD
+http://startv365.com:80/9794783213/6955630461/191840
+#EXTINF:-1 tvg-id="astrotviq.my" tvg-name="MY| IQIYI HD" tvg-logo="https://lo1.in/MALAY/astroiq.png" group-title="AS | MALAYSIA",MY| IQIYI HD
+http://startv365.com:80/9794783213/6955630461/191950
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SHUANG XING HD" tvg-logo="https://lo1.in/MALAY/astrosx.png" group-title="AS | MALAYSIA",MY| ASTRO SHUANG XING HD
+http://startv365.com:80/9794783213/6955630461/191980
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO QUAN JIA HD" tvg-logo="https://lo1.in/MALAY/astroqu.png" group-title="AS | MALAYSIA",MY| ASTRO QUAN JIA HD
+http://startv365.com:80/9794783213/6955630461/191974
+#EXTINF:-1 tvg-id="" tvg-name="MY| CTI ASIA FHD" tvg-logo="https://lo1.in/MALAY/ctas.png" group-title="AS | MALAYSIA",MY| CTI ASIA FHD
+http://startv365.com:80/9794783213/6955630461/29615
+#EXTINF:-1 tvg-id="" tvg-name="MY| CTI ASIA" tvg-logo="https://lo1.in/MALAY/ctas.png" group-title="AS | MALAYSIA",MY| CTI ASIA
+http://startv365.com:80/9794783213/6955630461/191911
+#EXTINF:-1 tvg-id="" tvg-name="MY| TVB E-NEWS HD" tvg-logo="https://lo1.in/MALAY/tvbens.png" group-title="AS | MALAYSIA",MY| TVB E-NEWS HD
+http://startv365.com:80/9794783213/6955630461/192006
+#EXTINF:-1 tvg-id="" tvg-name="MY| TVB XING HE HD" tvg-logo="https://lo1.in/MALAY/tvbxh.png" group-title="AS | MALAYSIA",MY| TVB XING HE HD
+http://startv365.com:80/9794783213/6955630461/192007
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO HUA HEE DAI FHD" tvg-logo="https://lo1.in/MALAY/astrohhd.png" group-title="AS | MALAYSIA",MY| ASTRO HUA HEE DAI FHD
+http://startv365.com:80/9794783213/6955630461/29655
+#EXTINF:-1 tvg-id="astrohuaheedai.my" tvg-name="MY| ASTRO HUA HEE DAI HD" tvg-logo="https://lo1.in/MALAY/astrohhd.png" group-title="AS | MALAYSIA",MY| ASTRO HUA HEE DAI HD
+http://startv365.com:80/9794783213/6955630461/191948
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO HUA LEE HD" tvg-logo="https://lo1.in/MALAY/astrohhd.png" group-title="AS | MALAYSIA",MY| ASTRO HUA LEE HD
+http://startv365.com:80/9794783213/6955630461/5230
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO OHK HD" tvg-logo="https://lo1.in/MALAY/astroohk.png" group-title="AS | MALAYSIA",MY| ASTRO OHK HD
+http://startv365.com:80/9794783213/6955630461/5231
+#EXTINF:-1 tvg-id="" tvg-name="MY| CCTV4 HD" tvg-logo="https://lo1.in/MALAY/cc4.png" group-title="AS | MALAYSIA",MY| CCTV4 HD
+http://startv365.com:80/9794783213/6955630461/191897
+#EXTINF:-1 tvg-id="" tvg-name="MY| TUTOR TV SK HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| TUTOR TV SK HD
+http://startv365.com:80/9794783213/6955630461/12306
+#EXTINF:-1 tvg-id="" tvg-name="MY| TUTOR TV SMK HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| TUTOR TV SMK HD
+http://startv365.com:80/9794783213/6955630461/12307
+#EXTINF:-1 tvg-id="" tvg-name="MY| DidikTV KPM" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| DidikTV KPM
+http://startv365.com:80/9794783213/6955630461/12303
+#EXTINF:-1 tvg-id="" tvg-name="MY| DREAMWORKS HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| DREAMWORKS HD
+http://startv365.com:80/9794783213/6955630461/12304
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO VELLITHIRAI HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| ASTRO VELLITHIRAI HD
+http://startv365.com:80/9794783213/6955630461/12305
+#EXTINF:-1 tvg-id="" tvg-name="MY| ONE FHD" tvg-logo="https://lo1.in/MALAY/one.png" group-title="AS | MALAYSIA",MY| ONE FHD
+http://startv365.com:80/9794783213/6955630461/29581
+#EXTINF:-1 tvg-id="one.my" tvg-name="MY| ONE HD" tvg-logo="https://lo1.in/MALAY/one.png" group-title="AS | MALAYSIA",MY| ONE HD
+http://startv365.com:80/9794783213/6955630461/191970
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO VAANAVIL FHD" tvg-logo="https://lo1.in/MALAY/astrovv.png" group-title="AS | MALAYSIA",MY| ASTRO VAANAVIL FHD
+http://startv365.com:80/9794783213/6955630461/29660
+#EXTINF:-1 tvg-id="astrovaanavil.my" tvg-name="MY| ASTRO VAANAVIL HD" tvg-logo="https://lo1.in/MALAY/astrovv.png" group-title="AS | MALAYSIA",MY| ASTRO VAANAVIL HD
+http://startv365.com:80/9794783213/6955630461/192011
+#EXTINF:-1 tvg-id="" tvg-name="MY| VASANTHAM FHD" tvg-logo="https://lo1.in/MALAY/vasnth.png" group-title="AS | MALAYSIA",MY| VASANTHAM FHD
+http://startv365.com:80/9794783213/6955630461/6673
+#EXTINF:-1 tvg-id="" tvg-name="MY| VASANTHAM HD" tvg-logo="https://lo1.in/MALAY/vasnth.png" group-title="AS | MALAYSIA",MY| VASANTHAM HD
+http://startv365.com:80/9794783213/6955630461/33001
+#EXTINF:-1 tvg-id="" tvg-name="MY| VASANTHAM SD" tvg-logo="https://lo1.in/MALAY/vasnth.png" group-title="AS | MALAYSIA",MY| VASANTHAM SD
+http://startv365.com:80/9794783213/6955630461/6672
+#EXTINF:-1 tvg-id="" tvg-name="MY| CH U FHD" tvg-logo="https://lo1.in/MALAY/chu.png" group-title="AS | MALAYSIA",MY| CH U FHD
+http://startv365.com:80/9794783213/6955630461/6677
+#EXTINF:-1 tvg-id="" tvg-name="MY| CH U HD" tvg-logo="https://lo1.in/MALAY/chu.png" group-title="AS | MALAYSIA",MY| CH U HD
+http://startv365.com:80/9794783213/6955630461/33002
+#EXTINF:-1 tvg-id="" tvg-name="MY| CH U SD" tvg-logo="https://lo1.in/MALAY/chu.png" group-title="AS | MALAYSIA",MY| CH U SD
+http://startv365.com:80/9794783213/6955630461/6676
+#EXTINF:-1 tvg-id="" tvg-name="MY| CH 8 FHD" tvg-logo="https://lo1.in/MALAY/ch8.png" group-title="AS | MALAYSIA",MY| CH 8 FHD
+http://startv365.com:80/9794783213/6955630461/6679
+#EXTINF:-1 tvg-id="" tvg-name="MY| CH 8 HD" tvg-logo="https://lo1.in/MALAY/ch8.png" group-title="AS | MALAYSIA",MY| CH 8 HD
+http://startv365.com:80/9794783213/6955630461/33000
+#EXTINF:-1 tvg-id="" tvg-name="MY| CH 8 SD" tvg-logo="https://lo1.in/MALAY/ch8.png" group-title="AS | MALAYSIA",MY| CH 8 SD
+http://startv365.com:80/9794783213/6955630461/6678
+#EXTINF:-1 tvg-id="" tvg-name="MY| CH 5 FHD" tvg-logo="https://lo1.in/MALAY/ch5.png" group-title="AS | MALAYSIA",MY| CH 5 FHD
+http://startv365.com:80/9794783213/6955630461/6681
+#EXTINF:-1 tvg-id="" tvg-name="MY| CH 5 HD" tvg-logo="https://lo1.in/MALAY/ch5.png" group-title="AS | MALAYSIA",MY| CH 5 HD
+http://startv365.com:80/9794783213/6955630461/33003
+#EXTINF:-1 tvg-id="" tvg-name="MY| CH 5 SD" tvg-logo="https://lo1.in/MALAY/ch5.png" group-title="AS | MALAYSIA",MY| CH 5 SD
+http://startv365.com:80/9794783213/6955630461/6680
+#EXTINF:-1 tvg-id="" tvg-name="MY| SURIA FHD" tvg-logo="https://lo1.in/MALAY/sur.png" group-title="AS | MALAYSIA",MY| SURIA FHD
+http://startv365.com:80/9794783213/6955630461/6675
+#EXTINF:-1 tvg-id="" tvg-name="MY| SURIA HD" tvg-logo="https://lo1.in/MALAY/sur.png" group-title="AS | MALAYSIA",MY| SURIA HD
+http://startv365.com:80/9794783213/6955630461/33004
+#EXTINF:-1 tvg-id="" tvg-name="MY| SURIA SD" tvg-logo="https://lo1.in/MALAY/sur.png" group-title="AS | MALAYSIA",MY| SURIA SD
+http://startv365.com:80/9794783213/6955630461/6674
+#EXTINF:-1 tvg-id="" tvg-name="MY| PHOENIX CHINESE CHANNEL HD" tvg-logo="https://lo1.in/MALAY/phchch.png" group-title="AS | MALAYSIA",MY| PHOENIX CHINESE CHANNEL HD
+http://startv365.com:80/9794783213/6955630461/33006
+#EXTINF:-1 tvg-id="" tvg-name="MY| PHOENIX INFO NEWS HD" tvg-logo="https://lo1.in/MALAY/phinfns.png" group-title="AS | MALAYSIA",MY| PHOENIX INFO NEWS HD
+http://startv365.com:80/9794783213/6955630461/33008
+#EXTINF:-1 tvg-id="" tvg-name="MY| CGTN FHD" tvg-logo="https://lo1.in/MALAY/cgtn.png" group-title="AS | MALAYSIA",MY| CGTN FHD
+http://startv365.com:80/9794783213/6955630461/29622
+#EXTINF:-1 tvg-id="" tvg-name="MY| CGTN HD" tvg-logo="https://lo1.in/MALAY/cgtn.png" group-title="AS | MALAYSIA",MY| CGTN HD
+http://startv365.com:80/9794783213/6955630461/33017
+#EXTINF:-1 tvg-id="" tvg-name="MY| AL JAZEERA FHD" tvg-logo="https://lo1.in/MALAY/jazera.png" group-title="AS | MALAYSIA",MY| AL JAZEERA FHD
+http://startv365.com:80/9794783213/6955630461/29648
+#EXTINF:-1 tvg-id="" tvg-name="MY| AL JAZEERA HD" tvg-logo="https://lo1.in/MALAY/jazera.png" group-title="AS | MALAYSIA",MY| AL JAZEERA HD
+http://startv365.com:80/9794783213/6955630461/33019
+#EXTINF:-1 tvg-id="kbsworld.my" tvg-name="MY| KBS WORLD HD" tvg-logo="https://lo1.in/MALAY/kbswrld.png" group-title="AS | MALAYSIA",MY| KBS WORLD HD
+http://startv365.com:80/9794783213/6955630461/191953
+#EXTINF:-1 tvg-id="" tvg-name="MY| BERNAMA TV" tvg-logo="https://lo1.in/MALAY/brnm.png" group-title="AS | MALAYSIA",MY| BERNAMA TV
+http://startv365.com:80/9794783213/6955630461/400274059
+#EXTINF:-1 tvg-id="" tvg-name="MY| BBC NEWS FHD" tvg-logo="https://lo1.in/MALAY/bbcns.png" group-title="AS | MALAYSIA",MY| BBC NEWS FHD
+http://startv365.com:80/9794783213/6955630461/29642
+#EXTINF:-1 tvg-id="bbcworldnews.id" tvg-name="MY| BBC NEWS HD" tvg-logo="https://lo1.in/MALAY/bbcns.png" group-title="AS | MALAYSIA",MY| BBC NEWS HD
+http://startv365.com:80/9794783213/6955630461/191880
+#EXTINF:-1 tvg-id="" tvg-name="MY| BBC EARTH FHD" tvg-logo="https://lo1.in/MALAY/bbcea.png" group-title="AS | MALAYSIA",MY| BBC EARTH FHD
+http://startv365.com:80/9794783213/6955630461/29644
+#EXTINF:-1 tvg-id="bbcearth.id" tvg-name="MY| BBC EARTH HD" tvg-logo="https://lo1.in/MALAY/bbcea.png" group-title="AS | MALAYSIA",MY| BBC EARTH HD
+http://startv365.com:80/9794783213/6955630461/191878
+#EXTINF:-1 tvg-id="skynews.id" tvg-name="MY| SKY NEWS HD" tvg-logo="https://lo1.in/MALAY/skyns.png" group-title="AS | MALAYSIA",MY| SKY NEWS HD
+http://startv365.com:80/9794783213/6955630461/191981
+#EXTINF:-1 tvg-id="" tvg-name="MY| SKY NEWS FHD" tvg-logo="https://lo1.in/MALAY/skyns.png" group-title="AS | MALAYSIA",MY| SKY NEWS FHD
+http://startv365.com:80/9794783213/6955630461/29569
+#EXTINF:-1 tvg-id="" tvg-name="MY| CNA FHD" tvg-logo="https://lo1.in/MALAY/cna.png" group-title="AS | MALAYSIA",MY| CNA FHD
+http://startv365.com:80/9794783213/6955630461/6671
+#EXTINF:-1 tvg-id="" tvg-name="MY| CNA HD" tvg-logo="https://lo1.in/MALAY/cna.png" group-title="AS | MALAYSIA",MY| CNA HD
+http://startv365.com:80/9794783213/6955630461/191903
+#EXTINF:-1 tvg-id="" tvg-name="MY| CNA SD" tvg-logo="https://lo1.in/MALAY/cna.png" group-title="AS | MALAYSIA",MY| CNA SD
+http://startv365.com:80/9794783213/6955630461/6670
+#EXTINF:-1 tvg-id="" tvg-name="MY| CNBC ASIA FHD" tvg-logo="https://lo1.in/MALAY/cnbc.png" group-title="AS | MALAYSIA",MY| CNBC ASIA FHD
+http://startv365.com:80/9794783213/6955630461/29620
+#EXTINF:-1 tvg-id="cnbc.id" tvg-name="MY| CNBC ASIA HD" tvg-logo="https://lo1.in/MALAY/cnbc.png" group-title="AS | MALAYSIA",MY| CNBC ASIA HD
+http://startv365.com:80/9794783213/6955630461/191904
+#EXTINF:-1 tvg-id="" tvg-name="MY| BLOOMBERG TV FHD" tvg-logo="https://lo1.in/MALAY/blmbrg.png" group-title="AS | MALAYSIA",MY| BLOOMBERG TV FHD
+http://startv365.com:80/9794783213/6955630461/29628
+#EXTINF:-1 tvg-id="bloomberg.id" tvg-name="MY| BLOOMBERG TV HD" tvg-logo="https://lo1.in/MALAY/blmbrg.png" group-title="AS | MALAYSIA",MY| BLOOMBERG TV HD
+http://startv365.com:80/9794783213/6955630461/191886
+#EXTINF:-1 tvg-id="abcaustralia.id" tvg-name="MY| ABC AUSTRALIA HD" tvg-logo="https://lo1.in/MALAY/abcaus.png" group-title="AS | MALAYSIA",MY| ABC AUSTRALIA HD
+http://startv365.com:80/9794783213/6955630461/191837
+#EXTINF:-1 tvg-id="france24english.id" tvg-name="MY| FRANCE 24 HD" tvg-logo="https://lo1.in/MALAY/fr24.png" group-title="AS | MALAYSIA",MY| FRANCE 24 HD
+http://startv365.com:80/9794783213/6955630461/191936
+#EXTINF:-1 tvg-id="" tvg-name="MY| KPLUS HD" tvg-logo="https://lo1.in/MALAY/kpls.png" group-title="AS | MALAYSIA",MY| KPLUS HD
+http://startv365.com:80/9794783213/6955630461/191955
+#EXTINF:-1 tvg-id="tlc.my" tvg-name="MY| TLC HD" tvg-logo="https://lo1.in/MALAY/tlc.png" group-title="AS | MALAYSIA",MY| TLC HD
+http://startv365.com:80/9794783213/6955630461/191994
+#EXTINF:-1 tvg-id="warnertv.my" tvg-name="MY| WARNER TV HD" tvg-logo="https://lo1.in/MALAY/wrnr.png" group-title="AS | MALAYSIA",MY| WARNER TV HD
+http://startv365.com:80/9794783213/6955630461/192013
+#EXTINF:-1 tvg-id="" tvg-name="MY| MTV ASIA HD" tvg-logo="https://lo1.in/MALAY/mtv.png" group-title="AS | MALAYSIA",MY| MTV ASIA HD
+http://startv365.com:80/9794783213/6955630461/191957
+#EXTINF:-1 tvg-id="dw.id" tvg-name="MY| DW HD" tvg-logo="https://lo1.in/MALAY/dw.png" group-title="AS | MALAYSIA",MY| DW HD
+http://startv365.com:80/9794783213/6955630461/191922
+#EXTINF:-1 tvg-id="" tvg-name="MY| JAYA MAX HD" tvg-logo="https://lo1.in/MALAY/jayamx.png" group-title="AS | MALAYSIA",MY| JAYA MAX HD
+http://startv365.com:80/9794783213/6955630461/191951
+#EXTINF:-1 tvg-id="blueantextreme.id" tvg-name="MY| BLUE ANT EXTREME" tvg-logo="https://lo1.in/MALAY/bluaex.png" group-title="AS | MALAYSIA",MY| BLUE ANT EXTREME
+http://startv365.com:80/9794783213/6955630461/191888
+#EXTINF:-1 tvg-id="blueantentertainment.id" tvg-name="MY| BLUE ANT ENTERTAINMENT" tvg-logo="https://lo1.in/MALAY/bluaet.png" group-title="AS | MALAYSIA",MY| BLUE ANT ENTERTAINMENT
+http://startv365.com:80/9794783213/6955630461/191887
+#EXTINF:-1 tvg-id="" tvg-name="MY| HARVEST TV" tvg-logo="https://lo1.in/MALAY/hrvst.png" group-title="AS | MALAYSIA",MY| HARVEST TV
+http://startv365.com:80/9794783213/6955630461/380229
+#EXTINF:-1 tvg-id="" tvg-name="MY| HARVEST TV ARABIA" tvg-logo="https://lo1.in/MALAY/hrvstar.png" group-title="AS | MALAYSIA",MY| HARVEST TV ARABIA
+http://startv365.com:80/9794783213/6955630461/380228
+#EXTINF:-1 tvg-id="" tvg-name="MY| HARVEST TV USA" tvg-logo="https://lo1.in/MALAY/hrvstsa.png" group-title="AS | MALAYSIA",MY| HARVEST TV USA
+http://startv365.com:80/9794783213/6955630461/380227
+#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TV HD" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="AS | MALAYSIA",MY| SONY TV HD
+http://startv365.com:80/9794783213/6955630461/191991
+#EXTINF:-1 tvg-id="" tvg-name="MY| SONY MAX HD" tvg-logo="https://lo1.in/MALAY/snysetmx.png" group-title="AS | MALAYSIA",MY| SONY MAX HD
+http://startv365.com:80/9794783213/6955630461/191990
+#EXTINF:-1 tvg-id="" tvg-name="MY| ZING HD" tvg-logo="https://lo1.in/MALAY/zing.png" group-title="AS | MALAYSIA",MY| ZING HD
+http://startv365.com:80/9794783213/6955630461/191988
+#EXTINF:-1 tvg-id="" tvg-name="MY| OKTOLIDAYS FHD" tvg-logo="https://lo1.in/MALAY/OKTOLI.png" group-title="AS | MALAYSIA",MY| OKTOLIDAYS FHD
+http://startv365.com:80/9794783213/6955630461/54901
+#EXTINF:-1 tvg-id="" tvg-name="MY| OKTOLIDAYS HD" tvg-logo="https://lo1.in/MALAY/OKTOLI.png" group-title="AS | MALAYSIA",MY| OKTOLIDAYS HD
+http://startv365.com:80/9794783213/6955630461/54900
+#EXTINF:-1 tvg-id="" tvg-name="MY| GLOBAL TREKKER HD" tvg-logo="https://lo1.in/MALAY/GSZ.png" group-title="AS | MALAYSIA",MY| GLOBAL TREKKER HD
+http://startv365.com:80/9794783213/6955630461/54898
+#EXTINF:-1 tvg-id="" tvg-name="MY| GLOBAL TREKKER SD" tvg-logo="https://lo1.in/MALAY/GSZ.png" group-title="AS | MALAYSIA",MY| GLOBAL TREKKER SD
+http://startv365.com:80/9794783213/6955630461/54897
+#EXTINF:-1 tvg-id="" tvg-name="MY| ROCK Entertainment FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| ROCK Entertainment FHD
+http://startv365.com:80/9794783213/6955630461/38114
+#EXTINF:-1 tvg-id="" tvg-name="MY| ROCK Entertainment HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| ROCK Entertainment HD
+http://startv365.com:80/9794783213/6955630461/38113
+#EXTINF:-1 tvg-id="" tvg-name="MY| ROCK Entertainment SD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| ROCK Entertainment SD
+http://startv365.com:80/9794783213/6955630461/38112
+#EXTINF:-1 tvg-id="" tvg-name="MY| MAKKAL TV HD" tvg-logo="https://lo1.in/MALAY/mkl.png" group-title="AS | MALAYSIA",MY| MAKKAL TV HD
+http://startv365.com:80/9794783213/6955630461/191956
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| SPORTS |✦●✦ " tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",✦●✦| SPORTS |✦●✦ 
+http://startv365.com:80/9794783213/6955630461/212421
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASIAN CUP 1" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| ASIAN CUP 1
+http://startv365.com:80/9794783213/6955630461/82174
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASIAN CUP 2" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| ASIAN CUP 2
+http://startv365.com:80/9794783213/6955630461/82173
+#EXTINF:-1 tvg-id="astroarena.my" tvg-name="MY| ASTRO ARENA HD" tvg-logo="https://lo1.in/MALAY/astroar.png" group-title="AS | MALAYSIA",MY| ASTRO ARENA HD
+http://startv365.com:80/9794783213/6955630461/191853
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA 2 HD" tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="AS | MALAYSIA",MY| ASTRO ARENA 2 HD
+http://startv365.com:80/9794783213/6955630461/185822
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA BOLA HD" tvg-logo="https://lo1.in/MALAY/astroar.png" group-title="AS | MALAYSIA",MY| ASTRO ARENA BOLA HD
+http://startv365.com:80/9794783213/6955630461/23931
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA BOLA 2 HD" tvg-logo="https://lo1.in/MALAY/astroar.png" group-title="AS | MALAYSIA",MY| ASTRO ARENA BOLA 2 HD
+http://startv365.com:80/9794783213/6955630461/23930
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT UHD" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="AS | MALAYSIA",MY| ASTRO SUPERSPORT UHD
+http://startv365.com:80/9794783213/6955630461/7841
+#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="MY| ASTRO SUPERSPORT 1 FHD" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="AS | MALAYSIA",MY| ASTRO SUPERSPORT 1 FHD
+http://startv365.com:80/9794783213/6955630461/191869
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT 1 HD" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="AS | MALAYSIA",MY| ASTRO SUPERSPORT 1 HD
+http://startv365.com:80/9794783213/6955630461/6590
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT 1 HEVC" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="AS | MALAYSIA",MY| ASTRO SUPERSPORT 1 HEVC
+http://startv365.com:80/9794783213/6955630461/6591
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT 2 4K" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="AS | MALAYSIA",MY| ASTRO SUPERSPORT 2 4K
+http://startv365.com:80/9794783213/6955630461/7840
+#EXTINF:-1 tvg-id="astrosupersport2.my" tvg-name="MY| ASTRO SUPERSPORT 2 FHD" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="AS | MALAYSIA",MY| ASTRO SUPERSPORT 2 FHD
+http://startv365.com:80/9794783213/6955630461/191870
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT 2 HD" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="AS | MALAYSIA",MY| ASTRO SUPERSPORT 2 HD
+http://startv365.com:80/9794783213/6955630461/6589
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="MY| ASTRO SUPERSPORT 3 FHD" tvg-logo="https://lo1.in/MALAY/astroassp3.png" group-title="AS | MALAYSIA",MY| ASTRO SUPERSPORT 3 FHD
+http://startv365.com:80/9794783213/6955630461/191871
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT 3 HD" tvg-logo="https://lo1.in/MALAY/astroassp3.png" group-title="AS | MALAYSIA",MY| ASTRO SUPERSPORT 3 HD
+http://startv365.com:80/9794783213/6955630461/6588
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="MY| ASTRO SUPERSPORT 4 FHD" tvg-logo="https://lo1.in/MALAY/astroassp4.png" group-title="AS | MALAYSIA",MY| ASTRO SUPERSPORT 4 FHD
+http://startv365.com:80/9794783213/6955630461/191872
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT 4 HD" tvg-logo="https://lo1.in/MALAY/astroassp4.png" group-title="AS | MALAYSIA",MY| ASTRO SUPERSPORT 4 HD
+http://startv365.com:80/9794783213/6955630461/6592
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT 5 HD" tvg-logo="https://lo1.in/MALAY/astroassp5.png" group-title="AS | MALAYSIA",MY| ASTRO SUPERSPORT 5 HD
+http://startv365.com:80/9794783213/6955630461/400251884
+#EXTINF:-1 tvg-id="astrocricket.my" tvg-name="MY| ASTRO CRICKET FHD" tvg-logo="https://lo1.in/MALAY/astrocri.png" group-title="AS | MALAYSIA",MY| ASTRO CRICKET FHD
+http://startv365.com:80/9794783213/6955630461/191861
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO CRICKET HD" tvg-logo="https://lo1.in/MALAY/astrocri.png" group-title="AS | MALAYSIA",MY| ASTRO CRICKET HD
+http://startv365.com:80/9794783213/6955630461/6587
+#EXTINF:-1 tvg-id="rugbypass.my" tvg-name="MY| ASTRO RUGBY PASS TV HD" tvg-logo="https://lo1.in/MALAY/rgbypass.png" group-title="AS | MALAYSIA",MY| ASTRO RUGBY PASS TV HD
+http://startv365.com:80/9794783213/6955630461/191868
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASIAN GAME 1 HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| ASIAN GAME 1 HD
+http://startv365.com:80/9794783213/6955630461/38026
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASIAN GAME 2 HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| ASIAN GAME 2 HD
+http://startv365.com:80/9794783213/6955630461/38025
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASIAN GAME 3 HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| ASIAN GAME 3 HD
+http://startv365.com:80/9794783213/6955630461/38024
+#EXTINF:-1 tvg-id="" tvg-name="MY| SPORTS SPO TV HD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="AS | MALAYSIA",MY| SPORTS SPO TV HD
+http://startv365.com:80/9794783213/6955630461/400251883
+#EXTINF:-1 tvg-id="" tvg-name="MY| SPORTS SPO TV 2 HD" tvg-logo="https://lo1.in/MALAY/spot.png" group-title="AS | MALAYSIA",MY| SPORTS SPO TV 2 HD
+http://startv365.com:80/9794783213/6955630461/400459082
+#EXTINF:-1 tvg-id="" tvg-name="MY| RTM SPORTS HD" tvg-logo="https://lo1.in/MALAY/prtm.png" group-title="AS | MALAYSIA",MY| RTM SPORTS HD
+http://startv365.com:80/9794783213/6955630461/5233
+#EXTINF:-1 tvg-id="beinsportsmax.my" tvg-name="MY| BEIN SPORTS MAX HD" tvg-logo="https://lo1.in/MALAY/bmax.png" group-title="AS | MALAYSIA",MY| BEIN SPORTS MAX HD
+http://startv365.com:80/9794783213/6955630461/191885
+#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS ENG 1 HD" tvg-logo="https://lo1.in/bs/bs1eng.png" group-title="AS | MALAYSIA",MY| BEIN SPORTS ENG 1 HD
+http://startv365.com:80/9794783213/6955630461/191883
+#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS ENG 2 HD" tvg-logo="https://lo1.in/bs/bs2eng.png" group-title="AS | MALAYSIA",MY| BEIN SPORTS ENG 2 HD
+http://startv365.com:80/9794783213/6955630461/191884
+#EXTINF:-1 tvg-id="beinsports.my" tvg-name="MY| BEIN SPORTS HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="AS | MALAYSIA",MY| BEIN SPORTS HD
+http://startv365.com:80/9794783213/6955630461/191881
+#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 2 HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="AS | MALAYSIA",MY| BEIN SPORTS 2 HD
+http://startv365.com:80/9794783213/6955630461/29639
+#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 3 HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="AS | MALAYSIA",MY| BEIN SPORTS 3 HD
+http://startv365.com:80/9794783213/6955630461/29637
+#EXTINF:-1 tvg-id="" tvg-name="MY| UNIFY SPORT 1 HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| UNIFY SPORT 1 HD
+http://startv365.com:80/9794783213/6955630461/12302
+#EXTINF:-1 tvg-id="" tvg-name="MY| UNIFY SPORT 2 HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| UNIFY SPORT 2 HD
+http://startv365.com:80/9794783213/6955630461/12301
+#EXTINF:-1 tvg-id="" tvg-name="MY| EUROSPORT FHD" tvg-logo="https://lo1.in/MALAY/eursp.png" group-title="AS | MALAYSIA",MY| EUROSPORT FHD
+http://startv365.com:80/9794783213/6955630461/29610
+#EXTINF:-1 tvg-id="eurosport.my" tvg-name="MY| EUROSPORT HD" tvg-logo="https://lo1.in/MALAY/eursp.png" group-title="AS | MALAYSIA",MY| EUROSPORT HD
+http://startv365.com:80/9794783213/6955630461/191924
+#EXTINF:-1 tvg-id="" tvg-name="MY| GOLF CHANNEL FHD" tvg-logo="https://lo1.in/MALAY/glfch.png" group-title="AS | MALAYSIA",MY| GOLF CHANNEL FHD
+http://startv365.com:80/9794783213/6955630461/29600
+#EXTINF:-1 tvg-id="golfchannel.my" tvg-name="MY| GOLF CHANNEL HD" tvg-logo="https://lo1.in/MALAY/glfch.png" group-title="AS | MALAYSIA",MY| GOLF CHANNEL HD
+http://startv365.com:80/9794783213/6955630461/191942
+#EXTINF:-1 tvg-id="" tvg-name="MY| PREMIER SPORTS HD" tvg-logo="https://lo1.in/MALAY/prsp.png" group-title="AS | MALAYSIA",MY| PREMIER SPORTS HD
+http://startv365.com:80/9794783213/6955630461/33005
+#EXTINF:-1 tvg-id="" tvg-name="MY| WWE NETWORK HD" tvg-logo="https://lo1.in/MALAY/wwenw.png" group-title="AS | MALAYSIA",MY| WWE NETWORK HD
+http://startv365.com:80/9794783213/6955630461/192015
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA FHD" tvg-logo="https://lo1.in/MALAY/astroar.png" group-title="AS | MALAYSIA",MY| ASTRO ARENA FHD
+http://startv365.com:80/9794783213/6955630461/29658
+#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 1" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="AS | MALAYSIA",MY| SONY TEN 1
+http://startv365.com:80/9794783213/6955630461/29566
+#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 2" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="AS | MALAYSIA",MY| SONY TEN 2
+http://startv365.com:80/9794783213/6955630461/29565
+#EXTINF:-1 tvg-id="" tvg-name="MY| SONY TEN 3" tvg-logo="https://lo1.in/MALAY/sny.png" group-title="AS | MALAYSIA",MY| SONY TEN 3
+http://startv365.com:80/9794783213/6955630461/29564
+#EXTINF:-1 tvg-id="" tvg-name="MY| SPL01 FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| SPL01 FHD
+http://startv365.com:80/9794783213/6955630461/38108
+#EXTINF:-1 tvg-id="" tvg-name="MY| SPL01 HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| SPL01 HD
+http://startv365.com:80/9794783213/6955630461/38107
+#EXTINF:-1 tvg-id="" tvg-name="MY| SPL01 SD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| SPL01 SD
+http://startv365.com:80/9794783213/6955630461/38106
+#EXTINF:-1 tvg-id="" tvg-name="MY| SPL02 FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| SPL02 FHD
+http://startv365.com:80/9794783213/6955630461/38105
+#EXTINF:-1 tvg-id="" tvg-name="MY| SPL02 HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| SPL02 HD
+http://startv365.com:80/9794783213/6955630461/38104
+#EXTINF:-1 tvg-id="" tvg-name="MY| SPL02 SD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| SPL02 SD
+http://startv365.com:80/9794783213/6955630461/38103
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| MOVIES |✦●✦ " tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",✦●✦| MOVIES |✦●✦ 
+http://startv365.com:80/9794783213/6955630461/212422
+#EXTINF:-1 tvg-id="celestialmovies.my" tvg-name="MY| CELESTIAL MOVIES HD" tvg-logo="https://lo1.in/MALAY/clmov.png" group-title="AS | MALAYSIA",MY| CELESTIAL MOVIES HD
+http://startv365.com:80/9794783213/6955630461/191899
+#EXTINF:-1 tvg-id="ccm.id" tvg-name="MY| CELESTIAL CLASSIC MOVIES HD" tvg-logo="https://lo1.in/MALAY/ccm.png" group-title="AS | MALAYSIA",MY| CELESTIAL CLASSIC MOVIES HD
+http://startv365.com:80/9794783213/6955630461/191896
+#EXTINF:-1 tvg-id="" tvg-name="MY| CINEMA WORLD HD" tvg-logo="https://lo1.in/MALAY/cwrl.png" group-title="AS | MALAYSIA",MY| CINEMA WORLD HD
+http://startv365.com:80/9794783213/6955630461/191901
+#EXTINF:-1 tvg-id="" tvg-name="MY| CINEMAX FHD" tvg-logo="https://lo1.in/MALAY/cimx.png" group-title="AS | MALAYSIA",MY| CINEMAX FHD
+http://startv365.com:80/9794783213/6955630461/29621
+#EXTINF:-1 tvg-id="cinemax.my" tvg-name="MY| CINEMAX HD" tvg-logo="https://lo1.in/MALAY/cimx.png" group-title="AS | MALAYSIA",MY| CINEMAX HD
+http://startv365.com:80/9794783213/6955630461/191902
+#EXTINF:-1 tvg-id="hits.my" tvg-name="MY| HITS HD" tvg-logo="https://lo1.in/MALAY/hits.png" group-title="AS | MALAYSIA",MY| HITS HD
+http://startv365.com:80/9794783213/6955630461/191946
+#EXTINF:-1 tvg-id="hitsmovies.id" tvg-name="MY| HITS MOVIES HD" tvg-logo="https://lo1.in/MALAY/hmov.png" group-title="AS | MALAYSIA",MY| HITS MOVIES HD
+http://startv365.com:80/9794783213/6955630461/191947
+#EXTINF:-1 tvg-id="kix.my" tvg-name="MY| KIX HD" tvg-logo="https://lo1.in/MALAY/kix.png" group-title="AS | MALAYSIA",MY| KIX HD
+http://startv365.com:80/9794783213/6955630461/191954
+#EXTINF:-1 tvg-id="" tvg-name="MY| TVB CLASSIC HD" tvg-logo="https://lo1.in/MALAY/tvbcls.png" group-title="AS | MALAYSIA",MY| TVB CLASSIC HD
+http://startv365.com:80/9794783213/6955630461/192005
+#EXTINF:-1 tvg-id="" tvg-name="MY| TVB JADE HD" tvg-logo="https://lo1.in/MALAY/tvbjade.png" group-title="AS | MALAYSIA",MY| TVB JADE HD
+http://startv365.com:80/9794783213/6955630461/192014
+#EXTINF:-1 tvg-id="" tvg-name="MY| STAR VIJAY-CH HD" tvg-logo="https://lo1.in/MALAY/astrostrv.png" group-title="AS | MALAYSIA",MY| STAR VIJAY-CH HD
+http://startv365.com:80/9794783213/6955630461/191992
+#EXTINF:-1 tvg-id="" tvg-name="MY| TVN FHD" tvg-logo="https://lo1.in/MALAY/nhd.png" group-title="AS | MALAYSIA",MY| TVN FHD
+http://startv365.com:80/9794783213/6955630461/29547
+#EXTINF:-1 tvg-id="tvn.my" tvg-name="MY| TVN HD" tvg-logo="https://lo1.in/MALAY/nhd.png" group-title="AS | MALAYSIA",MY| TVN HD
+http://startv365.com:80/9794783213/6955630461/192009
+#EXTINF:-1 tvg-id="" tvg-name="MY| TVN MOVIES FHD" tvg-logo="https://lo1.in/MALAY/nmov.png" group-title="AS | MALAYSIA",MY| TVN MOVIES FHD
+http://startv365.com:80/9794783213/6955630461/29546
+#EXTINF:-1 tvg-id="tvnmovies.my" tvg-name="MY| TVN MOVIES HD" tvg-logo="https://lo1.in/MALAY/tvnmovies.png" group-title="AS | MALAYSIA",MY| TVN MOVIES HD
+http://startv365.com:80/9794783213/6955630461/192010
+#EXTINF:-1 tvg-id="boo.my" tvg-name="MY| ASTRO BOO HD" tvg-logo="https://lo1.in/MALAY/boo.png" group-title="AS | MALAYSIA",MY| ASTRO BOO HD
+http://startv365.com:80/9794783213/6955630461/400200333
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BOO FHD" tvg-logo="https://lo1.in/MALAY/boo.png" group-title="AS | MALAYSIA",MY| ASTRO BOO FHD
+http://startv365.com:80/9794783213/6955630461/29626
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO AOD 311 HD" tvg-logo="https://lo1.in/MALAY/astroaod.png" group-title="AS | MALAYSIA",MY| ASTRO AOD 311 HD
+http://startv365.com:80/9794783213/6955630461/29651
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO AOD 351 HD" tvg-logo="https://lo1.in/MALAY/astroaod.png" group-title="AS | MALAYSIA",MY| ASTRO AOD 351 HD
+http://startv365.com:80/9794783213/6955630461/191847
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO AOD 352 HD" tvg-logo="https://lo1.in/MALAY/astroaod.png" group-title="AS | MALAYSIA",MY| ASTRO AOD 352 HD
+http://startv365.com:80/9794783213/6955630461/191848
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO AOD 353 HD" tvg-logo="https://lo1.in/MALAY/astroaod.png" group-title="AS | MALAYSIA",MY| ASTRO AOD 353 HD
+http://startv365.com:80/9794783213/6955630461/191849
+#EXTINF:-1 tvg-id="astroondemand362.my" tvg-name="MY| ASTRO AOD 362 HD" tvg-logo="https://lo1.in/MALAY/astroaod.png" group-title="AS | MALAYSIA",MY| ASTRO AOD 362 HD
+http://startv365.com:80/9794783213/6955630461/191850
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO AOD 354" tvg-logo="https://lo1.in/MALAY/astroaod.png" group-title="AS | MALAYSIA",MY| ASTRO AOD 354
+http://startv365.com:80/9794783213/6955630461/29650
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO PREMIER HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| ASTRO PREMIER HD
+http://startv365.com:80/9794783213/6955630461/38023
+#EXTINF:-1 tvg-id="" tvg-name="MY| HBO FHD" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="AS | MALAYSIA",MY| HBO FHD
+http://startv365.com:80/9794783213/6955630461/29599
+#EXTINF:-1 tvg-id="hbo.my" tvg-name="MY| HBO HD" tvg-logo="https://lo1.in/MALAY/hbo.png" group-title="AS | MALAYSIA",MY| HBO HD
+http://startv365.com:80/9794783213/6955630461/191943
+#EXTINF:-1 tvg-id="" tvg-name="MY| HBO HITS FHD" tvg-logo="https://lo1.in/MALAY/hbohit.png" group-title="AS | MALAYSIA",MY| HBO HITS FHD
+http://startv365.com:80/9794783213/6955630461/29598
+#EXTINF:-1 tvg-id="" tvg-name="MY| HBO HITS HD" tvg-logo="https://lo1.in/MALAY/hbohit.png" group-title="AS | MALAYSIA",MY| HBO HITS HD
+http://startv365.com:80/9794783213/6955630461/400251887
+#EXTINF:-1 tvg-id="" tvg-name="MY| HBO FAMILY FHD" tvg-logo="https://lo1.in/MALAY/hbofam.png" group-title="AS | MALAYSIA",MY| HBO FAMILY FHD
+http://startv365.com:80/9794783213/6955630461/29597
+#EXTINF:-1 tvg-id="" tvg-name="MY| HBO FAMILY HD" tvg-logo="https://lo1.in/MALAY/hbofam.png" group-title="AS | MALAYSIA",MY| HBO FAMILY HD
+http://startv365.com:80/9794783213/6955630461/400251886
+#EXTINF:-1 tvg-id="" tvg-name="MY| HBO Signature FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| HBO Signature FHD
+http://startv365.com:80/9794783213/6955630461/38109
+#EXTINF:-1 tvg-id="" tvg-name="MY| HBO Signature HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| HBO Signature HD
+http://startv365.com:80/9794783213/6955630461/38110
+#EXTINF:-1 tvg-id="" tvg-name="MY| HBO Signature SD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| HBO Signature SD
+http://startv365.com:80/9794783213/6955630461/38111
+#EXTINF:-1 tvg-id="" tvg-name="MY| LUXETV" tvg-logo="" group-title="AS | MALAYSIA",MY| LUXETV
+http://startv365.com:80/9794783213/6955630461/157036
+#EXTINF:-1 tvg-id="" tvg-name="MY| HBO RED" tvg-logo="" group-title="AS | MALAYSIA",MY| HBO RED
+http://startv365.com:80/9794783213/6955630461/157037
+#EXTINF:-1 tvg-id="" tvg-name="MY| COMEDY CENTRAL" tvg-logo="" group-title="AS | MALAYSIA",MY| COMEDY CENTRAL
+http://startv365.com:80/9794783213/6955630461/157038
+#EXTINF:-1 tvg-id="" tvg-name="MY| ZEE TAMIL HD" tvg-logo="https://lo1.in/MALAY/astrozt.png" group-title="AS | MALAYSIA",MY| ZEE TAMIL HD
+http://startv365.com:80/9794783213/6955630461/192017
+#EXTINF:-1 tvg-id="" tvg-name="MY| COLORS HD" tvg-logo="https://lo1.in/MALAY/clrs.png" group-title="AS | MALAYSIA",MY| COLORS HD
+http://startv365.com:80/9794783213/6955630461/400205157
+#EXTINF:-1 tvg-id="" tvg-name="MY| COLORS TAMIL HD" tvg-logo="https://lo1.in/MALAY/astroclrta.png" group-title="AS | MALAYSIA",MY| COLORS TAMIL HD
+http://startv365.com:80/9794783213/6955630461/400205156
+#EXTINF:-1 tvg-id="" tvg-name="MY| SUN TV HD" tvg-logo="https://lo1.in/MALAY/sun.png" group-title="AS | MALAYSIA",MY| SUN TV HD
+http://startv365.com:80/9794783213/6955630461/400205155
+#EXTINF:-1 tvg-id="" tvg-name="MY| SUN MUSIC HD" tvg-logo="https://lo1.in/MALAY/sunmus.png" group-title="AS | MALAYSIA",MY| SUN MUSIC HD
+http://startv365.com:80/9794783213/6955630461/191993
+#EXTINF:-1 tvg-id="" tvg-name="MY| LIFETIME HD" tvg-logo="https://lo1.in/MALAY/lftm.png" group-title="AS | MALAYSIA",MY| LIFETIME HD
+http://startv365.com:80/9794783213/6955630461/400251890
+#EXTINF:-1 tvg-id="" tvg-name="MY| PRIMETIME HD" tvg-logo="https://lo1.in/MALAY/prtm.png" group-title="AS | MALAYSIA",MY| PRIMETIME HD
+http://startv365.com:80/9794783213/6955630461/400251888
+#EXTINF:-1 tvg-id="" tvg-name="MY| SHOWCASE MOVIES HD" tvg-logo="https://lo1.in/MALAY/shwcas.png" group-title="AS | MALAYSIA",MY| SHOWCASE MOVIES HD
+http://startv365.com:80/9794783213/6955630461/400251885
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BOX OFFICE [THANGATHIRI] HD" tvg-logo="https://lo1.in/MALAY/astrobo.png" group-title="AS | MALAYSIA",MY| ASTRO BOX OFFICE [THANGATHIRI] HD
+http://startv365.com:80/9794783213/6955630461/191839
+#EXTINF:-1 tvg-id="astrobollyone.my" tvg-name="MY| ASTRO BOX OFFICE BOLLYONE HD" tvg-logo="https://lo1.in/MALAY/bl1.png" group-title="AS | MALAYSIA",MY| ASTRO BOX OFFICE BOLLYONE HD
+http://startv365.com:80/9794783213/6955630461/191890
+#EXTINF:-1 tvg-id="tvokey.my" tvg-name="MY| TV OKEY HD" tvg-logo="https://lo1.in/MALAY/okey.png" group-title="AS | MALAYSIA",MY| TV OKEY HD
+http://startv365.com:80/9794783213/6955630461/400205152
+#EXTINF:-1 tvg-id="" tvg-name="MY| ROCK Action FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| ROCK Action FHD
+http://startv365.com:80/9794783213/6955630461/38117
+#EXTINF:-1 tvg-id="" tvg-name="MY| ROCK Action HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| ROCK Action HD
+http://startv365.com:80/9794783213/6955630461/38116
+#EXTINF:-1 tvg-id="" tvg-name="MY| ROCK Action SD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| ROCK Action SD
+http://startv365.com:80/9794783213/6955630461/38115
+#EXTINF:-1 tvg-id="" tvg-name="MY| SKYNET ZEE TV HD" tvg-logo="https://lo1.in/MALAY/skynetmo.png" group-title="AS | MALAYSIA",MY| SKYNET ZEE TV HD
+http://startv365.com:80/9794783213/6955630461/191987
+#EXTINF:-1 tvg-id="" tvg-name="MY| TA-DAA! HD" tvg-logo="https://lo1.in/MALAY/tada.png" group-title="AS | MALAYSIA",MY| TA-DAA! HD
+http://startv365.com:80/9794783213/6955630461/400252171
+#EXTINF:-1 tvg-id="scm.id" tvg-name="MY| SCM HD" tvg-logo="https://lo1.in/MALAY/scm.png" group-title="AS | MALAYSIA",MY| SCM HD
+http://startv365.com:80/9794783213/6955630461/191977
+#EXTINF:-1 tvg-id="" tvg-name="MY| AXN FHD" tvg-logo="https://lo1.in/por/axnhd.png" group-title="AS | MALAYSIA",MY| AXN FHD
+http://startv365.com:80/9794783213/6955630461/29645
+#EXTINF:-1 tvg-id="axn.my" tvg-name="MY| AXN HD" tvg-logo="https://lo1.in/por/axnhd.png" group-title="AS | MALAYSIA",MY| AXN HD
+http://startv365.com:80/9794783213/6955630461/191876
+#EXTINF:-1 tvg-id="" tvg-name="MY| TVBS ASIA HD" tvg-logo="https://lo1.in/MALAY/tvbssia.png" group-title="AS | MALAYSIA",MY| TVBS ASIA HD
+http://startv365.com:80/9794783213/6955630461/33015
+#EXTINF:-1 tvg-id="" tvg-name="MY| MEWATCH LIVE 1 FHD" tvg-logo="https://lo1.in/MALAY/ME1.png" group-title="AS | MALAYSIA",MY| MEWATCH LIVE 1 FHD
+http://startv365.com:80/9794783213/6955630461/54906
+#EXTINF:-1 tvg-id="" tvg-name="MY| MEWATCH LIVE 1 HD" tvg-logo="https://lo1.in/MALAY/ME1.png" group-title="AS | MALAYSIA",MY| MEWATCH LIVE 1 HD
+http://startv365.com:80/9794783213/6955630461/54905
+#EXTINF:-1 tvg-id="" tvg-name="MY| MEWATCH LIVE 1 SD" tvg-logo="https://lo1.in/MALAY/ME1.png" group-title="AS | MALAYSIA",MY| MEWATCH LIVE 1 SD
+http://startv365.com:80/9794783213/6955630461/54904
+#EXTINF:-1 tvg-id="" tvg-name="MY| MEWATCH LIVE 2 HD" tvg-logo="https://lo1.in/MALAY/ME2.png" group-title="AS | MALAYSIA",MY| MEWATCH LIVE 2 HD
+http://startv365.com:80/9794783213/6955630461/54903
+#EXTINF:-1 tvg-id="" tvg-name="MY| MEWATCH LIVE 2 SD" tvg-logo="https://lo1.in/MALAY/ME2.png" group-title="AS | MALAYSIA",MY| MEWATCH LIVE 2 SD
+http://startv365.com:80/9794783213/6955630461/54902
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| DOCUMANTARY |✦●✦ " tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",✦●✦| DOCUMANTARY |✦●✦ 
+http://startv365.com:80/9794783213/6955630461/212424
+#EXTINF:-1 tvg-id="" tvg-name="MY| TRAVEL CHANNEL HD" tvg-logo="https://lo1.in/MALAY/trvlchn.png" group-title="AS | MALAYSIA",MY| TRAVEL CHANNEL HD
+http://startv365.com:80/9794783213/6955630461/191995
+#EXTINF:-1 tvg-id="" tvg-name="MY| ANIMAL PLANET FHD" tvg-logo="https://lo1.in/MALAY/anplnt.png" group-title="AS | MALAYSIA",MY| ANIMAL PLANET FHD
+http://startv365.com:80/9794783213/6955630461/29647
+#EXTINF:-1 tvg-id="animalplanet.my" tvg-name="MY| ANIMAL PLANET HD" tvg-logo="https://lo1.in/MALAY/anplnt.png" group-title="AS | MALAYSIA",MY| ANIMAL PLANET HD
+http://startv365.com:80/9794783213/6955630461/191844
+#EXTINF:-1 tvg-id="crimeandnvestigation.my" tvg-name="MY| CRIME INVESTIGATION HD" tvg-logo="https://lo1.in/MALAY/crmin.png" group-title="AS | MALAYSIA",MY| CRIME INVESTIGATION HD
+http://startv365.com:80/9794783213/6955630461/191910
+#EXTINF:-1 tvg-id="discoveryasia.my" tvg-name="MY| DISCOVERY ASIA HD" tvg-logo="https://lo1.in/MALAY/disc.png" group-title="AS | MALAYSIA",MY| DISCOVERY ASIA HD
+http://startv365.com:80/9794783213/6955630461/191912
+#EXTINF:-1 tvg-id="discoverychannel.my" tvg-name="MY| DISCOVERY CHANNEL HD" tvg-logo="https://lo1.in/MALAY/disc.png" group-title="AS | MALAYSIA",MY| DISCOVERY CHANNEL HD
+http://startv365.com:80/9794783213/6955630461/191913
+#EXTINF:-1 tvg-id="" tvg-name="MY| DMAX FHD" tvg-logo="https://lo1.in/MALAY/dmx.png" group-title="AS | MALAYSIA",MY| DMAX FHD
+http://startv365.com:80/9794783213/6955630461/29612
+#EXTINF:-1 tvg-id="dmax.my" tvg-name="MY| DMAX HD" tvg-logo="https://lo1.in/MALAY/dmx.png" group-title="AS | MALAYSIA",MY| DMAX HD
+http://startv365.com:80/9794783213/6955630461/191918
+#EXTINF:-1 tvg-id="nationalgeographicchannel.my" tvg-name="MY| NAT GEO ASIA HD" tvg-logo="https://lo1.in/MALAY/ng.png" group-title="AS | MALAYSIA",MY| NAT GEO ASIA HD
+http://startv365.com:80/9794783213/6955630461/191959
+#EXTINF:-1 tvg-id="natgeowild.my" tvg-name="MY| NAT GEO WILD HD" tvg-logo="https://lo1.in/MALAY/ngw.png" group-title="AS | MALAYSIA",MY| NAT GEO WILD HD
+http://startv365.com:80/9794783213/6955630461/191962
+#EXTINF:-1 tvg-id="" tvg-name="MY| AFN FHD" tvg-logo="https://lo1.in/MALAY/afn.png" group-title="AS | MALAYSIA",MY| AFN FHD
+http://startv365.com:80/9794783213/6955630461/29646
+#EXTINF:-1 tvg-id="" tvg-name="MY| AFN HD" tvg-logo="https://lo1.in/MALAY/afn.png" group-title="AS | MALAYSIA",MY| AFN HD
+http://startv365.com:80/9794783213/6955630461/191842
+#EXTINF:-1 tvg-id="history.my" tvg-name="MY| HISTORY HD" tvg-logo="https://lo1.in/MALAY/his.png" group-title="AS | MALAYSIA",MY| HISTORY HD
+http://startv365.com:80/9794783213/6955630461/191945
+#EXTINF:-1 tvg-id="foodnetwork.my" tvg-name="MY| FOOD NETWORK HD" tvg-logo="https://lo1.in/MALAY/fdnw.png" group-title="AS | MALAYSIA",MY| FOOD NETWORK HD
+http://startv365.com:80/9794783213/6955630461/191925
+#EXTINF:-1 tvg-id="lifestyleandfashion.id" tvg-name="MY| BBC LIFE STYLE HD" tvg-logo="https://lo1.in/MALAY/bbclfst.png" group-title="AS | MALAYSIA",MY| BBC LIFE STYLE HD
+http://startv365.com:80/9794783213/6955630461/400200779
+#EXTINF:-1 tvg-id="" tvg-name="MY| BBC LIFE STYLE FHD" tvg-logo="https://lo1.in/MALAY/bbclfst.png" group-title="AS | MALAYSIA",MY| BBC LIFE STYLE FHD
+http://startv365.com:80/9794783213/6955630461/29643
+#EXTINF:-1 tvg-id="" tvg-name="MY| PARAMOUNT NETWORK HD" tvg-logo="https://lo1.in/uk/prmnt.png" group-title="AS | MALAYSIA",MY| PARAMOUNT NETWORK HD
+http://startv365.com:80/9794783213/6955630461/29579
+#EXTINF:-1 tvg-id="hgtv.my" tvg-name="MY| HGTV HD" tvg-logo="https://lo1.in/MALAY/hgtv.png" group-title="AS | MALAYSIA",MY| HGTV HD
+http://startv365.com:80/9794783213/6955630461/191944
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦| KIDS |✦●✦ " tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",✦●✦| KIDS |✦●✦ 
+http://startv365.com:80/9794783213/6955630461/212423
+#EXTINF:-1 tvg-id="astrotutortvpt3.my" tvg-name="MY| ASTRO TUTOR TV PT3 HD" tvg-logo="https://lo1.in/MALAY/astrotpt3.png" group-title="AS | MALAYSIA",MY| ASTRO TUTOR TV PT3 HD
+http://startv365.com:80/9794783213/6955630461/191996
+#EXTINF:-1 tvg-id="astrotutortvspm.my" tvg-name="MY| ASTRO TUTOR TV SPM HD" tvg-logo="https://lo1.in/MALAY/astrotspm.png" group-title="AS | MALAYSIA",MY| ASTRO TUTOR TV SPM HD
+http://startv365.com:80/9794783213/6955630461/191997
+#EXTINF:-1 tvg-id="astrotutortv.my" tvg-name="MY| ASTRO TUTOR TV UPSR HD" tvg-logo="https://lo1.in/MALAY/astrotup.png" group-title="AS | MALAYSIA",MY| ASTRO TUTOR TV UPSR HD
+http://startv365.com:80/9794783213/6955630461/191998
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO CERIA FHD" tvg-logo="https://lo1.in/MALAY/astrocer.png" group-title="AS | MALAYSIA",MY| ASTRO CERIA FHD
+http://startv365.com:80/9794783213/6955630461/29656
+#EXTINF:-1 tvg-id="astroceria.my" tvg-name="MY| ASTRO CERIA HD" tvg-logo="https://lo1.in/MALAY/astrocer.png" group-title="AS | MALAYSIA",MY| ASTRO CERIA HD
+http://startv365.com:80/9794783213/6955630461/191860
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO XIAO TAI YANG FHD" tvg-logo="https://lo1.in/MALAY/astrowxy.png" group-title="AS | MALAYSIA",MY| ASTRO XIAO TAI YANG FHD
+http://startv365.com:80/9794783213/6955630461/29659
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO XIAO TAI YANG HD" tvg-logo="https://lo1.in/MALAY/astrowxy.png" group-title="AS | MALAYSIA",MY| ASTRO XIAO TAI YANG HD
+http://startv365.com:80/9794783213/6955630461/192016
+#EXTINF:-1 tvg-id="boomerang.id" tvg-name="MY| BOOMERANG HD" tvg-logo="https://lo1.in/MALAY/bmrng.png" group-title="AS | MALAYSIA",MY| BOOMERANG HD
+http://startv365.com:80/9794783213/6955630461/191893
+#EXTINF:-1 tvg-id="nickelodeon.my" tvg-name="MY| NICKELODEON HD" tvg-logo="https://lo1.in/MALAY/nickd.png" group-title="AS | MALAYSIA",MY| NICKELODEON HD
+http://startv365.com:80/9794783213/6955630461/191966
+#EXTINF:-1 tvg-id="nickelodeonjunior.my" tvg-name="MY| NICK JUNIOR HD" tvg-logo="https://lo1.in/MALAY/nickjr.png" group-title="AS | MALAYSIA",MY| NICK JUNIOR HD
+http://startv365.com:80/9794783213/6955630461/191964
+#EXTINF:-1 tvg-id="cartoonnetwork.my" tvg-name="MY| CARTOON NETWORK HD" tvg-logo="https://lo1.in/MALAY/cn.png" group-title="AS | MALAYSIA",MY| CARTOON NETWORK HD
+http://startv365.com:80/9794783213/6955630461/191894
+#EXTINF:-1 tvg-id="babytv.my" tvg-name="MY| BABY TV HD" tvg-logo="https://lo1.in/MALAY/bby.png" group-title="AS | MALAYSIA",MY| BABY TV HD
+http://startv365.com:80/9794783213/6955630461/191877
+#EXTINF:-1 tvg-id="" tvg-name="MY| MOONBUG KIDS HD" tvg-logo="https://lo1.in/dstv/moonbug.png" group-title="AS | MALAYSIA",MY| MOONBUG KIDS HD
+http://startv365.com:80/9794783213/6955630461/33010
+#EXTINF:-1 tvg-id="animax.my" tvg-name="MY| ANIMAX HD" tvg-logo="https://lo1.in/MALAY/anmx.png" group-title="AS | MALAYSIA",MY| ANIMAX HD
+http://startv365.com:80/9794783213/6955630461/191845
+#EXTINF:-1 tvg-id="" tvg-name="MY| ANIPLUS HD" tvg-logo="https://lo1.in/MALAY/anipls.png" group-title="AS | MALAYSIA",MY| ANIPLUS HD
+http://startv365.com:80/9794783213/6955630461/191846
+#EXTINF:-1 tvg-id="cbeebies.id" tvg-name="MY| BBC CBEEBIES HD" tvg-logo="https://lo1.in/uk/cbeb.png" group-title="AS | MALAYSIA",MY| BBC CBEEBIES HD
+http://startv365.com:80/9794783213/6955630461/400200778
+#EXTINF:-1 tvg-id="" tvg-name="MY| GEM FHD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| GEM FHD
+http://startv365.com:80/9794783213/6955630461/38120
+#EXTINF:-1 tvg-id="" tvg-name="MY| GEM HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| GEM HD
+http://startv365.com:80/9794783213/6955630461/38119
+#EXTINF:-1 tvg-id="" tvg-name="MY| GEM SD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="AS | MALAYSIA",MY| GEM SD
+http://startv365.com:80/9794783213/6955630461/38118
