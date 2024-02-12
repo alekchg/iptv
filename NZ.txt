@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1,[NZ] TRACK SIDE 1 HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630570
+#EXTINF:-1,[NZ] TRACK SIDE 2 HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630571
+#EXTINF:-1,[NZ] BBC EARTH HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630573
+#EXTINF:-1,[NZ] BBC WORLD NEWS HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630574
+#EXTINF:-1,[NZ] SKY NEWS HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630575
+#EXTINF:-1,[NZ] CNN HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630576
+#EXTINF:-1,[NZ] JUICE TV HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630577
+#EXTINF:-1,[NZ] TVNZ 1 HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/976188
+#EXTINF:-1,[NZ] TVNZ 2 HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/976187
+#EXTINF:-1,[NZ] TVNZ DUKE HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/976186
+#EXTINF:-1,[NZ] WAIRARAPA TV HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630579
+#EXTINF:-1,[NZ] PARLIAMENT TV HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630580
+#EXTINF:-1,[NZ] FIRSTLIGHT HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630582
+#EXTINF:-1,[NZ] TVSN SHOPPING HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630583
+#EXTINF:-1,[NZ] AL JAZEERA HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630584
+#EXTINF:-1,[NZ] TE REO HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630585
+#EXTINF:-1,[NZ] MAORI TELEVISION HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630586
+#EXTINF:-1,[NZ] SKY SPORT 1 HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630568
+#EXTINF:-1,[NZ] SKY SPORT 1 HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630587
+#EXTINF:-1,[NZ] SKY SPORT 2 HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630588
+#EXTINF:-1,[NZ] SKY SPORT 3 HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630589
+#EXTINF:-1,[NZ] SKY SPORT 4 HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630590
+#EXTINF:-1,[NZ] SKY SPORT 5 HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630591
+#EXTINF:-1,[NZ] SKY SPORT 6 HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630592
+#EXTINF:-1,[NZ] SKY SPORT 7 HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630593
+#EXTINF:-1,[NZ] SKY SPORT 8 HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630594
+#EXTINF:-1,[NZ] SKY SPORT 9 HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630595
+#EXTINF:-1,[NZ] SKY SPORT 10 SELECT HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630596
+#EXTINF:-1,[NZ] SPARK SPORTS EVENT 1
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630597
+#EXTINF:-1,[NZ] SPARK SPORTS EVENT 2
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630598
+#EXTINF:-1,[NZ] SPARK SPORTS EVENT 3
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630599
+#EXTINF:-1,[NZ] SPARK SPORTS EVENT 4
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630600
+#EXTINF:-1,[NZ] SPARK SPORTS EVENT 5
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630601
+#EXTINF:-1,[NZ] SPARK SPORTS EVENT 6
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630602
+#EXTINF:-1,[NZ] SPARK SPORTS EVENT 7
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630603
+#EXTINF:-1,[NZ] SPARK SPORTS EVENT 8
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630604
+#EXTINF:-1,[NZ] SPARK SPORTS EVENT 9
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630605
+#EXTINF:-1,[NZ] SPARK SPORTS EVENT 10
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/630606
+#EXTINF:-1,[NZ] SKY SPORT 1 HD
+http://dm.lion-ott.com:80/MKsY7542/x8zn1816/689432
